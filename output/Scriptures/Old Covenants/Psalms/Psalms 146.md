@@ -1,0 +1,5 @@
+[[Psalms 145|<< Psalms 145]]  |  [[Psalms 147|Psalms 147 >>]]
+
+### Psalm 146
+###### 1
+Praise the Lord. Praise the Lord, O my soul. While I live will I praise the Lord. I will sing praises unto my God while I have any being. Put not your trust in princes, nor in the son of man in whom there is no help. His breath goes forth, he returns to his earth; in that very day his thoughts perish. Happy is he that has the God of Jacob for his help, whose hope is in the Lord his God who made heaven, and earth, the sea, and all that therein is; who keeps truth for ever; who executes judgment for the oppressed; who gives food to the hungry. The Lord releases the prisoners. The Lord opens the eyes of the blind. The Lord raises the bowed down. The Lord loves the righteous. The Lord preserves the strangers. He relieves the fatherless and widow, but the way of the wicked he turns upside down. The Lord shall reign for ever, even your God, O Zion, unto all generations. Praise the Lord.

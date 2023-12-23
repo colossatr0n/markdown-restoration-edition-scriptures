@@ -1,0 +1,8 @@
+[[Principalities|<< Principalities]]  |  [[Promised Land|Promised Land >>]]
+
+### Principles and Rules
+“What is the difference between ‘principles’ and ‘rules?’ Assuming you define ‘principles’ as the underlying reason for the commandment, then you’re also speaking about what the Apostle Paul called the *spirit of the law* as opposed to the *letter of the law*. He said, *The letter kills, but the spirit gives life* (2 Corinthians 1:9). I think he was right. Any rule can be abused. Any rule can become broken even when it is being kept. Rules can become harsh taskmasters, inflicting punishment when they were designed to bless. The underlying principle, however, always seeks to bless. The underlying principle was designed as a blessing. When the rule begins to oppress, then [it] should be abandoned in favor of the principle. Rules have and do change. But principles remain constant. The brutality of the rules was exposed by Christ when He healed on the Sabbath. He did that specifically to demonstrate the futility of ignoring the principle while only adhering to the law/rule. In the English common law tradition there were cases ‘at law’ and cases ‘in equity.’ They divided the Courts into separate forums, where courts of law could not do equity. But courts of equity could ignore the provisions of law, modify them, or establish a higher principle which resolved fairly a dispute despite some legal impediment to the relief sought. That tradition follows the Lord’s example. Principles ennoble. Rules preoccupy.”1*See also* VIRTUE; RIGHTEOUSNESS.
+
+
+
+1 “Principles and Rules,” Feb. 10, 2010, blog post.

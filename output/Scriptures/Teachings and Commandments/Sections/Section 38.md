@@ -1,0 +1,23 @@
+[[Section 37|<< Section 37]]  |  [[Section 39|Section 39 >>]]
+
+### SECTION 38
+
+*A revelation given at Thompson, Ohio, 20 May 1831, through Joseph Smith Jr. to bishop Edward Partridge concerning the property of the church, etc.*
+
+###### 1
+Hearken unto me, says the Lord your God, and I will speak unto my servant Edward Partridge and give unto him directions, for it must needs be that he receive directions how to organize this people; for it must needs be that they are organized according to my laws. If otherwise, they will be cut off.
+
+###### 2
+Wherefore, let my servant Edward Partridge receive the properties of this people which have covenanted with me to obey the laws which I have given, and let my servant Edward Partridge receive the money as it shall be laid before him according to the covenant, and go and obtain a deed, or article, of this land unto himself. For I have appointed him to receive these things, and thus through him the properties of this church shall be consecrated unto me.
+
+###### 3
+Wherefore, let my servant Edward Partridge and those whom he has chosen, in whom I am well pleased, appoint unto this people their portion, every man alike, according to their families, according to their wants and their needs. And let my servant Edward Partridge, when he shall appoint a man his portion, give unto him a writing that shall secure unto him his portion, that he shall hold it of the church, until he transgress and is not counted worthy by the voice of the church, according to the laws, to belong to the church, and thus all things shall be made sure according to the laws of the land.
+
+###### 4
+And let that which belongs to this people be appointed unto this people. And the money which is left unto this people, let there be an agent appointed unto this people to take the money to provide food and raiment according to the wants of this people. And let every man deal honestly, and be alike among this people, and receive alike, that you may be one even as I have commanded you. And let that which belongs to this people not be taken and given unto that of another church. Wherefore, if another church would receive money of this church, let them pay unto this church again, according as they shall agree. And this shall be done through the bishop or the agent which shall be appointed by the voice of the church.
+
+###### 5
+Again, let the bishop appoint a storehouse unto this church, and let all things, both in money and in meat, which is more than is needful for the want of this people, be kept in the hands of the bishop. And let him also reserve unto himself, for his own wants and for the wants of his family, as he shall be employed in doing this business. And thus I grant unto this people a privilege of organizing themselves according to my laws, and I consecrate unto them this land for a little season, until I the Lord shall provide for them otherwise and command them to go hence. And the hour and the day is not given unto them, wherefore, let them act upon this land as for years, and this shall turn unto them for their good.
+
+###### 6
+Behold, this shall be an example unto my servant Edward in other places, in all churches. And whoever is found a faithful, and just, and a wise steward, shall enter into the joy of his Lord, and shall inherit eternal life. Verily, I say unto you, I am Jesus Christ, who comes quickly, in an hour you think not. Even so, Amen.

@@ -1,0 +1,17 @@
+[[2 Chronicles 8|<< 2 Chronicles 8]]  |  [[2 Chronicles 10|2 Chronicles 10 >>]]
+
+### Chapter 9
+###### 1
+So Ahaziah the son of Jehoram king of Judah reigned; twenty-two years old was Ahaziah when he began to reign, and he reigned one year in Jerusalem. His mother’s name also was Athaliah, the daughter of Omri.
+
+###### 2
+He also walked in the ways of the house of Ahab, for his mother was his counselor to do wickedly. Wherefore, he did evil in the sight of the Lord like the house of Ahab, for they were his counselors after the death of his father, to his destruction. He walked also after their counsel, and went with Joram the son of Ahab, king of Israel, to war against Hazael king of Syria at Ramoth-Gilead, and the Syrians smote Joram. And he returned to be healed in Jezreel because of the wounds which were given him at Ramah when he fought with Hazael king of Syria.
+
+###### 3
+And Azariah the son of Jehoram, king of Judah, went down to see Joram the son of Ahab at Jezreel, because he was sick. And the destruction of Ahaziah was of God, by coming to Joram; for when he had come, he went out with Joram against Jehu the son of Nimshi, whom the Lord had anointed to cut off the house of Ahab.
+
+###### 4
+And it came to pass that when Jehu was executing judgment upon the house of Ahab, and found the princes of Judah and the sons of the brethren of Ahaziah that ministered to Ahaziah, he slew them. And he sought Ahaziah, and they caught him — for he was hidden in Samaria — and brought him to Jehu. And when they had slain him, they buried him — Because, said they, he is the son of Jehoshaphat, who sought the Lord with all his heart. So the house of Ahaziah had no power to keep still the kingdom.
+
+###### 5
+But when Athaliah the mother of Ahaziah saw that her son was dead, she arose and destroyed all the royal seed of the house of Judah. But Jehoshabeath, the daughter of the king, took Joash the son of Ahaziah, and stole him from among the king’s sons that were slain, and put him and his nurse in a bedchamber. So Jehoshabeath, the daughter of king Jehoram, the wife of Jehoiada the priest — for she was the sister of Ahaziah — hid him from Athaliah, so that she slew him not. And he was with them hidden in the house of God six years. And Athaliah reigned over the land.

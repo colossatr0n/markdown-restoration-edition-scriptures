@@ -1,0 +1,26 @@
+[[Leviticus 13|<< Leviticus 13]]  |  [[Numbers 1|Numbers 1 >>]]
+
+### Chapter 14
+###### 1
+And the Lord spoke unto Moses, saying, Speak unto the children of Israel and say unto them, When a man shall make a singular vow, the people shall be for the Lord by your estimation. And your estimation shall be, of the male from twenty years old even unto sixty years old — even your estimation shall be fifty shekels of silver, after the shekel of the sanctuary. And if it be a female, then your estimation shall be thirty shekels. And if it be from five years old even unto twenty years old, then your estimation shall be, of the male, twenty shekels, and for the female, ten shekels. And if it be from a month old even unto five years old, then your estimation shall be, of the male, five shekels of silver, and for the female, your estimation shall be three shekels of silver. And if it be from sixty years old and above, if it be a male, then your estimation shall be fifteen shekels, and for the female, ten shekels. But if he be poorer than your estimation, then he shall present himself before the priest, and the priest shall value him. According to his ability that vowed shall the priest value him.
+
+###### 2
+And if it is a beast whereof men bring an offering unto the Lord, all that any man gives of such unto the Lord shall be holy. He shall not alter it nor change it, a good for a bad or a bad for a good. And if he shall at all change beast for beast, then it and the exchange thereof shall be holy. And if it be any unclean beast of which they do not offer a sacrifice unto the Lord, then he shall present the beast before the priest. And the priest shall value it, whether it be good or bad. As you value it, who are the priest, so shall it be. But if he will at all redeem it, then he shall add a fifth part thereof unto your estimation.
+
+###### 3
+And when a man shall sanctify his house to be holy unto the Lord, then the priest shall estimate it, whether it be good or bad. As the priest shall estimate it, so shall it stand. And if he that sanctified it will redeem his house, then he shall add the fifth part of the money of your estimation unto it, and it shall be his.
+
+###### 4
+And if a man shall sanctify unto the Lord some part of a field of his possession, then your estimation shall be according to the seed thereof. A homer of barley seed shall be valued at fifty shekels of silver. If he sanctify his field from the year of jubilee, according to your estimation it shall stand. But if he sanctify his field after the jubilee, then the priest shall reckon unto him the money according to the years that remain, even unto the year of the jubilee, and it shall be abated from your estimation. And if he that sanctified the field will in any way redeem it, then he shall add the fifth part of the money of your estimation unto it, and it shall be assured to him. And if he will not redeem the field, or if he has sold the field to another man, it shall not be redeemed anymore. But the field, when it goes out in the jubilee, shall be holy unto the Lord as a field devoted. The possession thereof shall be the priest’s. And if a man sanctify unto the Lord a field which he has bought, which is not of the fields of his possession, then the priest shall reckon unto him the worth of your estimation, even unto the year of the jubilee. And he shall give your estimation in that day as a holy thing unto the Lord. In the year of the jubilee, the field shall return unto him of whom it was bought, even to him to whom the possession of the land did belong. And all your estimations shall be according to the shekel of the sanctuary. Twenty gerahs shall be the shekel.
+
+###### 5
+Only the firstling of the beasts which should be the Lord’s firstling, no man shall sanctify it. Whether it be ox or sheep, it is the Lord’s. And if it be of an unclean beast, then he shall redeem it according to your estimation, and shall add a fifth part of it unto it; or if it is not redeemed, then it shall be sold according to your estimation.
+
+###### 6
+Notwithstanding, no devoted thing that a man shall devote unto the Lord of all that he has — both of man, and beast, and of the field of his possession — shall be sold or redeemed. Every devoted thing is most holy unto the Lord. None devoted which shall be devoted of men shall be redeemed, but shall surely be put to death.
+
+###### 7
+And all the tithe of the land, whether of the seed of the land or of the fruit of the tree, is the Lord’s. It is holy unto the Lord. And if a man will at all redeem any of his tithes, he shall add unto it the fifth part thereof. And concerning the tithe of the herd or of the flock, even of whatever passes under the rod, the tenth shall be holy unto the Lord. He shall not search whether it be good or bad, neither shall he change it. And if he change it at all, then both it and the change thereof shall be holy. It shall not be redeemed.
+
+###### 8
+These are the commandments which the Lord commanded Moses for the children of Israel in Mount Sinai.

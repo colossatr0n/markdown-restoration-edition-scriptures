@@ -1,0 +1,23 @@
+[[Ezekiel 18|<< Ezekiel 18]]  |  [[Ezekiel 20|Ezekiel 20 >>]]
+
+### Chapter 19
+###### 1
+The hand of the Lord was upon me and carried me out in the spirit of the Lord, and set me down in the middle of the valley which was full of bones, and caused me to pass by them round about. And behold, there were very many in the open valley, and behold, they were very dry. And he said unto me, Son of man, can these bones live? And I answered, O Lord God, you know. Again he said unto me, Prophesy upon these bones, and say unto them, O you dry bones, hear the word of the Lord. Thus says the Lord God unto these bones: Behold, I will cause breath to enter into you and you shall live. And I will lay sinews upon you, and will bring up flesh upon you, and cover you with skin, and put breath in you, and you shall live. And you shall know that I am the Lord.
+
+###### 2
+So I prophesied as I was commanded. And as I prophesied, there was a noise, and behold, a shaking; and the bones came together, bone to his bone. And when I beheld, behold, the sinews and the flesh came up upon them, and the skin covered them above; but there was no breath in them. Then he said unto me, Prophesy unto the wind, prophesy, son of man, and say to the wind, Thus says the Lord God: Come from the four winds, O breath, and breathe upon these slain, that they may live. So I prophesied as he commanded me, and the breath came into them, and they lived and stood up upon their feet, an exceedingly great army.
+
+###### 3
+Then he said unto me, Son of man, these bones are the whole house of Israel. Behold, they say, Our bones are dried and our hope is lost, we are cut off for our parts. Therefore, prophesy and say unto them, Thus says the Lord God: Behold, O my people, I will open your graves, and cause you to come up out of your graves, and bring you into the land of Israel. And you shall know that I am the Lord when I have opened your graves, O my people, and brought you up out of your graves, and shall put my spirit in you. And you shall live, and I shall place you in your own land. Then shall you know that I the Lord have spoken it and performed it, says the Lord.
+
+###### 4
+The word of the Lord came again unto me, saying, Moreover, you son of man, take one stick and write upon it: For Judah, and for the children of Israel his companions. Then take another stick and write upon it: For Joseph, the stick of Ephraim, and for all the house of Israel his companions. And join them one to another, into one stick, and they shall become one in your hand. And when the children of your people shall speak unto you, saying, Will you not show us what you mean by these? Say unto them, Thus says the Lord God: Behold, I will take the stick of Joseph which is in the hand of Ephraim, and the tribes of Israel his fellows, and will put them with him, even with the stick of Judah, and make them one stick; and they shall be one in my hand. And the sticks on which you write shall be in your hand before their eyes.
+
+###### 5
+And say unto them, Thus says the Lord God: Behold, I will take the children of Israel from among the heathen where they are gone, and will gather them on every side and bring them into their own land. And I will make them one nation in the land upon the mountains of Israel, and one king shall be king to them all. And they shall be no more two nations, neither shall they be divided into two kingdoms anymore at all. Neither shall they defile themselves anymore with their idols, nor with their detestable things, nor with any of their transgressions, but I will save them out of all their dwelling places wherein they have sinned, and will cleanse them. So shall they be my people and I will be their God.
+
+###### 6
+And David my servant shall be king over them, and they all shall have one shepherd. They shall also walk in my judgments, and observe my statutes, and do them. And they shall dwell in the land that I have given unto Jacob my servant, wherein your fathers have dwelled. And they shall dwell therein — even they, and their children, and their children’s children for ever. And my servant David shall be their prince for ever.
+
+###### 7
+Moreover, I will make a covenant of peace with them. It shall be an everlasting covenant with them. And I will place them, and multiply them, and will set my sanctuary in the midst of them for ever. My tabernacle also shall be with them, yea, I will be their God and they shall be my people. And the heathen shall know that I the Lord do sanctify Israel when my sanctuary shall be in the midst of them for ever.

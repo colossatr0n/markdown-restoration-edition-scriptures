@@ -1,0 +1,14 @@
+[[Section 15|<< Section 15]]  |  [[Section 17|Section 17 >>]]
+
+### SECTION 16
+
+*A commandment given at Fayette, New York, October 1830, through Joseph Smith Jr. to Ezra Thayer and Northrop Sweet: their call to the ministry, etc.*
+
+###### 1
+Behold, I say unto you, my servants Ezra and Northrop, open your ears and hearken to the voice of the Lord your God, whose word is quick and powerful, sharper than a two-edged sword, to the dividing asunder of the joints and marrow, soul and spirit, and is a discerner of the thoughts and intents of the heart. For verily, verily I say unto you that you are called to lift up your voices as with the sound of a trump, to declare my gospel unto a crooked and a perverse generation. For behold, the field is white already to harvest, and it is the eleventh hour, and the last time that I shall call laborers into my vineyard. And my vineyard has become corrupted every whit, and there is none which does good, save it is a few, and they do err in many instances because of priestcrafts, all having corrupt minds.
+
+###### 2
+And verily, verily I say unto you that this church have I established and called forth out of the wilderness, and even so will I gather my elect from the four quarters of the earth, even as many as will believe in me and hearken unto my voice. Yea, verily, verily I say unto you that the field is white already to harvest; wherefore, thrust in your sickles and reap with all your might, mind, and strength. Open your mouth and it shall be filled and you shall become even as Nephi of old, who journeyed from Jerusalem in the wilderness. Yea, open your mouth and spare not, and you shall be laden with sheaves upon your back, for lo, I am with you. Yea, open your mouth and it shall be filled, saying, Repent, repent and prepare the way of the Lord, and make his path straight, for the kingdom of Heaven is at hand. Yea, repent and be baptized every one of you for the remission of sins. Yea, be baptized even by water, and then comes the baptism of fire and of the holy ghost.
+
+###### 3
+Behold, verily, verily I say unto you, this is my gospel, and remember that they shall have faith in me or they can in nowise be saved. And upon this rock I will build my church. Yea, upon this rock you are built, and the gates of hell shall not prevail against you. And you shall remember the church Articles and Covenants, to keep them. And whoever has faith, you shall confirm in my church by the laying on of the hands, and I will bestow the gift of the holy ghost upon them. And the Book of Mormon and the holy scriptures are given of me for your instruction. And the power of my spirit quickens all things. Wherefore, be faithful, praying always, having your lamps trimmed and burning, and oil with you, that you may be ready at the coming of the Bridegroom. For behold, verily, verily I say unto you that I come quickly. Even so, Amen.

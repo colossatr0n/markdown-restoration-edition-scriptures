@@ -1,0 +1,22 @@
+[[False Traditions|<< False Traditions]]  |  [[Father of Many Nations|Father of Many Nations >>]]
+
+### Fasting
+
+*And blessed are all they who do hunger*
+* and thirst after righteousness, for they shall be filled with*
+* the holy ghost *(3 Nephi 5:15). This scripture is not about hunger or poverty. It is about fasting and seeking after righteousness. All qualify for this blessing by “hungering after righteousness.” All qualify by “thirsting after righteousness.” In other words, one receives the holy ghost in proportion to the hunger and thirst he or she displays. Fasting is a promised means for increasing the holy ghost in one’s life. When Alma served as High Priest over the church, he said: *And this is not all; do ye not suppose that I know of these things myself? Behold, I testify unto you that I do know that these things whereof I have spoken are true. And how do ye suppose that I know of their surety? Behold, I say unto you, they are made known unto me by the holy spirit of God. Behold, I have fasted and prayed many days that I might know these things of myself* (Alma 3:8). Fasting and praying opens the spirit. It allows man to know a matter through the power of the holy ghost. The sons of Mosiah, as they were completing their service as missionaries, reunited with Alma, and *Alma did rejoice exceedingly to see his brethren; and what added more to his joy *— *they were still his brethren in the Lord. Yea, and they had waxed strong in the knowledge of the truth, for they were men of a sound understanding, and they had searched the scriptures diligently that they might know the word of God. But this is not all. They had given themselves to much prayer and fasting, therefore they had the spirit of prophecy and the spirit of revelation; and when they taught, they taught with power and authority, even as with the power and authority of God *(Alma 12:1). They not only searched the scriptures, but they also spent time praying and fasting that they might show God their earnest commitment to know the truth. The result was the *spirit of prophecy and the spirit of revelation,* or in other words, they were filled with the holy ghost. The Lord speaks in simple formulas; they work. When tried in sincerity, acting no hypocrisy, with real intent, they work. Half-hearted efforts are not so effective. But when a soul, any soul, hungers and thirsts after righteousness, they are filled with the holy ghost.1
+
+“Fasting is the most effective way to slacken the grasp of this telestial world on the mind and to move toward another ambience. To fast is to do without some normal necessities; your everyday considerations must be put aside because you will be doing other things that require a totally different mind-set. To fast is to disengage from the temporal and wasteful activities of the ‘real world.’”2 Underlying the idea of the fast are two things: first, submission to God; and second, aiding the poor. One can accomplish these purposes even if the “fast” chosen has nothing to do with food. However, man’s appetite for food is one of the most direct ways to discipline the will of the body. It is in one’s thoughts, not his belly, where the real battle is fought. For someone who is unable to fast, but who can surrender some part of their diet — abstaining from all sweets, for example — it can serve the same purpose. For others, refraining from food and drink is possible without any danger to their health, but if they choose to do so for more than a day, then eating once in the evening allows the fast to continue the next day.3 One may not be able to hunger and fast for many consecutive days. But by reducing one’s caloric intake and “living with fasting,” while still eating enough to subsist, one can subordinate the flesh to the spirit while still eating and maintaining health. Sometimes it takes days to receive an answer. Do not abandon the powerful tool of fasting. Instead, “fast” while eating enough for subsistence, and one’s purposes can be accomplished without jeopardy to health.4
+
+
+
+1 “3 Nephi 12:6,” Oct. 5, 2010, blog post.
+
+
+2 Hugh Nibley, Eloquent Witness: Nibley on Himself, Others, and the Temple, ed. Stephen D. Ricks (Salt Lake City: Deseret Book, 2008), 325–326.
+
+
+3 “Last Week’s Comments,” May 19, 2012, blog post.
+
+
+4 The [[#|Second Comforter]], 92n72.

@@ -1,0 +1,8 @@
+[[Psalms 85|<< Psalms 85]]  |  [[Psalms 87|Psalms 87 >>]]
+
+### Psalm 86
+
+*A Prayer of David.*
+
+###### 1
+Bow down your ear, O Lord, hear me, for I am poor and needy. Preserve my soul, for I am holy. O my God, save your servant that trusts in you. Be merciful unto me, O Lord, for I cry unto you daily. Rejoice the soul of your servant, for unto you, O Lord, do I lift up my soul. For you, Lord, are good, and ready to forgive, and plenteous in mercy unto all them that call upon you. Give ear, O Lord, unto my prayer, and attend to the voice of my supplications. In the day of my trouble I will call upon you, for you will answer me. Among the gods there is none like unto you, O Lord, neither are there any works like unto your works. All nations whom you have made shall come and worship before you, O Lord, and shall glorify your name; for you are great and do wondrous things. You are God alone. Teach me your way, O Lord. I will walk in your truth. Unite my heart to fear your name. I will praise you, O Lord my God, with all my heart, and I will glorify your name for ever; for great is your mercy toward me, and you have delivered my soul from the lowest hell. O God, the proud are risen against me, and the assemblies of violent men have sought after my soul and have not set you before them. But you, O Lord, are a God full of compassion, and gracious, long-suffering, and plenteous in mercy and truth. O turn unto me and have mercy upon me. Give your strength unto your servant, and save the son of your handmaid. Show me a token for good, that they who hate me may see it and be ashamed, because you, Lord, have helped me and comforted me.

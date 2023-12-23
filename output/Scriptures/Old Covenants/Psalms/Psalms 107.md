@@ -1,0 +1,20 @@
+[[Psalms 106|<< Psalms 106]]  |  [[Psalms 108|Psalms 108 >>]]
+
+### Psalm 107
+###### 1
+O give thanks unto the Lord, for he is good, for his mercy endures for ever. Let the redeemed of the Lord say so, whom he has redeemed from the hand of the enemy and gathered them out of the lands from the east and from the west, from the north and from the south.
+
+###### 2
+They wandered in the wilderness in a solitary way. They found no city to dwell in. Hungry and thirsty, their soul fainted in them. Then they cried unto the Lord in their trouble, and he delivered them out of their distresses. And he led them forth by the right way, that they might go to a city of habitation. Oh that men would praise the Lord for his goodness and for his wonderful works to the children of men. For he satisfies the longing soul and fills the hungry soul with goodness.
+
+###### 3
+Such as sit in darkness and in the shadow of death, being bound in affliction and iron because they rebelled against the words of God and spurned the counsel of the Most High, therefore he brought down their heart with labor. They fell down and there was none to help. Then they cried unto the Lord in their trouble, and he saved them out of their distresses. He brought them out of darkness and the shadow of death, and broke their bands asunder. Oh that men would praise the Lord for his goodness and for his wonderful works to the children of men; for he has broken the gates of brass and cut the bars of iron asunder.
+
+###### 4
+Fools, because of their transgression and because of their iniquities, are afflicted. Their soul abhors all manner of food, and they draw near unto the gates of death. Then they cry unto the Lord in their trouble, and he saves them out of their distresses. He sent his word, and healed them, and delivered them from their destructions. Oh that men would praise the Lord for his goodness and for his wonderful works to the children of men. And let them sacrifice the sacrifices of thanksgiving and declare his works with rejoicing.
+
+###### 5
+They that go down to the sea in ships, that do business in great waters, these see the works of the Lord and his wonders in the deep. For he commands and raises the stormy wind which lifts up the waves thereof. They mount up to the heaven, they go down again to the depths. Their soul is melted because of trouble. They reel to and fro, and stagger like a drunk man, and are at their wits’ end. Then they cry unto the Lord in their trouble and he brings them out of their distresses. He makes the storm a calm, so that the waves thereof are still. Then they are glad because they are quiet, so he brings them unto their desired haven. Oh that men would praise the Lord for his goodness and for his wonderful works to the children of men. Let them exalt him also in the congregation of the people and praise him in the assembly of the elders.
+
+###### 6
+He turns rivers into a wilderness and the watersprings into dry ground, a fruitful land into barrenness, for the wickedness of them that dwell therein. He turns the wilderness into a standing water and dry ground into watersprings. And there he makes the hungry to dwell, that they may prepare a city for habitation, and sow the fields, and plant vineyards which may yield fruits of increase. He blesses them also, so that they are multiplied greatly, and suffers not their cattle to decrease. Again they are diminished and brought low through oppression, affliction, and sorrow. He pours contempt upon princes and causes them to wander in the wilderness where there is no way. Yet he sets the poor on high from affliction and makes him families like a flock. The righteous shall see it and rejoice, and all iniquity shall stop her mouth. Whoever is wise and will observe these things, even they shall understand the loving kindness of the Lord.

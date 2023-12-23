@@ -1,0 +1,11 @@
+[[Psalms 9|<< Psalms 9]]  |  [[Psalms 11|Psalms 11 >>]]
+
+### Psalm 10
+###### 1
+Why do you stand afar off, O Lord? Why do you hide yourself in times of trouble? The wicked, in his pride, does persecute the poor. Let them be taken in the devices that they have imagined. For the wicked boasts of his heart’s desire, and blesses the covetous whom the Lord abhors. The wicked, through the pride of his countenance, will not seek after God. God is not in all his thoughts. His ways are always grievous. Your judgments are far above, out of his sight. As for all his enemies — he sneers at them. For he has said in his heart, I shall not be moved; never in adversity. His mouth is full of cursing and deceit; and his heart is full of fraud, and under his tongue, mischief and vanity.
+
+###### 2
+He sits in the lurking places of the villages. In the secret places does he murder the innocent. His eyes are secretly set against the poor. He lies in wait secretly as a lion in his den. He lies in wait to catch the poor. He does catch the poor when he draws him into his net. He crouches to the strong ones; and humbles himself, that the poor may fall by his devices. He has said in his heart, God has forgotten. He hides his face; he will never see it.
+
+###### 3
+Arise, O Lord. O God, lift up your hand. Forget not the humble. The wicked despise God; wherefore, he does say in his heart, You will not require iniquity at my hand. O Lord, you have seen all this, for you behold mischief and spite, to repay with your hand. The poor commits himself unto you; you are the helper of the fatherless. O Lord, you will break the arm of the wicked, and of the evil; and seek out his wickedness until you find none that remain. And the Lord shall be King for ever and ever over his people; for the wicked shall perish out of his land. Lord, you have heard the desire of the humble. You will prepare their heart. You will cause your ear to hear, to judge the fatherless and the oppressed, that the man of the earth may no more oppress.

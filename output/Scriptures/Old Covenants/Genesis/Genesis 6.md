@@ -1,0 +1,32 @@
+[[Genesis 5|<< Genesis 5]]  |  [[Genesis 7|Genesis 7 >>]]
+
+### Chapter 6
+
+*The genealogy of Noah, etc.*
+
+###### 1
+Now these were the generations of the sons of Noah — Shem, Ham, and Japheth — and unto them were sons born after the flood.
+
+###### 2
+The sons of Japheth: Gomer and Magog, Madai and Javan, and Tubal, and Meshech, and Tyrus. And the sons of Gomer: Ashkenaz, and Riphath, and Togarmah. And the sons of Javan: Eleshah and Tarshish, Kittim and Dodanim. By these were the isles of the gentiles divided in their lands, everyone after the same tongue, after their families, in their nations.
+
+###### 3
+And the sons of Ham: Cush, and Mizraim, and Put, and Canaan. And the sons of Cush: Seba, and Havilah, and Sabtah, and Raamah, and Sabtecha. And the sons of Raamah: Sheba and Dedan. And Cush begot Nimrod; he began to be a mighty one in the earth. He was a mighty hunter in the land, wherefore it is said, Even as Nimrod, the mighty hunter in the land. And he began a kingdom, and the beginning of his kingdom was Babel, and Erech, and Accad, and Calneh, in the land of Shinar. Out of that land went forth Asshur and built Nineveh, and the city Rehoboth, and Calah. And Resen, between Nineveh and Calah, the same was a great city. And Mizraim begot Ludim, and Anamim, and Lehabim, and Naphtuhim, and Pathrusim, and Casluhim, out of whom came Philistim and Caphtorim. And Canaan begot Sidon, his first born, and Heth, and the Jebusite, and the Amorite, and the Girgashite, and the Hivite, and the Arkite, and the Sinite, and the Arvadite, and the Zemarite, and the Hamathite. And afterward were the families of the Canaanites spread abroad. And the border of the Canaanites was from Sidon, as you come to Gerar, unto Gaza; as you go unto Sodom, and Gomorrah, and Admah, and Zeboiim, even unto Lasha. These were the sons of Ham, after their families, after the same tongue, in their countries, and in their nations.
+
+###### 4
+Unto Shem also, who was the elder, children were born. And he was the father of Eber, and even to him were children born. And these are the children of Shem: Eber, and Elam, and Asshur, and Arphaxad, and Lud, and Aram. And these were the children of Aram: Uz, and Hul, and Gether, and Mash. And Arphaxad begot Selah, and Selah begot Eber. And unto Eber were born two sons: the name of one Peleg, the other Joktan. And Peleg was a mighty man, for in his days was the earth divided. And Joktan begot Almodad, and Sheleph, and Hazarmaveth, and Jerah, and Hadoram, and Uzal, and Diklah, and Obal, and Abimael, and Sheba, and Ophir, and Havilah, and Jobab; all these were the sons of Joktan. And their dwelling was from Mesha, as you go unto Sephar, a mount of the east. These were the sons of Shem, after their families, after their tongues, in their lands, after their nations.
+
+###### 5
+These were the families of the sons of Noah after their generations, in their nations. And by these were the nations divided on the earth after the flood.
+
+
+*The building of Babel, the confounding their language, the generations of Shem, etc., Abram’s travel to Canaan, etc.*
+
+###### 6
+And the whole earth was of the same language and of the same speech. And it came to pass that many journeyed from the east. And as they journeyed from the east, they found a plain in the land of Shinar and dwelled there in the plain of Shinar. And they said one to another, Come, go to, let us make brick and burn them thoroughly. And they had brick for stone and they had tar for mortar. And they said, Come, go to, let us build us a city, and a tower whose top will be high, near unto Heaven. And let us make us a name, lest we be scattered abroad upon the face of the whole earth. And the Lord came down, beholding the city and the tower which the children of men were building, and the Lord said, Behold, the people are the same, and they all have the same language, and this tower they begin to build. And now nothing will be restrained from them which they have imagined, except I, the Lord, confound their language that they may not understand one another’s speech. So I, the Lord, will scatter them abroad from there, upon all the face of the land, and unto every quarter of the earth. And they were confounded, and left off to build the city, and they listened not unto the Lord; therefore is the name of it called Babel — because the Lord was displeased with their works, and did there confound the language of all the earth, and from there did the Lord scatter them abroad upon the face thereof.
+
+###### 7
+And these were the generations of Shem. Shem, being a hundred ten years old, begot Arphaxad two years after the flood. And Shem lived after he begot Arphaxad five hundred years, and begot sons and daughters. And Arphaxad lived thirty-five years and begot Selah. And Arphaxad lived after he begot Selah four hundred three years, and begot sons and daughters. And Selah lived thirty years and begot Eber. And Selah lived after he begot Eber four hundred three years, and begot sons and daughters. And Eber lived thirty-four years and begot Peleg. And Eber lived after he begot Peleg four hundred thirty years, and begot sons and daughters. And Peleg lived thirty years and begot Reu. And Peleg lived after he begot Reu two hundred nine years, and begot sons and daughters. And Reu lived thirty-two years and begot Serug. And Reu lived after he begot Serug two hundred seven years, and begot sons and daughters. And Serug lived thirty years and begot Nahor. And Serug lived after he begot Nahor two hundred years, and begot sons and daughters. And Nahor lived twenty-nine years and begot Terah. And Nahor lived after he begot Terah a hundred nineteen years, and begot sons and daughters. And Terah lived seventy years and begot Abram, Nahor, and Haran.
+
+###### 8
+Now these were the generations of Terah: Terah begot Abram, Nahor, and Haran. And Haran begot Lot. And Haran died before his father Terah in the land of his nativity, in Ur of the Chaldees. And Abram and Nahor took wives unto themselves. And the name of Abram’s wife was Sarai, and the name of Nahor’s wife, Milcah, the daughter of Haran, the father of Milcah and the father of Iscah. But Sarai was barren and she bore no child. And Terah took Abram (his son), and Lot (the son of Haran — his son’s son), and Sarai (his daughter-in-law — his son Abram’s wife), and they went forth with them from Ur of the Chaldees to go into the land of Canaan. And they came unto Haran and dwelled there. And the days of Terah were two hundred five years, and Terah died in Haran.

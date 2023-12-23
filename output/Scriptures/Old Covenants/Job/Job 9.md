@@ -1,0 +1,32 @@
+[[Job 8|<< Job 8]]  |  [[Job 10|Job 10 >>]]
+
+### Chapter 9
+###### 1
+Then Eliphaz the Temanite answered and said, Can a man be profitable unto God as he that is wise may be profitable unto himself? Is it any pleasure to the Almighty that you are righteous? Or is it gain to him that you make your ways perfect? Will he reprove you for fear of you? Will he enter with you into judgment?
+
+###### 2
+Is not your wickedness great and your iniquities infinite? For you have taken a pledge from your brother for naught, and stripped the naked of their clothing. You have not given water to the weary to drink, and you have withheld bread from the hungry. But the mighty man, he had the earth, and the honorable man dwelled in it. You have sent widows away empty and the arms of the fatherless have been broken. Therefore, snares are round about you and sudden fear troubles you, or darkness you cannot see and abundance of waters cover you.
+
+###### 3
+Is not God in the height of Heaven? And behold the height of the stars, how high they are. And you say, How does God know? Can he judge through the dark cloud? Thick clouds are a covering to him that he sees not, and he walks in the circuit of heaven. Have you marked the old way which wicked men have trodden, who were cut down out of time? Whose foundation was overflowed with a flood, who said unto God, Depart from us? And what can the Almighty do for them? Yet he filled their houses with good things. But the counsel of the wicked is far from me. The righteous see and are glad, and the innocent laugh them to scorn. Whereas our substance is not cut down, but the remnant of them the fire consumes.
+
+###### 4
+Acquaint now yourself with him, and be at peace; thereby good shall come unto you. Receive, I pray you, the law from his mouth, and lay up his words in your heart. If you return to the Almighty, you shall be built up. You shall put away iniquity far from your tabernacles. Then shall you lay up gold as dust, and the gold of Ophir as the stones of the brooks. Yea, the Almighty shall be your defense, and you shall have plenty of silver. For then shall you have your delight in the Almighty, and shall lift up your face unto God. You shall make your prayer unto him and he shall hear you, and you shall pay your vows. You shall also decree a thing and it shall be established unto you, and the light shall shine upon your ways. When men are cast down, then you shall say, There is lifting up; and he shall save the humble person. He shall deliver the island of the innocent, and it is delivered by the pureness of your hands.
+
+###### 5
+Then Job answered and said, Even today is my complaint bitter. My stroke is heavier than my groaning. Oh that I knew where I might find him, that I might come even to his seat. I would order my case before him, and fill my mouth with arguments. I would know the words which he would answer me, and understand what he would say unto me. Will he plead against me with his great power? No, but he would put strength in me. There the righteous might dispute with him; so should I be delivered for ever from my judge.
+
+###### 6
+Behold, I go forward, but he is not there; and backward, but I cannot perceive him. On the left hand, where he does work, but I cannot behold him. He hides himself on the right hand that I cannot see him, but he knows the way that I take. When he has tried me, I shall come forth as gold. My foot has held his steps, his way have I kept and not declined, neither have I gone back from the commandment of his lips. I have esteemed the words of his mouth more than my necessary food.
+
+###### 7
+But he is in one, and who can turn him? And what his soul desires, even that he does; for he performs the thing that is appointed for me, and many such things are with him. Therefore am I troubled at his presence; when I consider, I am afraid of him. For God makes my heart soft and the Almighty troubles me, because I was not cut off before the darkness, neither has he covered the darkness from my face.
+
+###### 8
+Why, seeing times are not hidden from the Almighty, do they that know him not see his days? Some remove the landmarks; they violently take away flocks and feed thereof. They drive away the ass of the fatherless, they take the widow’s ox for a pledge. They turn the needy out of the way. The poor of the earth hide themselves together. Behold, as wild asses in the desert go they forth to their work; rising early for a prey, the wilderness yields food for them and for their children. They reap everyone his fodder in the field, and they gather the vintage of the wicked. They cause the naked to lodge without clothing, that they have no covering in the cold. They are wet with the showers of the mountains, and embrace the rock for lack of a shelter. They pluck the fatherless from the breast, and take a pledge of the poor. They cause him to go naked without clothing, and they take away the sheaf from the hungry who make oil within their walls, and tread their winepresses, and suffer thirst. Men groan from out of the city, and the soul of the wounded cries out. Yet God lays not folly to them.
+
+###### 9
+They are of those that rebel against the light. They know not the ways thereof, nor abide in the paths thereof. The murderer rising with the light kills the poor and needy, and in the night is as a thief. The eye also of the adulterer waits for the twilight, saying, No eye shall see me, and disguises his face. In the dark they dig through houses which they had marked for themselves in the daytime. They know not the light, for the morning is to them even as the shadow of death. If one know them, they are in the terrors of the shadow of death.
+
+###### 10
+He is swift as the waters. Their portion is cursed in the earth. He beholds not the way of the vineyards. Drought and heat consume the snow waters, so does the grave those who have sinned. The womb shall forget him. The worm shall feed sweetly on him. He shall be no more remembered, and wickedness shall be broken as a tree. He treats with evil the barren that bears not, and does not good to the widow. He draws also the mighty with his power. He rises up, and no man is sure of life. Though it is given him to be in safety, on which he rests, yet his eyes are upon their ways. They are exalted for a little while, but have gone and brought low. They are taken out of the way as all other, and cut off as the tops of the ears of grain. And if it be not so now, who will make me a liar and make my speech worth nothing?

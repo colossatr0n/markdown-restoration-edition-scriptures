@@ -1,0 +1,8 @@
+- [[Judges 1]]
+- [[Judges 2]]
+- [[Judges 3]]
+- [[Judges 4]]
+- [[Judges 5]]
+- [[Judges 6]]
+- [[Judges 7]]
+- [[Judges 8]]
