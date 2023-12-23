@@ -1,9 +1,9 @@
-<<   >>  
+<<   |   >>
 
 ### Section 1
 # JOSEPH SMITH HISTORY
 
-**In response to the church historical record being removed by church historian John Whitmer when he left the church, this history of events in the life of Joseph Smith was first printed in the **Times and Seasons**, March–December 1842.**
+*In response to the church historical record being removed by church historian John Whitmer when he left the church, this history of events in the life of Joseph Smith was first printed in the *Times and Seasons*, March–December 1842.*
 
 ### Part 1 (1805–1820)
 ###### 1

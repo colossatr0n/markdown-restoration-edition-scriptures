@@ -3,8 +3,8 @@ import unittest
 import markdownify
 from bs4 import BeautifulSoup
 
-from main import get_chapter_paths, get_info_paths, get_material_paths, get_chapter_title, material_html_to_md, \
-    toc_html_to_md
+from html_parsers import get_chapter_paths, get_info_paths, get_paths
+from main import get_chapter_title, material_html_to_md, toc_html_to_md
 
 
 class OutputTest(unittest.TestCase):
@@ -16,31 +16,31 @@ class OutputTest(unittest.TestCase):
     def test_tc_jsh(self):
         expected = self.get_text("resources/expected/tc_jsh.md")
         soup = self.get_soup("resources/tc_jsh.html")
-        actual = material_html_to_md(soup, {})
+        actual = material_html_to_md(soup, {}, {})
         self.assertEqual(expected, actual)
 
     def test_tc_foreword(self):
         expected = self.get_text("resources/expected/tc_foreword.md")
         soup = self.get_soup("resources/tc_foreword.html")
-        actual = material_html_to_md(soup, {})
+        actual = material_html_to_md(soup, {}, {})
         self.assertEqual(expected, actual)
 
     def test_tc_section(self):
         expected = self.get_text("resources/expected/tc_section.md")
         soup = self.get_soup("resources/tc_section.html")
-        actual = material_html_to_md(soup, {})
+        actual = material_html_to_md(soup, {}, {})
         self.assertEqual(expected, actual)
 
     def test_tc_toc(self):
         # expected = self.get_text("resources/expected/tc_toc.md")
         soup = self.get_soup("cache/scriptures.tc.glossary.html")
-        actual = toc_html_to_md(soup, {})
+        actual = toc_html_to_md(soup, {}, {})
         pass
         # self.assertEqual(expected, actual)
 
     def test_tc_section_endnotes(self):
         soup = self.get_soup("resources/tc_section_endnotes.html")
-        actual = material_html_to_md(soup, {})
+        actual = material_html_to_md(soup, {}, {})
         # for some reason newlines are added after
         # <sup>
         # <i>blah</i>
@@ -49,7 +49,7 @@ class OutputTest(unittest.TestCase):
 
     def test_tc_correlation_tables(self):
         soup = self.get_soup("resources/tc_toc.html")
-        actual = material_html_to_md(soup, {})
+        actual = material_html_to_md(soup, {}, {})
         # actual = markdownify.MarkdownConverter().convert_soup(soup)
         print(actual)
 
@@ -186,18 +186,18 @@ class OutputTest(unittest.TestCase):
          '/scriptures/tc/appendix/excludedrevelations', '/scriptures/tc/appendix/prerogative',
          '/scriptures/tc/glossary', '/scriptures/tc/appendix/correlationtable', '/scriptures/tc/appendix/timeline',
          '/scriptures/tc/appendix/maps']
-        actual = get_material_paths(soup)
+        actual = get_paths(soup)
         self.assertEqual(expected, actual)
 
     def test_get_material_paths_oc_toc(self):
         soup = BeautifulSoup(self.get_text("resources/oc_toc.html"), 'html.parser')
         expected = ['/scriptures/oc/ocforeword', '/scriptures/oc/occanonization', '/scriptures/oc/ocpreface', '/scriptures/oc/genesis', '/scriptures/oc/exodus', '/scriptures/oc/leviticus', '/scriptures/oc/numbers', '/scriptures/oc/deuteronomy', '/scriptures/oc/joshua', '/scriptures/oc/judges', '/scriptures/oc/ruth', '/scriptures/oc/1samuel', '/scriptures/oc/2samuel', '/scriptures/oc/1kings', '/scriptures/oc/2kings', '/scriptures/oc/1chronicles', '/scriptures/oc/2chronicles', '/scriptures/oc/ezra', '/scriptures/oc/nehemiah', '/scriptures/oc/esther', '/scriptures/oc/job', '/scriptures/oc/psalm', '/scriptures/oc/proverbs', '/scriptures/oc/ecclesiastes', '/scriptures/oc/isaiah', '/scriptures/oc/jeremiah', '/scriptures/oc/lamentations', '/scriptures/oc/ezekiel', '/scriptures/oc/daniel', '/scriptures/oc/hosea', '/scriptures/oc/joel', '/scriptures/oc/amos', '/scriptures/oc/obadiah', '/scriptures/oc/jonah', '/scriptures/oc/micah', '/scriptures/oc/nahum', '/scriptures/oc/habakkuk', '/scriptures/oc/zephaniah', '/scriptures/oc/haggai', '/scriptures/oc/zechariah', '/scriptures/oc/malachi', '/scriptures/oc/ocappendix']
-        actual = get_material_paths(soup)
+        actual = get_paths(soup)
         self.assertEqual(expected, actual)
 
     def test_get_material_paths_nc_toc(self):
         soup = BeautifulSoup(self.get_text("resources/nc_toc.html"), 'html.parser')
-        actual = get_material_paths(soup)
+        actual = get_paths(soup)
         expected = ['/scriptures/nc/ncforeword', '/scriptures/nc/nccanonization', '/scriptures/nt/ntpreface', '/scriptures/nt/matthew', '/scriptures/nt/mark', '/scriptures/nt/luke', '/scriptures/nt/john', '/scriptures/nt/acts', '/scriptures/nt/romans', '/scriptures/nt/1corinthians', '/scriptures/nt/2corinthians', '/scriptures/nt/galatians', '/scriptures/nt/ephesians', '/scriptures/nt/philippians', '/scriptures/nt/colossians', '/scriptures/nt/1thessalonians', '/scriptures/nt/2thessalonians', '/scriptures/nt/1timothy', '/scriptures/nt/2timothy', '/scriptures/nt/titus', '/scriptures/nt/philemon', '/scriptures/nt/hebrews', '/scriptures/nt/ejacob', '/scriptures/nt/1peter', '/scriptures/nt/2peter', '/scriptures/nt/1john', '/scriptures/nt/2john', '/scriptures/nt/3john', '/scriptures/nt/judas', '/scriptures/nt/revelation', '/scriptures/nt/ntappendix', '/scriptures/bofm/bompreface', '/scriptures/bofm/bomintro', '/scriptures/bofm/title', '/scriptures/bofm/tow', '/scriptures/bofm/1nephi', '/scriptures/bofm/2nephi', '/scriptures/bofm/jacob', '/scriptures/bofm/enos', '/scriptures/bofm/jarom', '/scriptures/bofm/omni', '/scriptures/bofm/words', '/scriptures/bofm/mosiah', '/scriptures/bofm/alma', '/scriptures/bofm/helaman', '/scriptures/bofm/3nephi', '/scriptures/bofm/4nephi', '/scriptures/bofm/mormon', '/scriptures/bofm/ether', '/scriptures/bofm/moroni', '/scriptures/bofm/bomappendix']
         self.assertEqual(expected, actual)
 
@@ -215,7 +215,7 @@ class OutputTest(unittest.TestCase):
 
     def test_table_links(self):
         soup = self.get_soup("resources/tc_correlation_tables.html")
-        md = material_html_to_md(soup, {'/scriptures/tc/jshistory/3': "Joseph Smith History 3"})
+        md = material_html_to_md(soup, {'/scriptures/tc/jshistory/3': "Joseph Smith History 3"}, {})
         text_position = md.find("[[Joseph Smith History 3\|JSH 3:4]]")
         print(md)
         self.assertTrue(text_position > -1)
