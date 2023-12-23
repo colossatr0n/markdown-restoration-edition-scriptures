@@ -3,35 +3,44 @@ import unittest
 import markdownify
 from bs4 import BeautifulSoup
 
-from main import get_chapter_paths, get_info_paths, get_material_paths, get_chapter_title, html_to_md
+from main import get_chapter_paths, get_info_paths, get_material_paths, get_chapter_title, material_html_to_md, \
+    toc_html_to_md
 
 
 class OutputTest(unittest.TestCase):
 
-    def setup(self):
-        self.maxDiff = None
+    @classmethod
+    def setUpClass(cls):
+        cls.maxDiff = None
 
     def test_tc_jsh(self):
         expected = self.get_text("resources/expected/tc_jsh.md")
         soup = self.get_soup("resources/tc_jsh.html")
-        actual = html_to_md(soup)
+        actual = material_html_to_md(soup, {})
         self.assertEqual(expected, actual)
 
     def test_tc_foreword(self):
         expected = self.get_text("resources/expected/tc_foreword.md")
         soup = self.get_soup("resources/tc_foreword.html")
-        actual = html_to_md(soup)
+        actual = material_html_to_md(soup, {})
         self.assertEqual(expected, actual)
 
     def test_tc_section(self):
         expected = self.get_text("resources/expected/tc_section.md")
         soup = self.get_soup("resources/tc_section.html")
-        actual = html_to_md(soup)
+        actual = material_html_to_md(soup, {})
         self.assertEqual(expected, actual)
+
+    def test_tc_toc(self):
+        # expected = self.get_text("resources/expected/tc_toc.md")
+        soup = self.get_soup("cache/scriptures.tc.glossary.html")
+        actual = toc_html_to_md(soup, {})
+        pass
+        # self.assertEqual(expected, actual)
 
     def test_tc_section_endnotes(self):
         soup = self.get_soup("resources/tc_section_endnotes.html")
-        actual = html_to_md(soup)
+        actual = material_html_to_md(soup, {})
         # for some reason newlines are added after
         # <sup>
         # <i>blah</i>
@@ -40,7 +49,7 @@ class OutputTest(unittest.TestCase):
 
     def test_tc_correlation_tables(self):
         soup = self.get_soup("resources/tc_toc.html")
-        actual = html_to_md(soup)
+        actual = material_html_to_md(soup, {})
         # actual = markdownify.MarkdownConverter().convert_soup(soup)
         print(actual)
 
@@ -206,8 +215,9 @@ class OutputTest(unittest.TestCase):
 
     def test_table_links(self):
         soup = self.get_soup("resources/tc_correlation_tables.html")
-        md = html_to_md(soup, {'/scriptures/tc/jshistory/3': "Joseph Smith History 3"})
+        md = material_html_to_md(soup, {'/scriptures/tc/jshistory/3': "Joseph Smith History 3"})
         text_position = md.find("[[Joseph Smith History 3\|JSH 3:4]]")
+        print(md)
         self.assertTrue(text_position > -1)
 
 

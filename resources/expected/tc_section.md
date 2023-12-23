@@ -1,6 +1,8 @@
+<<   |   >>
+
 ### SECTION 2
 
-**Revelation given at Harmony, Pennsylvania, July 1828, to Joseph the Seer after he had lost certain writings which he had translated by the gift and power of God [See also jsh 10:1-6], saying:**
+*Revelation given at Harmony, Pennsylvania, July 1828, to Joseph the Seer after he had lost certain writings which he had translated by the gift and power of God [See also jsh 10:1-6], saying:*
 
 ###### 1
 The works, and designs, and the purposes of God cannot be frustrated, neither can they come to naught, for God does not walk in crooked paths, neither does he turn to the right hand nor to the left, neither does vary from that which he has said; therefore, his paths are straight and his course is one eternal round.
