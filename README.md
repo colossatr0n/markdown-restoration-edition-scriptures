@@ -3,9 +3,9 @@
 
 This project generates the Restoration Edition scriptures in Obsidian Markdown by requesting each relevant HTML page first from the cache, and then from www.scriptures.info if the page isn't yet cached. 
 
-The project contains a preloaded cache of the HTML files and their corresponding Markdown files, so it isn't necessary to run the program to obtain the generated Markdown.
+The project contains a preloaded cache of the HTML files and their corresponding Markdown files, so it isn't necessary to run the program to obtain the generated Markdown. The cache is up to date with [Text V1.383 - 2023.08.30](https://scriptures.info/scriptures/changetracking)
 
-I'm satisfied enough with the generated output to make this project public and to start using it in Obsidian in my personal study. I'll update the codebase as I discover issues or bugs with the Markdown.
+I'm satisfied enough with the generated output to make this project public. I'll update the codebase as I discover issues or bugs with the Markdown.
 
 ## Getting Started
 To download the pre-generated Markdown, download the project and copy the `Scriptures` directory in `output/Scriptures` to your vault or open it as vault.
