@@ -18,11 +18,8 @@ TOC_PATHS = ['/scriptures/oc', '/scriptures/nc', '/scriptures/tc']
 def main(args):
     args.output_dir = os.path.join(args.output_dir, 'Scriptures')
 
-    content_loader = CachedContentDownloader(
-        CACHE_DIR, HtmlLoader(), ContentDownloader(ScripturesClient())
-    )
+    content_loader = CachedContentDownloader(CACHE_DIR, HtmlLoader(), ContentDownloader(ScripturesClient()))
 
-    material_paths = []
     material_paths = content_loader.recursive_retrieve_html(TOC_PATHS)
 
     material_paths.extend(TOC_PATHS)
@@ -57,6 +54,8 @@ def main(args):
         elif is_book_toc(soup):
             breadcrumb_path = get_breadcrumb_path(soup) + "/" + get_chapter_title(soup)
             md = toc_html_to_md(soup, obsidian_link_by_path, obsidian_img_link_by_path)
+        else:
+            raise SystemExit(f"Unknown HTML category for {path}.")
 
         # Gather metadata
         book_dir = os.path.join(args.output_dir, breadcrumb_path).replace("The ", "")
@@ -78,10 +77,7 @@ def main(args):
 
 def create_parser():
     parser = argparse.ArgumentParser()
-    parser.add_argument("-f", "--file", nargs="+")
-    parser.add_argument("-u", "--url", nargs="+")
     parser.add_argument("-o", "--output-dir", default="output")
-    parser.add_argument("-c", "--use-cache", action="store_true")
     return parser
 
 

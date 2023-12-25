@@ -1,14 +1,18 @@
+"""
+Run in project root directory with:
+python -m unittest regression_test.RegressionTest
+"""
 import re
 import glob
 import os
 import shutil
 import unittest
 
-from main import main, parse_args
+from obsidian_re_scriptures import main, parse_args
 
 
 class RegressionTest(unittest.TestCase):
-    REGRESSION_DIR = 'resources/regression'
+    REGRESSION_DIR = 'resources/test/regression'
     OUTPUT_DIR = 'output'
     args = ['--use-cache', '-o', REGRESSION_DIR]
 

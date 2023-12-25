@@ -14,12 +14,14 @@ def get_breadcrumb_path(soup: BeautifulSoup):
     breadcrumb = soup.find("div", class_="navBreadcrumb")
     return "/".join([a.get_text(" ", strip=True) for a in breadcrumb.find_all("a")][1:])
 
+
 def get_chapter_paths(toc_soup):
     return [li.a['href'] for li in toc_soup.find_all('li', class_='chapter') if li]
 
 
 def get_info_paths(toc_soup):
     return [a['href'] for a in toc_soup.select("div.navigationText.multicolumn")[0].find_all('a')]
+
 
 def get_paths(toc_soup: BeautifulSoup):
     paths = []

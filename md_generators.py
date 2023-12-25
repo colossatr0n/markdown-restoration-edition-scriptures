@@ -72,7 +72,6 @@ def general_html_to_md(soup, obsidian_link_by_path, obsidian_img_link_by_path):
     return soup
 
 
-
 def material_html_to_md(soup, obsidian_link_by_path, obsidian_img_link_by_path):
     print("Converting HTML to MD...")
     text_soup = soup.find('div', class_='scriptureText')
@@ -93,7 +92,6 @@ def material_html_to_md(soup, obsidian_link_by_path, obsidian_img_link_by_path):
                 if 'nextBtn' in a['class']:
                     a.string = ' >>'
                     a.insert_before(span)
-                # there was a path that was
                 if href not in obsidian_link_by_path:
                     continue
                 obsidian_link = obsidian_link_by_path[href]
@@ -153,4 +151,4 @@ def toc_html_to_md(soup, obsidian_link_by_path, obsidian_img_link_by_path):
 
 
 def condense_newlines(text, n_newlines):
-    return re.sub(r'\n\s*\n', '\n'*n_newlines, text)
+    return re.sub(r'\n\s*\n', '\n' * n_newlines, text)
