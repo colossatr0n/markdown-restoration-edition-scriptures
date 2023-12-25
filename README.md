@@ -8,7 +8,8 @@ The project contains a preloaded cache of the HTML files and their corresponding
 I'm satisfied enough with the generated output to make this project public. I'll update the codebase as I discover issues or bugs with the Markdown.
 
 ## Getting Started
-To download the pre-generated Markdown, download the project and copy the `Scriptures` directory in `output/Scriptures` to your vault or open it as vault.
+To download the Obsidian Markdown files, download `Obsidian.Restoration.Edition.Scriptures.zip
+` from [Releases](https://github.com/colossatr0n/obsidian-restoration-edition-scriptures/releases). Copy the `Scriptures` directory to your vault or open it as a vault.
 
 To have the verse numbers appear at the side of the verse as in the screenshot above, add the CSS file in `resources/verses.css` to `<vault>/.obsidian/snippets/` and enable the CSS snippet in `Obsidian > Settings > Appearance > CSS Snippets`.
 
