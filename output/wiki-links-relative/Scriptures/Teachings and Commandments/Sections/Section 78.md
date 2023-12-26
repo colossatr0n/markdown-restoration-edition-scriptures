@@ -1,0 +1,20 @@
+[[Section 77.md|<< Section 77]]  |  [[Section 79.md|Section 79 >>]]
+
+### SECTION 78
+
+*A revelation given at Independence, Jackson Co., Missouri, 26 April 1832, through Joseph Smith Jr.*
+
+###### 1
+Verily, verily I say unto you my servants that inasmuch as you have forgiven one another your trespasses, even so, I, the Lord, forgive you. Nevertheless, there are those among you who have sinned exceedingly, yea, even all of you have sinned, but verily I say unto you, beware from henceforth and refrain from sin, lest sore judgments fall upon your heads. For unto whom much is given, much is required, and he who sins against the greater light shall receive the greater condemnation. You call upon my name for revelations and I give them unto you, and inasmuch as you keep not my sayings which I give unto you, you become transgressors, and justice and judgment is the penalty which is affixed unto my law. Therefore, what I say unto one I say unto all: Watch, for the adversary spreads his dominions, and darkness reigns, and the anger of God kindles against the inhabitants of the earth, and none does good, for all have gone out of the way. And now, verily I say unto you, I, the Lord, will not lay any sin to your charge. Go your ways and sin no more, but unto that soul who sins shall the former sins return, says the Lord your God.
+
+###### 2
+And again I say unto you, I give unto you a new commandment, that you may understand my will concerning you, or in other words, I give unto you directions how you may act before me, that it may turn to you for your salvation. I, the Lord, am bound when you do what I say, but when you do not what I say you have no promise.
+
+###### 3
+Therefore, verily I say unto you, it is expedient for you, my servants Edward Partridge and Newel K. Whitney, Sidney Gilbert and Sidney Rigdon, and my servant Joseph Smith Jr., and John Whitmer, and Oliver Cowdery, and William W. Phelps, and Martin Harris, to be bound together by a bond and covenant that cannot be broken, in your several stewardships, to manage the literary and mercantile concerns and the bishopric, both in the land of Zion and in the land of Kirtland. For I have consecrated the land of Kirtland, in my own due time, for the benefit of the saints of the Most High and for a stake to Zion. For Zion must increase in beauty and in holiness, her borders must be enlarged, her stakes must be strengthened. Yea, verily I say unto you, Zion must arise and put on her beautiful garments. Therefore, I give unto you this commandment — that you bind yourselves by this covenant, and it shall be done according to the laws of the land (behold, here is wisdom also in me for your good): and you are to be equal, or in other words, you are to have equal claims on the properties for the benefit of managing the concerns of your stewardship, every man according to his wants and his needs, inasmuch as his wants are just, and all this for the benefit of the church of the living God — that every man may improve upon his talent, that he may gain other talents, yea, even a hundredfold, to be cast into the Lord’s storehouse to become the common property of the whole church, every man seeking the interest of his neighbor and doing all things with an eye single to the glory of God.
+
+###### 4
+This firm I have appointed to be an everlasting firm unto you and unto your successors inasmuch as you sin not. And the soul that sins against the covenant and hardens his heart against it shall be dealt with according to the laws of my church, and shall be delivered over to the buffetings of Satan until the day of redemption.
+
+###### 5
+And now verily I say unto you, and this is wisdom, make unto yourselves friends with the mammon of unrighteousness, and they will not destroy you. Leave judgment alone with me, for it is mine and I will repay. Peace be with you, my blessings continue with you. For even yet the kingdom is yours, and shall be for ever if you fall not from your steadfastness. Even so, Amen.

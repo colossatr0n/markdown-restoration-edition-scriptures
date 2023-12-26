@@ -1,0 +1,29 @@
+[[../Canonization.md|<< Canonization]]  |  [[Matthew/Matthew 1.md|Matthew 1 >>]]
+
+### PREFACE TO THE NEW TESTAMENT
+This edition of the New Testament is drawn from Joseph Smith’s New Translation of the Holy Bible, commonly known as the Inspired Version. During talks that Joseph Smith gave in the Nauvoo era, there were several times when he said, “The Bible reads this way, but it ought to read that way,” or “This is what it says, but a plainer meaning or plainer translation would be this.” In 1867, the Reorganized Church of Jesus Christ of Latter Day Saints (RLDS) first published Joseph’s New Translation under the title The Holy Scriptures, Translated and Corrected by the Spirit of Revelation. When the Joseph Smith Translation (JST) was first published by the RLDS Church, the publishing committee made a number of editorial changes. Additionally, Joseph Smith made changes that did not get incorporated into their version. This Restoration Edition of the New Testament encompasses every change Joseph Smith made, whether they were in the version published by the RLDS Church or not; all of the editorial changes that were inserted by their committee have been eliminated. Great effort has been taken to gather and correctly reflect exactly what Joseph Smith intended. However, Joseph’s labor to recover and restore the text of the Bible was never completed, hindering this current effort to fully reflect his intentions.
+
+All available sources of the Joseph Smith Inspired Version of the Bible have been used to align the text with Joseph’s efforts to improve the text. In addition to the written edits made by Joseph, a number of other textual adjustments have been made; these adjustments were things that Joseph stated in public discourses that never became part of his written New Translation.
+
+The following is a simple list of the updates and changes made to the New Testament for this Restoration Edition of the scriptures:
+
+
+Matthew 24 (the JST version of that chapter known as Joseph Smith—Matthew in the LDS Pearl of Great Price), has now been put in its correct place (see [[Matthew/Matthew 11.md|Matthew 11]]).
+Archaic language updates to the Bible were approved by the Lord and have been restricted to updating words, phrases, and grammar that are no longer used in modern speech (see [[../../Teachings and Commandments/Sections/Section 157.md|Teachings & Commandments 157:15]]).
+Some phrases and sentences have been modified in consequence of these word updates or when current wording made the meaning unclear. This was only permitted when the intent of the meaning was retained, as directed by the Lord (ibid.). Whenever meaning was questionable, the text was left alone. This meant that odd-sounding or incorrect text was not necessarily good justification for change. For example, *For in their anger they slew a man, and in their self-will they digged down a wall* ([[../../Old Covenants/Genesis/Genesis 12.md|Genesis 12:21]]); *digged* has been updated to *dug*, but a more correct translation of *digged down a wall* would be an understanding that Simeon and Levi amused themselves by ham-stringing or laming cattle. That correction was not made.
+Particular attention has been paid to how words are used and their structure. For example, *first born* refers to birth order, whereas *firstborn* is titular and refers to the birthright; *every one* refers to all of the parts of a subset, whereas *everyone* refers to all people.
+The distinction of LORD/Lord and GOD/God has been let go and standardized to Lord and God.
+Name changes have been made either to standardize spelling or to correct traditional errors:
+
+
+**James** is an anglicized version of a name that requires passing through several languages to arrive at. The Greek root is **Iakōbon** and should be rendered **Jacob** in English.
+
+**Jude** is an anglicized version of **Judas** (Greek) and **Judah** (Hebrew). Though **Judah** is closer to what others would likely have called him, it cannot be determined which instances of **Judas** to change in the New Testament and, therefore, it was prudent to use the Greek version throughout and leave the investigation to the reader.
+
+Some old grammatical structures have been updated to make reading significantly easier, such as Verb *>* Noun *>* Object was changed to Noun *>* Verb *>* Object; for example, *Then answered they him* became *Then they answered him* ([[John/John 5.md|John 5:2]]). Some exceptions were made when the text needed to be respected more than it needed to be updated, for example*…created I him;…created I them* ([[../../Old Covenants/Genesis/Genesis 3.md|Genesis 3:14]]).
+Chapters have been set by context rather than tradition. For instance, the Epistles — letters that were written to groups of followers — were left without arbitrary chapter breaks.
+Verses have been expanded to paragraphs to allow the context to influence the reading of the text.
+Punctuation has been reduced, whenever possible, to allow multiple interpretations where the text suggests that possibility. Otherwise, modern grammatical rules have been applied.
+Some literary tools have been used to invite new or particular perspectives to be considered. For example, when referring to God, personal pronouns have all been rendered in lowercase to help reduce the historically-perceived distance between God and man. Words that can convey multiple meanings are largely rendered in lowercase, even when one of the meanings would demand capitalization, such as earth. Also, a significant number of titles have been rendered in lowercase to avoid elevating some men and positions above others.
+
+Great effort has been put into honoring the work of Joseph Smith in this collection. Because numerous changes indicated in the Bible that Joseph used for his translation have never been included in any prior version of the JST, this should be considered the *most complete* JST currently available.

@@ -1,0 +1,5 @@
+[[Psalms 147.md|<< Psalms 147]]  |  [[Psalms 149.md|Psalms 149 >>]]
+
+### Psalm 148
+###### 1
+Praise the Lord. Praise the Lord from the heavens. Praise him in the heights. Praise him, all his angels. Praise him, all his hosts. Praise him, sun and moon. Praise him, all you stars of light. Praise him, you Heavens of heavens and you waters that are above the heavens. Let them praise the name of the Lord, for he commanded and they were created. He has also established them for ever and ever. He has made a decree which shall not pass. Praise the Lord from the earth, you dragons and all depths, fire and hail, snow and vapor, stormy wind fulfilling his word, mountains and all hills, fruitful trees and all cedars, beast and all cattle, creeping things and flying fowl, kings of the earth and all people, princes and all judges of the earth, both young men and virgins, old men and children. Let them praise the name of the Lord, for his name alone is excellent. His glory is above the earth and heaven. He also exalts the horn of his people, the praise of all his saints, even of the children of Israel — a people near unto him. Praise the Lord.

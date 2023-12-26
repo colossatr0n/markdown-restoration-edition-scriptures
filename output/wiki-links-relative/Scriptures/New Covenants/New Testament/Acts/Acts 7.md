@@ -1,0 +1,26 @@
+[[Acts 6.md|<< Acts 6]]  |  [[Acts 8.md|Acts 8 >>]]
+
+### Chapter 7
+###### 1
+Now they who were scattered abroad, upon the persecution that arose about Stephen, traveled as far as Phoenicia, and Cyprus, and Antioch, preaching the word to none but unto the Jews only. And some of them were men of Cyprus and Cyrene, who, when they had come to Antioch, spoke unto the Greeks, preaching the Lord Jesus. And the hand of the Lord was with them, and a great number believed and turned unto the Lord. Then tidings of these things came unto the ears of the church which was in Jerusalem, and they sent forth Barnabas, that he should go as far as Antioch — who, when he came and had seen the grace of God, was glad, and exhorted them all that with purpose of heart they would cleave unto the Lord; for he was a good man, and full of the holy ghost and of faith, and many people were added unto the Lord. Then departed Barnabas to Tarsus to seek Saul. And when he had found him, he brought him unto Antioch.
+
+###### 2
+And it came to pass that a whole year they assembled themselves with the church and taught many people, and the disciples were called Christians first in Antioch. And in these days came prophets from Jerusalem unto Antioch. And there stood up one of them, named Agabus, and signified by the spirit that there should be great dearth throughout all the world, which came to pass in the days of Claudius Caesar. Then the disciples, every man according to his ability, determined to send relief unto the brethren who dwelled in Judea, which also they did, and sent it to the elders by the hands of Barnabas and Saul.
+
+###### 3
+Now about that time, Herod the king stretched forth his hands to vex certain of the church, and he killed Jacob the brother of John with the sword. And because he saw it pleased the Jews, he proceeded further to take Peter also (then were the days of unleavened bread). And when he had apprehended him, he put him in prison and delivered him to four quaternions of soldiers to keep him, intending after Easter to bring him forth to the people.
+
+###### 4
+Peter therefore was kept in prison, but prayer was made without ceasing of the church unto God for him. And when Herod would have brought him forth, the same night, Peter was sleeping between two soldiers, bound with two chains, and the keepers before the door kept the prison. And behold, the angel of the Lord came unto him, and a light shined in the prison, and he smote Peter on the side and raised him up, saying, Arise up quickly. And his chains fell off from his hands. And the angel said unto him, Gird yourself and bind on your sandals. And so he did. And he says unto him, Cast your garment about yourself and follow me. And he went out and followed him, and knew not that it was true which was done by the angel, but thought he saw a vision. When they were past the first and the second guard, they came unto the iron gate that leads unto the city, which opened to them of its own accord, and they went out and passed on through one street, and immediately the angel departed from him. And when Peter had come to himself, he said, Now I know of a certainty that the Lord has sent his angel and has delivered me out of the hand of Herod and from all the expectation of the people of the Jews.
+
+###### 5
+And when he had considered the thing, he came to the house of Mary the mother of John, whose surname was Mark, where many were gathered together praying. And as Peter knocked at the door of the gate, a damsel came to listen, named Rhoda. And when she knew Peter’s voice, she opened not the gate for gladness, but ran in and told how Peter stood before the gate. And they said unto her, You are mad. But she constantly affirmed that it was even so. Then said they, It is his angel. But Peter continued knocking, and when they had opened the door and saw him, they were astonished. But he, beckoning unto them with the hand to hold their peace, declared unto them how the Lord had brought him out of the prison. And he said, Go show these things unto Jacob and to the brethren. And he departed and went into another place.
+
+###### 6
+Now as soon as it was day, there was no small stir among the soldiers, what had become of Peter. And when Herod had sought for him and found him not, he examined the keepers and commanded that they should be put to death. And he went down from Judea to Caesarea and there stayed.
+
+###### 7
+And Herod was highly displeased with them of Tyre and Sidon; but they came with one accord to him, and, having made Blastus the king’s chamberlain their friend, desired peace — because their country was nourished by the king’s country. And upon a set day, Herod, arrayed in royal apparel, sat upon his throne and made an oration unto them. And the people gave a shout, saying, It is the voice of a god and not of a man! And immediately the angel of the Lord smote him, because he gave not God the glory, and he was eaten of worms and gave up the ghost.
+
+###### 8
+But the word of God grew and multiplied, and Barnabas and Saul returned from Jerusalem when they had fulfilled their ministry, and took with them John, whose surname was Mark.

@@ -1,0 +1,2 @@
+- [[Hosea 1.md|Hosea 1]]
+- [[Hosea 2.md|Hosea 2]]

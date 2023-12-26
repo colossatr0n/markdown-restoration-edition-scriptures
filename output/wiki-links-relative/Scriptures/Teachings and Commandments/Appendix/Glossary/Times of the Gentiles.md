@@ -1,0 +1,4 @@
+[[Thrones.md|<< Thrones]]  |  [[Tithing.md|Tithing >>]]
+
+### Times of the Gentiles
+Joseph Smith was instructed by a heavenly messenger on Sept. 23, 1823 that the fullness of the gentiles was soon to come in (*see* JSH 3:4). Modern revelation states that the times of the gentiles is that time when the fullness of the gospel will come among the gentiles (*see* T&C 31:6–7). The times of the gentiles will be fulfilled in that generation *when the gentiles shall sin against my gospel, and shall reject the fullness of my gospel* (3 Nephi 7:5), and *they receive it not* (T&C 31:6). The Lord will then *bring the fullness of my gospel from among them. And then will I remember my covenant which I have made unto my people, O house of Israel, and I will bring my gospel unto them* (3 Nephi 7:5).

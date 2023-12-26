@@ -1,0 +1,8 @@
+[[Psalms 146.md|<< Psalms 146]]  |  [[Psalms 148.md|Psalms 148 >>]]
+
+### Psalm 147
+###### 1
+Praise the Lord, for it is good to sing praises unto our God; for it is pleasant and praise is comely. The Lord does build up Jerusalem; he gathers together the outcasts of Israel. He heals the broken in heart and binds up their wounds. He tallies the number of the stars; he calls them all by their names. Great is our Lord, and of great power. His understanding is infinite. The Lord lifts up the meek; he casts the wicked down to the ground. Sing unto the Lord with thanksgiving. Sing praise upon the harp unto our God, who covers the heaven with clouds; who prepares rain for the earth; who makes grass to grow upon the mountains. He gives to the beast his food, and to the young ravens which cry. He delights not in the strength of the horse. He takes not pleasure in the legs of a man. The Lord takes pleasure in them that fear him, in those that hope in his mercy.
+
+###### 2
+Praise the Lord, O Jerusalem. Praise your God, O Zion, for he has strengthened the bars of your gates. He has blessed your children within you. He makes peace in your borders and fills you with the finest of the wheat. He sends forth his commandment upon earth. His word runs very swiftly. He gives snow like wool. He scatters the hoarfrost like ashes. He casts forth his ice like morsels. Who can stand before his cold? He sends out his word and melts them. He causes his wind to blow and the waters flow. He shows his word unto Jacob, his statutes and his judgments unto Israel. He has not dealt so with any nation, and as for his judgments, they have not known them. Praise the Lord.

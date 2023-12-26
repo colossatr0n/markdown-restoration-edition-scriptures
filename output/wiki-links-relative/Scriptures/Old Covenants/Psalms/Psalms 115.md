@@ -1,0 +1,8 @@
+[[Psalms 114.md|<< Psalms 114]]  |  [[Psalms 116.md|Psalms 116 >>]]
+
+### Psalm 115
+###### 1
+Not unto us, O Lord, not unto us, but unto your name be glory, for your mercy and for your truth’s sake. Why should the heathen say, Where is now their God? But our God is in the Heavens. He has done whatever he has pleased. Their idols are silver and gold, the work of men’s hands. They have mouths, but they speak not. Eyes have they, but they see not. They have ears, but they hear not. Noses have they, but they smell not. They have hands, but they handle not. Feet have they, but they walk not, neither speak they through their throat. They that make them are like unto them; so is everyone that trusts in them.
+
+###### 2
+O Israel, trust in the Lord. He is your help and your shield. O house of Aaron, trust in the Lord. He is your help and your shield. You that fear the Lord, trust in the Lord. He is your help and your shield. The Lord has been mindful of us. He will bless us. He will bless the house of Israel. He will bless the house of Aaron. He will bless them that fear the Lord, both small and great. The Lord shall increase you more and more, you and your children. You are blessed of the Lord who made Heaven and earth. The heaven, even the heavens, are the Lord’s, but the earth he has given to the children of men. The dead praise not the Lord, neither any that go down into silence. But we will bless the Lord from this time forth and for ever. Praise the Lord.

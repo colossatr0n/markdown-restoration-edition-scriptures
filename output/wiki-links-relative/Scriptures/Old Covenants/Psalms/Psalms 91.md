@@ -1,0 +1,8 @@
+[[Psalms 90.md|<< Psalms 90]]  |  [[Psalms 92.md|Psalms 92 >>]]
+
+### Psalm 91
+###### 1
+He that dwells in the secret place of the Most High shall abide under the shadow of the Almighty. I will say of the Lord, He is my refuge and my fortress. My God, in him will I trust. Surely he shall deliver you from the snare of the fowler and from the noxious pestilence. He shall cover you with his feathers, and under his wings shall you trust. His truth shall be your shield and buckler. You shall not be afraid for the terror by night, nor for the arrow that flies by day, nor for the pestilence that walks in darkness, nor for the destruction that wastes at noonday. A thousand shall fall at your side and ten thousand at your right hand, but it shall not come near to you. Only with your eyes shall you behold and see the reward of the wicked. Because you have made the Lord — who is my refuge, even the Most High — your habitation, there shall no evil befall you, neither shall any plague come near your dwelling. For he shall give his angels charge over you, to keep you in all your ways. They shall bear you up in their hands lest you dash your foot against a stone. You shall tread upon the lion and adder. The young lion and the dragon shall you trample under feet.
+
+###### 2
+Because he has set his love upon me, therefore will I deliver him. I will set him on high because he has known my name. He shall call upon me, and I will answer him. I will be with him in trouble. I will deliver him and honor him. With long life will I satisfy him and show him my salvation.
