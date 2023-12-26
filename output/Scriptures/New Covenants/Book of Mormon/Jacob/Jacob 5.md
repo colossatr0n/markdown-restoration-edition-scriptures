@@ -1,4 +1,4 @@
-[[Jacob 4|<< Jacob 4]]  |   >>
+[[Jacob 4|<< Jacob 4]]  |  [[Enos 1|Enos 1 >>]]
 
 ### Chapter 5
 ###### 1

@@ -1,4 +1,4 @@
-<<   |  [[Introduction|Introduction >>]]
+[[Correlation Tables|<< Correlation Tables]]  |  [[Introduction|Introduction >>]]
 
 ### PREFACE TO THE BOOK OF MORMON
 The Restoration Edition

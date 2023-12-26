@@ -1,4 +1,4 @@
-<<   |   >>
+[[Philemon 1|<< Philemon 1]]  |  [[Ep. Jacob 1|Ep. Jacob 1 >>]]
 
 # THE EPISTLE TO THE HEBREWS
 ###### 1

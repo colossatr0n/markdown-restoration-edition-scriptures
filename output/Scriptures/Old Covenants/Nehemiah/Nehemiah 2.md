@@ -1,4 +1,4 @@
-[[Nehemiah 1|<< Nehemiah 1]]  |   >>
+[[Nehemiah 1|<< Nehemiah 1]]  |  [[Esther 1|Esther 1 >>]]
 
 ### Chapter 2
 ###### 1

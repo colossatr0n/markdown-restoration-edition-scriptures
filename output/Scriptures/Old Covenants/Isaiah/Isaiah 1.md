@@ -1,4 +1,4 @@
-<<   |  [[Isaiah 2|Isaiah 2 >>]]
+[[Ecclesiastes 1|<< Ecclesiastes 1]]  |  [[Isaiah 2|Isaiah 2 >>]]
 
 # THE BOOK OF THE PROPHET ISAIAH
 ### Chapter 1

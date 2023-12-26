@@ -1,4 +1,4 @@
-<<   |  [[Ezekiel 2|Ezekiel 2 >>]]
+[[Lamentations 1|<< Lamentations 1]]  |  [[Ezekiel 2|Ezekiel 2 >>]]
 
 # THE BOOK OF THE PROPHET EZEKIEL
 ### Chapter 1

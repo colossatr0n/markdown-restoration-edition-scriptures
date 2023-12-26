@@ -1,4 +1,4 @@
-<<   |   >>
+[[1 Peter 1|<< 1 Peter 1]]  |  [[1 John 1|1 John 1 >>]]
 
 # THE SECOND EPISTLE OF PETER
 ###### 1

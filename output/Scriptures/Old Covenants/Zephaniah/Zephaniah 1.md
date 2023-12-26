@@ -1,4 +1,4 @@
-[[Habakkuk 2|<< Habakkuk 2]]  |   >>
+[[Habakkuk 2|<< Habakkuk 2]]  |  [[Haggai 1|Haggai 1 >>]]
 
 # ZEPHANIAH
 ###### 1

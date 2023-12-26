@@ -1,4 +1,4 @@
-<<   |  [[Mormon 2|Mormon 2 >>]]
+[[4 Nephi 1|<< 4 Nephi 1]]  |  [[Mormon 2|Mormon 2 >>]]
 
 # THE BOOK OF MORMON
 ### Chapter 1

@@ -1,4 +1,4 @@
-<<   |   >>
+[[Amos 1|<< Amos 1]]  |  [[Jonah 1|Jonah 1 >>]]
 
 # OBADIAH
 

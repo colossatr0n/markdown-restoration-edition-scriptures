@@ -216,124 +216,124 @@
 | ACTS 26 | [[Acts 12\|ACTS 12:38–45]] |
 | ACTS 27 | [[Acts 13\|ACTS 13:1–7]] |
 | ACTS 28 | [[Acts 13\|ACTS 13:8–13]] |
-| ROM 1 | [ROM 1:1–6](/scriptures/nt/romans/1.1-6) |
-| ROM 2 | [ROM 1:7–11](/scriptures/nt/romans/1.7-11) |
-| ROM 3 | [ROM 1:12–17](/scriptures/nt/romans/1.12-17) |
-| ROM 4 | [ROM 1:18–21](/scriptures/nt/romans/1.18-21) |
-| ROM 5 | [ROM 1:21–24](/scriptures/nt/romans/1.21-24) |
-| ROM 6 | [ROM 1:25–28](/scriptures/nt/romans/1.25-28) |
-| ROM 7 | [ROM 1:29–32](/scriptures/nt/romans/1.29-32) |
-| ROM 8 | [ROM 1:33–37](/scriptures/nt/romans/1.33-37) |
-| ROM 9 | [ROM 1:38–45](/scriptures/nt/romans/1.38-45) |
-| ROM 10 | [ROM 1:46–50](/scriptures/nt/romans/1.46-50) |
-| ROM 11 | [ROM 1:51–58](/scriptures/nt/romans/1.51-58) |
-| ROM 12 | [ROM 1:59–62](/scriptures/nt/romans/1.59-62) |
-| ROM 13 | [ROM 1:63–66](/scriptures/nt/romans/1.63-66) |
-| ROM 14 | [ROM 1:67–72](/scriptures/nt/romans/1.67-72) |
-| ROM 15 | [ROM 1:73–78](/scriptures/nt/romans/1.73-78) |
-| ROM 16 | [ROM 1:79–82](/scriptures/nt/romans/1.79-82) |
-| 1 COR 1 | [1 COR 1:1–5](/scriptures/nt/1corinthians/1.1-5) |
-| 1 COR 2 | [1 COR 1:6–8](/scriptures/nt/1corinthians/1.6-8) |
-| 1 COR 3 | [1 COR 1:9–13](/scriptures/nt/1corinthians/1.9-13) |
-| 1 COR 4 | [1 COR 1:14–17](/scriptures/nt/1corinthians/1.14-17) |
-| 1 COR 5 | [1 COR 1:18–20](/scriptures/nt/1corinthians/1.18-20) |
-| 1 COR 6 | [1 COR 1:21–23](/scriptures/nt/1corinthians/1.21-23) |
-| 1 COR 7 | [1 COR 1:24–30](/scriptures/nt/1corinthians/1.24-30) |
-| 1 COR 8 | [1 COR 1:31–33](/scriptures/nt/1corinthians/1.31-33) |
-| 1 COR 9 | [1 COR 1:34–38](/scriptures/nt/1corinthians/1.34-38) |
-| 1 COR 10 | [1 COR 1:39–43](/scriptures/nt/1corinthians/1.39-43) |
-| 1 COR 11 | [1 COR 1:43–46](/scriptures/nt/1corinthians/1.43-46) |
-| 1 COR 12 | [1 COR 1:47–50](/scriptures/nt/1corinthians/1.47-50) |
-| 1 COR 13 | [1 COR 1:51–53](/scriptures/nt/1corinthians/1.51-53) |
-| 1 COR 14 | [1 COR 1:54–60](/scriptures/nt/1corinthians/1.54-60) |
-| 1 COR 15 | [1 COR 1:61–68](/scriptures/nt/1corinthians/1.61-68) |
-| 1 COR 16 | [1 COR 1:69–75](/scriptures/nt/1corinthians/1.69-75) |
-| 2 COR 1 | [2 COR 1:1–5](/scriptures/nt/2corinthians/1.1-5) |
-| 2 COR 2 | [2 COR 1:5–9](/scriptures/nt/2corinthians/1.5-9) |
-| 2 COR 3 | [2 COR 1:9–11](/scriptures/nt/2corinthians/1.9-11) |
-| 2 COR 4 | [2 COR 1:12–14](/scriptures/nt/2corinthians/1.12-14) |
-| 2 COR 5 | [2 COR 1:15–19](/scriptures/nt/2corinthians/1.15-19) |
-| 2 COR 6 | [2 COR 1:20–21](/scriptures/nt/2corinthians/1.20-21) |
-| 2 COR 7 | [2 COR 1:22–25](/scriptures/nt/2corinthians/1.22-25) |
-| 2 COR 8 | [2 COR 1:26–28](/scriptures/nt/2corinthians/1.26-28) |
-| 2 COR 9 | [2 COR 1:29–31](/scriptures/nt/2corinthians/1.29-31) |
-| 2 COR 10 | [2 COR 1:32–34](/scriptures/nt/2corinthians/1.32-34) |
-| 2 COR 11 | [2 COR 1:35–40](/scriptures/nt/2corinthians/1.35-40) |
-| 2 COR 12 | [2 COR 1:41–46](/scriptures/nt/2corinthians/1.41-46) |
-| 2 COR 13 | [2 COR 1:47–49](/scriptures/nt/2corinthians/1.47-49) |
-| GAL 1 | [GAL 1:1–4](/scriptures/nt/galatians/1.1-4) |
-| GAL 2 | [GAL 1:5–6](/scriptures/nt/galatians/1.5-6) |
-| GAL 3 | [GAL 1:7–12](/scriptures/nt/galatians/1.7-12) |
-| GAL 4 | [GAL 1:13–17](/scriptures/nt/galatians/1.13-17) |
-| GAL 5 | [GAL 1:17–22](/scriptures/nt/galatians/1.17-22) |
-| GAL 6 | [GAL 1:23–26](/scriptures/nt/galatians/1.23-26) |
-| EPH 1 | [EPH 1:1–3](/scriptures/nt/ephesians/1.1-3) |
-| EPH 2 | [EPH 1:4–7](/scriptures/nt/ephesians/1.4-7) |
-| EPH 3 | [EPH 1:8–11](/scriptures/nt/ephesians/1.8-11) |
-| EPH 4 | [EPH 1:12–16](/scriptures/nt/ephesians/1.12-16) |
-| EPH 5 | [EPH 1:16–21](/scriptures/nt/ephesians/1.16-21) |
-| EPH 6 | [EPH 1:22–26](/scriptures/nt/ephesians/1.22-26) |
+| ROM 1 | [[Romans 1\|ROM 1:1–6]] |
+| ROM 2 | [[Romans 1\|ROM 1:7–11]] |
+| ROM 3 | [[Romans 1\|ROM 1:12–17]] |
+| ROM 4 | [[Romans 1\|ROM 1:18–21]] |
+| ROM 5 | [[Romans 1\|ROM 1:21–24]] |
+| ROM 6 | [[Romans 1\|ROM 1:25–28]] |
+| ROM 7 | [[Romans 1\|ROM 1:29–32]] |
+| ROM 8 | [[Romans 1\|ROM 1:33–37]] |
+| ROM 9 | [[Romans 1\|ROM 1:38–45]] |
+| ROM 10 | [[Romans 1\|ROM 1:46–50]] |
+| ROM 11 | [[Romans 1\|ROM 1:51–58]] |
+| ROM 12 | [[Romans 1\|ROM 1:59–62]] |
+| ROM 13 | [[Romans 1\|ROM 1:63–66]] |
+| ROM 14 | [[Romans 1\|ROM 1:67–72]] |
+| ROM 15 | [[Romans 1\|ROM 1:73–78]] |
+| ROM 16 | [[Romans 1\|ROM 1:79–82]] |
+| 1 COR 1 | [[1 Corinthians 1\|1 COR 1:1–5]] |
+| 1 COR 2 | [[1 Corinthians 1\|1 COR 1:6–8]] |
+| 1 COR 3 | [[1 Corinthians 1\|1 COR 1:9–13]] |
+| 1 COR 4 | [[1 Corinthians 1\|1 COR 1:14–17]] |
+| 1 COR 5 | [[1 Corinthians 1\|1 COR 1:18–20]] |
+| 1 COR 6 | [[1 Corinthians 1\|1 COR 1:21–23]] |
+| 1 COR 7 | [[1 Corinthians 1\|1 COR 1:24–30]] |
+| 1 COR 8 | [[1 Corinthians 1\|1 COR 1:31–33]] |
+| 1 COR 9 | [[1 Corinthians 1\|1 COR 1:34–38]] |
+| 1 COR 10 | [[1 Corinthians 1\|1 COR 1:39–43]] |
+| 1 COR 11 | [[1 Corinthians 1\|1 COR 1:43–46]] |
+| 1 COR 12 | [[1 Corinthians 1\|1 COR 1:47–50]] |
+| 1 COR 13 | [[1 Corinthians 1\|1 COR 1:51–53]] |
+| 1 COR 14 | [[1 Corinthians 1\|1 COR 1:54–60]] |
+| 1 COR 15 | [[1 Corinthians 1\|1 COR 1:61–68]] |
+| 1 COR 16 | [[1 Corinthians 1\|1 COR 1:69–75]] |
+| 2 COR 1 | [[2 Corinthians 1\|2 COR 1:1–5]] |
+| 2 COR 2 | [[2 Corinthians 1\|2 COR 1:5–9]] |
+| 2 COR 3 | [[2 Corinthians 1\|2 COR 1:9–11]] |
+| 2 COR 4 | [[2 Corinthians 1\|2 COR 1:12–14]] |
+| 2 COR 5 | [[2 Corinthians 1\|2 COR 1:15–19]] |
+| 2 COR 6 | [[2 Corinthians 1\|2 COR 1:20–21]] |
+| 2 COR 7 | [[2 Corinthians 1\|2 COR 1:22–25]] |
+| 2 COR 8 | [[2 Corinthians 1\|2 COR 1:26–28]] |
+| 2 COR 9 | [[2 Corinthians 1\|2 COR 1:29–31]] |
+| 2 COR 10 | [[2 Corinthians 1\|2 COR 1:32–34]] |
+| 2 COR 11 | [[2 Corinthians 1\|2 COR 1:35–40]] |
+| 2 COR 12 | [[2 Corinthians 1\|2 COR 1:41–46]] |
+| 2 COR 13 | [[2 Corinthians 1\|2 COR 1:47–49]] |
+| GAL 1 | [[Galatians 1\|GAL 1:1–4]] |
+| GAL 2 | [[Galatians 1\|GAL 1:5–6]] |
+| GAL 3 | [[Galatians 1\|GAL 1:7–12]] |
+| GAL 4 | [[Galatians 1\|GAL 1:13–17]] |
+| GAL 5 | [[Galatians 1\|GAL 1:17–22]] |
+| GAL 6 | [[Galatians 1\|GAL 1:23–26]] |
+| EPH 1 | [[Ephesians 1\|EPH 1:1–3]] |
+| EPH 2 | [[Ephesians 1\|EPH 1:4–7]] |
+| EPH 3 | [[Ephesians 1\|EPH 1:8–11]] |
+| EPH 4 | [[Ephesians 1\|EPH 1:12–16]] |
+| EPH 5 | [[Ephesians 1\|EPH 1:16–21]] |
+| EPH 6 | [[Ephesians 1\|EPH 1:22–26]] |
 | PHIL 1 | [PHIL 1:1–5](/scriptures/nt/pilippians/1.1-5) |
 | PHIL 2 | [PHIL 1:6–10](/scriptures/nt/pilippians/1.6-10) |
 | PHIL 3 | [PHIL 1:11–13](/scriptures/nt/pilippians/1.11-13) |
 | PHIL 4 | [PHIL 1:14–18](/scriptures/nt/pilippians/1.14-18) |
-| COL 1 | [COL 1:1–5](/scriptures/nt/colossians/1.1-5) |
-| COL 2 | [COL 1:6–10](/scriptures/nt/colossians/1.6-10) |
-| COL 3 | [COL 1:11–15](/scriptures/nt/colossians/1.11-15) |
-| COL 4 | [COL 1:15–19](/scriptures/nt/colossians/1.15-19) |
-| 1 THESS 1 | [1 THESS 1:1–2](/scriptures/nt/1thessalonians/1.1-2) |
-| 1 THESS 2 | [1 THESS 1:3–6](/scriptures/nt/1thessalonians/1.3-6) |
-| 1 THESS 3 | [1 THESS 1:7–9](/scriptures/nt/1thessalonians/1.7-9) |
-| 1 THESS 4 | [1 THESS 1:10–12](/scriptures/nt/1thessalonians/1.10-12) |
-| 1 THESS 5 | [1 THESS 1:13–15](/scriptures/nt/1thessalonians/1.13-15) |
-| 2 THESS 1 | [2 THESS 1:1–3](/scriptures/nt/2thessalonians/1.1-3) |
-| 2 THESS 2 | [2 THESS 1:4–6](/scriptures/nt/2thessalonians/1.4-6) |
-| 2 THESS 3 | [2 THESS 1:7–10](/scriptures/nt/2thessalonians/1.7-10) |
-| 1 TIM 1 | [1 TIM 1:1–5](/scriptures/nt/1timothy/1.1-5) |
-| 1 TIM 2 | [1 TIM 1:6–7](/scriptures/nt/1timothy/1.6-7) |
-| 1 TIM 3 | [1 TIM 1:8–9](/scriptures/nt/1timothy/1.8-9) |
-| 1 TIM 4 | [1 TIM 1:10–12](/scriptures/nt/1timothy/1.10-12) |
-| 1 TIM 5 | [1 TIM 1:13–15](/scriptures/nt/1timothy/1.13-15) |
-| 1 TIM 6 | [1 TIM 1:16–19](/scriptures/nt/1timothy/1.16-19) |
-| 2 TIM 1 | [2 TIM 1:1–4](/scriptures/nt/2timothy/1.1-4) |
-| 2 TIM 2 | [2 TIM 1:5–7](/scriptures/nt/2timothy/1.5-7) |
-| 2 TIM 3 | [2 TIM 1:8–9](/scriptures/nt/2timothy/1.8-9) |
-| 2 TIM 4 | [2 TIM 1:10–12](/scriptures/nt/2timothy/1.10-12) |
-| TITUS 1 | [TITUS 1:1–2](/scriptures/nt/titus/1.1-2) |
-| TITUS 2 | [TITUS 1:3](/scriptures/nt/titus/1.3) |
-| TITUS 3 | [TITUS 1:3–5](/scriptures/nt/titus/1.3-5) |
+| COL 1 | [[Colossians 1\|COL 1:1–5]] |
+| COL 2 | [[Colossians 1\|COL 1:6–10]] |
+| COL 3 | [[Colossians 1\|COL 1:11–15]] |
+| COL 4 | [[Colossians 1\|COL 1:15–19]] |
+| 1 THESS 1 | [[1 Thessalonians 1\|1 THESS 1:1–2]] |
+| 1 THESS 2 | [[1 Thessalonians 1\|1 THESS 1:3–6]] |
+| 1 THESS 3 | [[1 Thessalonians 1\|1 THESS 1:7–9]] |
+| 1 THESS 4 | [[1 Thessalonians 1\|1 THESS 1:10–12]] |
+| 1 THESS 5 | [[1 Thessalonians 1\|1 THESS 1:13–15]] |
+| 2 THESS 1 | [[2 Thessalonians 1\|2 THESS 1:1–3]] |
+| 2 THESS 2 | [[2 Thessalonians 1\|2 THESS 1:4–6]] |
+| 2 THESS 3 | [[2 Thessalonians 1\|2 THESS 1:7–10]] |
+| 1 TIM 1 | [[1 Timothy 1\|1 TIM 1:1–5]] |
+| 1 TIM 2 | [[1 Timothy 1\|1 TIM 1:6–7]] |
+| 1 TIM 3 | [[1 Timothy 1\|1 TIM 1:8–9]] |
+| 1 TIM 4 | [[1 Timothy 1\|1 TIM 1:10–12]] |
+| 1 TIM 5 | [[1 Timothy 1\|1 TIM 1:13–15]] |
+| 1 TIM 6 | [[1 Timothy 1\|1 TIM 1:16–19]] |
+| 2 TIM 1 | [[2 Timothy 1\|2 TIM 1:1–4]] |
+| 2 TIM 2 | [[2 Timothy 1\|2 TIM 1:5–7]] |
+| 2 TIM 3 | [[2 Timothy 1\|2 TIM 1:8–9]] |
+| 2 TIM 4 | [[2 Timothy 1\|2 TIM 1:10–12]] |
+| TITUS 1 | [[Titus 1\|TITUS 1:1–2]] |
+| TITUS 2 | [[Titus 1\|TITUS 1:3]] |
+| TITUS 3 | [[Titus 1\|TITUS 1:3–5]] |
 | PHILEMON | [[Philemon 1\|PHILEMON]] |
-| HEB 1 | [HEB 1:1–2](/scriptures/nt/hebrews/1.1-2) |
-| HEB 2 | [HEB 1:3–5](/scriptures/nt/hebrews/1.3-5) |
-| HEB 3 | [HEB 1:6–8](/scriptures/nt/hebrews/1.6-8) |
-| HEB 4 | [HEB 1:9–11](/scriptures/nt/hebrews/1.9-11) |
-| HEB 5 | [HEB 1:12–14](/scriptures/nt/hebrews/1.12-14) |
-| HEB 6 | [HEB 1:14–16](/scriptures/nt/hebrews/1.14-16) |
-| HEB 7 | [HEB 1:17–21](/scriptures/nt/hebrews/1.17-21) |
-| HEB 8 | [HEB 1:22–23](/scriptures/nt/hebrews/1.22-23) |
-| HEB 9 | [HEB 1:24–28](/scriptures/nt/hebrews/1.24-28) |
-| HEB 10 | [HEB 1:29–35](/scriptures/nt/hebrews/1.29-35) |
-| HEB 11 | [HEB 1:36–50](/scriptures/nt/hebrews/1.36-50) |
-| HEB 12 | [HEB 1:51–57](/scriptures/nt/hebrews/1.51-57) |
-| HEB 13 | [HEB 1:58–64](/scriptures/nt/hebrews/1.58-64) |
-| JAMES 1 | [JACOB 1:1–7](/scriptures/nt/ejacob/1.1-7) |
-| JAMES 2 | [JACOB 1:8–12](/scriptures/nt/ejacob/1.8-12) |
-| JAMES 3 | [JACOB 1:13–14](/scriptures/nt/ejacob/1.13-14) |
-| JAMES 4 | [JACOB 1:15–18](/scriptures/nt/ejacob/1.15-18) |
-| JAMES 5 | [JACOB 1:19–25](/scriptures/nt/ejacob/1.19-25) |
-| 1 PET 1 | [1 PET 1:1–5](/scriptures/nt/1peter/1.1-5) |
-| 1 PET 2 | [1 PET 1:6–9](/scriptures/nt/1peter/1.6-9) |
-| 1 PET 3 | [1 PET 1:10–14](/scriptures/nt/1peter/1.10-14) |
-| 1 PET 4 | [1 PET 1:15–18](/scriptures/nt/1peter/1.15-18) |
-| 1 PET 5 | [1 PET 1:19–21](/scriptures/nt/1peter/1.19-21) |
-| 2 PET 1 | [2 PET 1:1–5](/scriptures/nt/2peter/1.1-5) |
-| 2 PET 2 | [2 PET 1:6–10](/scriptures/nt/2peter/1.6-10) |
-| 2 PET 3 | [2 PET 1:11–15](/scriptures/nt/2peter/1.11-15) |
-| 1 JOHN 1 | [1 JOHN 1:1–3](/scriptures/nt/1john/1.1-3) |
-| 1 JOHN 2 | [1 JOHN 1:4–12](/scriptures/nt/1john/1.4-12) |
-| 1 JOHN 3 | [1 JOHN 1:13–17](/scriptures/nt/1john/1.13-17) |
-| 1 JOHN 4 | [1 JOHN 1:18–20](/scriptures/nt/1john/1.18-20) |
-| 1 JOHN 5 | [1 JOHN 1:21–26](/scriptures/nt/1john/1.21-26) |
+| HEB 1 | [[Hebrews 1\|HEB 1:1–2]] |
+| HEB 2 | [[Hebrews 1\|HEB 1:3–5]] |
+| HEB 3 | [[Hebrews 1\|HEB 1:6–8]] |
+| HEB 4 | [[Hebrews 1\|HEB 1:9–11]] |
+| HEB 5 | [[Hebrews 1\|HEB 1:12–14]] |
+| HEB 6 | [[Hebrews 1\|HEB 1:14–16]] |
+| HEB 7 | [[Hebrews 1\|HEB 1:17–21]] |
+| HEB 8 | [[Hebrews 1\|HEB 1:22–23]] |
+| HEB 9 | [[Hebrews 1\|HEB 1:24–28]] |
+| HEB 10 | [[Hebrews 1\|HEB 1:29–35]] |
+| HEB 11 | [[Hebrews 1\|HEB 1:36–50]] |
+| HEB 12 | [[Hebrews 1\|HEB 1:51–57]] |
+| HEB 13 | [[Hebrews 1\|HEB 1:58–64]] |
+| JAMES 1 | [[Ep. Jacob 1\|JACOB 1:1–7]] |
+| JAMES 2 | [[Ep. Jacob 1\|JACOB 1:8–12]] |
+| JAMES 3 | [[Ep. Jacob 1\|JACOB 1:13–14]] |
+| JAMES 4 | [[Ep. Jacob 1\|JACOB 1:15–18]] |
+| JAMES 5 | [[Ep. Jacob 1\|JACOB 1:19–25]] |
+| 1 PET 1 | [[1 Peter 1\|1 PET 1:1–5]] |
+| 1 PET 2 | [[1 Peter 1\|1 PET 1:6–9]] |
+| 1 PET 3 | [[1 Peter 1\|1 PET 1:10–14]] |
+| 1 PET 4 | [[1 Peter 1\|1 PET 1:15–18]] |
+| 1 PET 5 | [[1 Peter 1\|1 PET 1:19–21]] |
+| 2 PET 1 | [[2 Peter 1\|2 PET 1:1–5]] |
+| 2 PET 2 | [[2 Peter 1\|2 PET 1:6–10]] |
+| 2 PET 3 | [[2 Peter 1\|2 PET 1:11–15]] |
+| 1 JOHN 1 | [[1 John 1\|1 JOHN 1:1–3]] |
+| 1 JOHN 2 | [[1 John 1\|1 JOHN 1:4–12]] |
+| 1 JOHN 3 | [[1 John 1\|1 JOHN 1:13–17]] |
+| 1 JOHN 4 | [[1 John 1\|1 JOHN 1:18–20]] |
+| 1 JOHN 5 | [[1 John 1\|1 JOHN 1:21–26]] |
 | 2 JOHN | [[2 John 1\|2 JOHN]] |
 | 3 JOHN | [[3 John 1\|3 JOHN]] |
 | JUDE | [[Judas 1\|JUDAS]] |

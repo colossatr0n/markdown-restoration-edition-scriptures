@@ -1,4 +1,4 @@
-[[Moroni 9|<< Moroni 9]]  |   >>
+[[Moroni 9|<< Moroni 9]]  |  [[Correlation Tables|Correlation Tables >>]]
 
 ### Chapter 10
 ###### 1

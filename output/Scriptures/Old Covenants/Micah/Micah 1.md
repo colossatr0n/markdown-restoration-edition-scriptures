@@ -1,4 +1,4 @@
-<<   |   >>
+[[Jonah 1|<< Jonah 1]]  |  [[Nahum 1|Nahum 1 >>]]
 
 # MICAH
 

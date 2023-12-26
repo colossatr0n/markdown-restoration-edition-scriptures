@@ -1,4 +1,4 @@
-[[Jeremiah 18|<< Jeremiah 18]]  |   >>
+[[Jeremiah 18|<< Jeremiah 18]]  |  [[Lamentations 1|Lamentations 1 >>]]
 
 ### Chapter 19
 ###### 1

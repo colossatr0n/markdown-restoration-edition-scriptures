@@ -1,4 +1,4 @@
-<<   |   >>
+[[Zechariah 1|<< Zechariah 1]]  |  [[Correlation Tables|Correlation Tables >>]]
 
 # MALACHI
 

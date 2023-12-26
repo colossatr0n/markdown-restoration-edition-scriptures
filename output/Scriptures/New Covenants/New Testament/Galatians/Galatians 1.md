@@ -1,4 +1,4 @@
-<<   |   >>
+[[2 Corinthians 1|<< 2 Corinthians 1]]  |  [[Ephesians 1|Ephesians 1 >>]]
 
 # THE EPISTLE TO THE GALATIANS
 ###### 1

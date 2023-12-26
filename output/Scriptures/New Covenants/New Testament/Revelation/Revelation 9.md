@@ -1,4 +1,4 @@
-[[Revelation 8|<< Revelation 8]]  |   >>
+[[Revelation 8|<< Revelation 8]]  |  [[Correlation Tables|Correlation Tables >>]]
 
 ### Chapter 9
 ###### 1

@@ -1,4 +1,4 @@
-<<   |  [[Mosiah 1|Mosiah 1 >>]]
+[[Omni 1|<< Omni 1]]  |  [[Mosiah 1|Mosiah 1 >>]]
 
 # THE WORDS OF MORMON
 ###### 1

@@ -1,10 +1,10 @@
 # Teachings and Commandments
 
-- [[Foreword|Foreword]]
-- [[Canonization|Canonization]]
-- [[Preface|Preface]]
-- [[Introduction|Introduction]]
-- [[Epigraph|Epigraph]]
+- [[Foreword]]
+- [[Canonization]]
+- [[Preface]]
+- [[Introduction]]
+- [[Epigraph]]
 
 ### Sections
 
@@ -191,10 +191,10 @@ REVELATIONS OF DENVER SNUFFER
 
 ### Appendix
 
-- [[Section Endnotes|Section Endnotes]]
-- [[Excluded Revelations|Excluded Revelations]]
-- [[A Prophet's Prerogative|A Prophet's Prerogative]]
+- [[Section Endnotes]]
+- [[Excluded Revelations]]
+- [[A Prophet's Prerogative]]
 - [[A Glossary of Gospel Terms|A Glossary of Terms]]
-- [[Correlation Tables|Correlation Tables]]
-- [[Timeline of the Fathers|Timeline of the Fathers]]
-- [[Maps|Maps]]
+- [[Correlation Tables]]
+- [[Timeline of the Fathers]]
+- [[Maps]]

@@ -1,4 +1,4 @@
-<<   |  [[Mosiah 2|Mosiah 2 >>]]
+[[Words of Mormon 1|<< Words of Mormon 1]]  |  [[Mosiah 2|Mosiah 2 >>]]
 
 # THE BOOK OF MOSIAH
 ### Chapter 1

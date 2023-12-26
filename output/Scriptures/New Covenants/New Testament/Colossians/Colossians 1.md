@@ -1,4 +1,4 @@
-<<   |   >>
+[[Philippians 1|<< Philippians 1]]  |  [[1 Thessalonians 1|1 Thessalonians 1 >>]]
 
 # THE EPISTLE TO THE COLOSSIANS
 ###### 1

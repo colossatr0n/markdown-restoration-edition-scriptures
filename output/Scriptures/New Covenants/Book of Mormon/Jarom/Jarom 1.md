@@ -1,4 +1,4 @@
-<<   |   >>
+[[Enos 1|<< Enos 1]]  |  [[Omni 1|Omni 1 >>]]
 
 # THE BOOK OF JAROM
 ###### 1

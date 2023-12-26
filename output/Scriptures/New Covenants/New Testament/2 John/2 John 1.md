@@ -1,4 +1,4 @@
-<<   |   >>
+[[1 John 1|<< 1 John 1]]  |  [[3 John 1|3 John 1 >>]]
 
 # THE SECOND EPISTLE OF JOHN
 ###### 1

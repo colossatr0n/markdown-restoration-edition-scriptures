@@ -1,4 +1,4 @@
-<<   |  [[Habakkuk 1|Habakkuk 1 >>]]
+[[Micah 1|<< Micah 1]]  |  [[Habakkuk 1|Habakkuk 1 >>]]
 
 # NAHUM
 

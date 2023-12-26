@@ -1,4 +1,4 @@
-<<   |   >>
+[[Obadiah 1|<< Obadiah 1]]  |  [[Micah 1|Micah 1 >>]]
 
 # JONAH
 ###### 1

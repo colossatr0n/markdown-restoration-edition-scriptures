@@ -1,4 +1,4 @@
-[[Habakkuk 1|<< Habakkuk 1]]  |   >>
+[[Habakkuk 1|<< Habakkuk 1]]  |  [[Zephaniah 1|Zephaniah 1 >>]]
 
 ### Chapter 2
 

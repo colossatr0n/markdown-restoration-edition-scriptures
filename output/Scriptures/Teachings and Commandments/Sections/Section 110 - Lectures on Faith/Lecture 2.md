@@ -628,4 +628,4 @@ Question 147: Is the knowledge of the existence of God a matter of mere traditio
 ###### 208
 Question 148: How do you prove it?A: From the whole of the first and second lectures.
 
-[See Appendix: [[Timeline of the Fathers|Timeline of the Fathers]]]
+[See Appendix: [[Timeline of the Fathers]]]

@@ -1,12 +1,26 @@
+import os.path
 import re
 
 import markdownify
 
 from html_modifiers import remove_newlines_and_space, strip
 from html_parsers import get_chapter_title
+from predicates import is_toc, is_volume_toc, is_book_toc
 
 
-def general_html_to_md(soup, obsidian_link_by_path, obsidian_img_link_by_path):
+def html_to_md(path, soup, obsidian_link_by_path, obsidian_img_link_by_path, rel_path):
+    if not is_toc(soup):
+        md = material_html_to_md(path, soup, obsidian_link_by_path, obsidian_img_link_by_path, rel_path)
+    elif is_volume_toc(soup):
+        md = toc_html_to_md(path, soup, obsidian_link_by_path, obsidian_img_link_by_path, rel_path)
+    elif is_book_toc(soup):
+        md = toc_html_to_md(path, soup, obsidian_link_by_path, obsidian_img_link_by_path, rel_path)
+    else:
+        raise SystemExit(f"Unknown HTML category for: {soup}.")
+    return md
+
+
+def general_html_to_md(path, soup, obsidian_link_by_path, obsidian_img_link_by_path, rel_links):
     for sup in soup.find_all('sup', string="*"):
         sup.insert(0, '\\')
 
@@ -19,19 +33,28 @@ def general_html_to_md(soup, obsidian_link_by_path, obsidian_img_link_by_path):
             text = a.text
             pipe = "\\|" if a.find_parent("td") else "|"
 
-            # Book TOCs use digits for the anchor text. Use the obsidian link instead by removing the alias.
-            if a.parent.has_attr('class') and 'chapter' in a.parent['class']:
-                pipe = ''
-                text = ''
-
             if href in obsidian_link_by_path:
-                new_tag.string = f"[[{obsidian_link_by_path[href]}{pipe}{text}]]"
-                a.replace_with(new_tag)
+                # Book TOCs use digits for the anchor text. Use the obsidian link instead by removing the alias.
+                if a.parent.has_attr('class') and 'chapter' in a.parent['class']:
+                    text = os.path.basename(".".join(obsidian_link_by_path[href].split(".")[:-1]))
+
+                if rel_links:
+                    # Removes extra '../' from relpath
+                    link_path = "/".join(os.path.relpath(obsidian_link_by_path[href], path).split("/")[1:])
+                else:
+                    link_path = ".".join(os.path.basename(obsidian_link_by_path[href]).split(".")[:-1])
             elif href.startswith("#"):
                 if a.has_attr('class') and 'accordion-toggle' in a['class']:
                     continue
-                new_tag.string = f"[[{href}{pipe}{text}]]"
-                a.replace_with(new_tag)
+                link_path = href
+            else:
+                continue
+
+            if link_path.strip() == text.strip():
+                pipe = ""
+                text = ""
+            new_tag.string = f"[[{link_path}{pipe}{text}]]"
+            a.replace_with(new_tag)
 
     for img in soup.find_all('img'):
         if not img.has_attr('src') or not img['src'] in obsidian_img_link_by_path:
@@ -72,7 +95,7 @@ def general_html_to_md(soup, obsidian_link_by_path, obsidian_img_link_by_path):
     return soup
 
 
-def material_html_to_md(soup, obsidian_link_by_path, obsidian_img_link_by_path):
+def material_html_to_md(path, soup, obsidian_link_by_path, obsidian_img_link_by_path, rel_path):
     print("Converting HTML to MD...")
     text_soup = soup.find('div', class_='scriptureText')
     strip(text_soup)
@@ -93,8 +116,13 @@ def material_html_to_md(soup, obsidian_link_by_path, obsidian_img_link_by_path):
                     a.string = ' >>'
                     a.insert_before(span)
                 if href not in obsidian_link_by_path:
-                    continue
+                    alt_href = "/".join(href.split("/")[:-1])
+                    if alt_href not in obsidian_link_by_path:
+                        continue
+                    obsidian_link_by_path[href] = obsidian_link_by_path[alt_href]
                 obsidian_link = obsidian_link_by_path[href]
+                alias = ".".join(os.path.basename(obsidian_link).split('.')[:-1])
+                obsidian_link = alias if alias else obsidian_link
                 if 'prevBtn' in a['class']:
                     a.append(obsidian_link)
                 if 'nextBtn' in a['class']:
@@ -112,12 +140,12 @@ def material_html_to_md(soup, obsidian_link_by_path, obsidian_img_link_by_path):
         li.insert(0, f'###### {verse_num}\n')
         li.append('\n')
 
-    general_html_to_md(soup, obsidian_link_by_path, obsidian_img_link_by_path)
+    general_html_to_md(path, soup, obsidian_link_by_path, obsidian_img_link_by_path, rel_path)
 
     return text_soup.get_text().strip()
 
 
-def toc_html_to_md(soup, obsidian_link_by_path, obsidian_img_link_by_path):
+def toc_html_to_md(path, soup, obsidian_link_by_path, obsidian_img_link_by_path, rel_path):
     main_soup = soup.find(class_="mainContent")
     for a in main_soup.find_all('a'):
         remove_newlines_and_space(a)
@@ -145,7 +173,7 @@ def toc_html_to_md(soup, obsidian_link_by_path, obsidian_img_link_by_path):
         li.insert(0, '- ')
         remove_newlines_and_space(li)
 
-    general_html_to_md(soup, obsidian_link_by_path, obsidian_img_link_by_path)
+    general_html_to_md(path, soup, obsidian_link_by_path, obsidian_img_link_by_path, rel_path)
     text = main_soup.get_text().strip()
     return condense_newlines(text, 2)
 

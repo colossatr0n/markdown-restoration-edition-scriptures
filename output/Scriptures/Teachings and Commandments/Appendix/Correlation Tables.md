@@ -221,8 +221,8 @@
 |  | 138 | – |
 |  | OD 1 | – |
 |  | OD 2 | – |
-| [[Genesis 1\|Genesis 1]] | Moses 1 | 22 |
-| [[Genesis 7\|Genesis 7]] | Moses 7 | 36 |
+| [[Genesis 1]] | Moses 1 | 22 |
+| [[Genesis 7]] | Moses 7 | 36 |
 |  | – | 114-(165) |
 
 

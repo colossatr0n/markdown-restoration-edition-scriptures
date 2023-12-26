@@ -8,7 +8,7 @@ from content_downloader import ContentDownloader
 from file_io import CACHE_DIR
 from html_loader import HtmlLoader
 from html_parsers import get_chapter_title, get_breadcrumb_path
-from md_generators import material_html_to_md, toc_html_to_md
+from md_generators import html_to_md
 from predicates import is_toc, is_volume_toc, is_book_toc
 from scriptures_client import ScripturesClient
 
@@ -26,43 +26,45 @@ def main(args):
     obsidian_link_by_path = {}
     obsidian_img_link_by_path = {}
 
-    # Load saved HTML for each path, convert to .md and save.
     for path in material_paths:
+        # Convert path to filename to retrieve the downloaded file
         soup = content_loader.retrieve_html(path)
-        # Note: / replacement is due to a glossary entry titled "Call/ed/ing"
-        chap_title = get_chapter_title(soup).replace("/", "-")
-        obsidian_link_by_path[path] = chap_title
-        images = [img for img in soup.select('div.scriptureText img')]
-        for img in images:
+
+        for img in soup.select('div.scriptureText img'):
             if not img.has_attr('src'):
                 continue
             content_loader.retrieve_asset(img['src'])
             name = ".".join(img['src'].split("/")[1:])
             obsidian_img_link_by_path[img['src']] = name
 
-    for path in material_paths:
-        # Convert path to filename to retrieve the downloaded file
-        soup = content_loader.retrieve_html(path)
-
         # Convert to markdown and save.
         if not is_toc(soup):
             breadcrumb_path = get_breadcrumb_path(soup)
-            md = material_html_to_md(soup, obsidian_link_by_path, obsidian_img_link_by_path)
+            book_dir = os.path.join(args.output_dir, breadcrumb_path).replace("The ", "")
         elif is_volume_toc(soup):
             breadcrumb_path = get_chapter_title(soup)
-            md = toc_html_to_md(soup, obsidian_link_by_path, obsidian_img_link_by_path)
+            book_dir = os.path.join(args.output_dir, breadcrumb_path).replace("The ", "")
         elif is_book_toc(soup):
             breadcrumb_path = get_breadcrumb_path(soup) + "/" + get_chapter_title(soup)
-            md = toc_html_to_md(soup, obsidian_link_by_path, obsidian_img_link_by_path)
+            book_dir = os.path.join(args.output_dir, breadcrumb_path).replace("The ", "")
         else:
             raise SystemExit(f"Unknown HTML category for {path}.")
 
-        # Gather metadata
-        book_dir = os.path.join(args.output_dir, breadcrumb_path).replace("The ", "")
         if not os.path.exists(book_dir):
             os.makedirs(book_dir)
 
-        with open(os.path.join(str(book_dir), obsidian_link_by_path[path] + '.md'), "w+") as f:
+        # Note: / replacement is due to a glossary entry titled "Call/ed/ing"
+        chap_title = get_chapter_title(soup).replace("/", "-")
+        filepath = os.path.join(str(book_dir), chap_title + '.md')
+
+        obsidian_link_by_path[path] = filepath
+
+    for path in material_paths:
+        soup = content_loader.retrieve_html(path)
+        filepath = obsidian_link_by_path[path]
+        md = html_to_md(filepath, soup, obsidian_link_by_path, obsidian_img_link_by_path, args.rel_links)
+
+        with open(filepath, "w+") as f:
             f.write(md)
 
     assets_dir = os.path.join(args.output_dir, 'assets')
@@ -78,6 +80,8 @@ def main(args):
 def create_parser():
     parser = argparse.ArgumentParser()
     parser.add_argument("-o", "--output-dir", default="output")
+    parser.add_argument("--rel-links", action='store_true', default=False)
+    parser.add_argument("--link-type", choices=('wikilinks', 'markdown'), default=False)
     return parser
 
 

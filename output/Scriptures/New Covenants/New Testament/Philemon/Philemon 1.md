@@ -1,4 +1,4 @@
-<<   |   >>
+[[Titus 1|<< Titus 1]]  |  [[Hebrews 1|Hebrews 1 >>]]
 
 # THE EPISTLE TO PHILEMON
 ###### 1

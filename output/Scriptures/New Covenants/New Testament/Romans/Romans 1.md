@@ -1,4 +1,4 @@
-[[Acts 13|<< Acts 13]]  |   >>
+[[Acts 13|<< Acts 13]]  |  [[1 Corinthians 1|1 Corinthians 1 >>]]
 
 # THE EPISTLE TO THE ROMANS
 ###### 1

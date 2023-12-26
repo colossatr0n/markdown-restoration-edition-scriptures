@@ -1,4 +1,4 @@
-<<   |  
+[[Malachi 1|<< Malachi 1]]  |  
 
 ### CORRELATION TABLES
 #### Correlation of the Restoration Edition of the Old Testament to Standard Bible Divisions
@@ -1000,56 +1000,56 @@
 | HOSEA 12 | [[Hosea 2\|HOSEA 2:30–34]] |
 | HOSEA 13 | [[Hosea 2\|HOSEA 2:34–38]] |
 | HOSEA 14 | [[Hosea 2\|HOSEA 2:39–40]] |
-| JOEL 1 | [JOEL 1:1–5](/scriptures/oc/joel/1.1-5) |
-| JOEL 2 | [JOEL 1:6–12](/scriptures/oc/joel/1.6-12) |
-| JOEL 3 | [JOEL 1:13–16](/scriptures/oc/joel/1.13-16) |
-| AMOS 1 | [AMOS 1:1–5](/scriptures/oc/amos/1.1-5) |
-| AMOS 2 | [AMOS 1:6–8](/scriptures/oc/amos/1.6-8) |
-| AMOS 3 | [AMOS 1:9–10](/scriptures/oc/amos/1.9-10) |
-| AMOS 4 | [AMOS 1:11–12](/scriptures/oc/amos/1.11-12) |
-| AMOS 5 | [AMOS 1:13–16](/scriptures/oc/amos/1.13-16) |
-| AMOS 6 | [AMOS 1:17–19](/scriptures/oc/amos/1.17-19) |
-| AMOS 7 | [AMOS 1:20–24](/scriptures/oc/amos/1.20-24) |
-| AMOS 8 | [AMOS 1:25–27](/scriptures/oc/amos/1.25-27) |
-| AMOS 9 | [AMOS 1:28–31](/scriptures/oc/amos/1.28-31) |
+| JOEL 1 | [[Joel 1\|JOEL 1:1–5]] |
+| JOEL 2 | [[Joel 1\|JOEL 1:6–12]] |
+| JOEL 3 | [[Joel 1\|JOEL 1:13–16]] |
+| AMOS 1 | [[Amos 1\|AMOS 1:1–5]] |
+| AMOS 2 | [[Amos 1\|AMOS 1:6–8]] |
+| AMOS 3 | [[Amos 1\|AMOS 1:9–10]] |
+| AMOS 4 | [[Amos 1\|AMOS 1:11–12]] |
+| AMOS 5 | [[Amos 1\|AMOS 1:13–16]] |
+| AMOS 6 | [[Amos 1\|AMOS 1:17–19]] |
+| AMOS 7 | [[Amos 1\|AMOS 1:20–24]] |
+| AMOS 8 | [[Amos 1\|AMOS 1:25–27]] |
+| AMOS 9 | [[Amos 1\|AMOS 1:28–31]] |
 | OBADIAH | [[Obadiah 1\|OBADIAH]] |
-| JONAH 1 | [JONAH 1:1–5](/scriptures/oc/jonah/1.1-5) |
-| JONAH 2 | [JONAH 1:5](/scriptures/oc/jonah/1.5) |
-| JONAH 3 | [JONAH 1:6–8](/scriptures/oc/jonah/1.6-8) |
-| JONAH 4 | [JONAH 1:9–11](/scriptures/oc/jonah/1.9-11) |
-| MICAH 1 | [MICAH 1:1–2](/scriptures/oc/micah/1.1-2) |
-| MICAH 2 | [MICAH 1:3–6](/scriptures/oc/micah/1.3-6) |
-| MICAH 3 | [MICAH 1:7–8](/scriptures/oc/micah/1.7-8) |
-| MICAH 4 | [MICAH 1:9–10](/scriptures/oc/micah/1.9-10) |
-| MICAH 5 | [MICAH 1:11–13](/scriptures/oc/micah/1.11-13) |
-| MICAH 6 | [MICAH 1:14–15](/scriptures/oc/micah/1.14-15) |
-| MICAH 7 | [MICAH 1:16–18](/scriptures/oc/micah/1.16-18) |
-| NAHUM 1 | [NAHUM 1:1–3](/scriptures/oc/nahum/1.1-3) |
-| NAHUM 2 | [NAHUM 1:–4](/scriptures/oc/nahum/1.-4) |
-| NAHUM 3 | [NAHUM 1:5–9](/scriptures/oc/nahum/1.5-9) |
+| JONAH 1 | [[Jonah 1\|JONAH 1:1–5]] |
+| JONAH 2 | [[Jonah 1\|JONAH 1:5]] |
+| JONAH 3 | [[Jonah 1\|JONAH 1:6–8]] |
+| JONAH 4 | [[Jonah 1\|JONAH 1:9–11]] |
+| MICAH 1 | [[Micah 1\|MICAH 1:1–2]] |
+| MICAH 2 | [[Micah 1\|MICAH 1:3–6]] |
+| MICAH 3 | [[Micah 1\|MICAH 1:7–8]] |
+| MICAH 4 | [[Micah 1\|MICAH 1:9–10]] |
+| MICAH 5 | [[Micah 1\|MICAH 1:11–13]] |
+| MICAH 6 | [[Micah 1\|MICAH 1:14–15]] |
+| MICAH 7 | [[Micah 1\|MICAH 1:16–18]] |
+| NAHUM 1 | [[Nahum 1\|NAHUM 1:1–3]] |
+| NAHUM 2 | [[Nahum 1\|NAHUM 1:–4]] |
+| NAHUM 3 | [[Nahum 1\|NAHUM 1:5–9]] |
 | HAB 1 | [[Habakkuk 1\|HAB 1:1–3]] |
 | HAB 2 | [[Habakkuk 1\|HAB 1:4–10]] |
 | HAB 3 | [[Habakkuk 2\|HAB 2]] |
-| ZEPH 1 | [ZEPH 1:1–5](/scriptures/oc/zephaniah/1.1-5) |
-| ZEPH 2 | [ZEPH 1:6–9](/scriptures/oc/zephaniah/1.6-9) |
-| ZEPH 3 | [ZEPH 1:10–12](/scriptures/oc/zephaniah/1.10-12) |
-| HAG 1 | [HAG 1:1–3](/scriptures/oc/haggai/1.1-3) |
-| HAG 2 | [HAG 1:4–6](/scriptures/oc/haggai/1.4-6) |
-| ZECH 1 | [ZECH 1:1–4](/scriptures/oc/zechariah/1.1-4) |
-| ZECH 2 | [ZECH 1:5–7](/scriptures/oc/zechariah/1.5-7) |
-| ZECH 3 | [ZECH 1:8](/scriptures/oc/zechariah/1.8) |
-| ZECH 4 | [ZECH 1:9–11](/scriptures/oc/zechariah/1.9-11) |
-| ZECH 5 | [ZECH 1:12–13](/scriptures/oc/zechariah/1.12-13) |
-| ZECH 6 | [ZECH 1:14–15](/scriptures/oc/zechariah/1.14-15) |
-| ZECH 7 | [ZECH 1:16–18](/scriptures/oc/zechariah/1.16-18) |
-| ZECH 8 | [ZECH 1:19–24](/scriptures/oc/zechariah/1.19-24) |
-| ZECH 9 | [ZECH 1:25–26](/scriptures/oc/zechariah/1.25-26) |
-| ZECH 10 | [ZECH 1:27–29](/scriptures/oc/zechariah/1.27-29) |
-| ZECH 11 | [ZECH 1:30–32](/scriptures/oc/zechariah/1.30-32) |
-| ZECH 12 | [ZECH 1:33–35](/scriptures/oc/zechariah/1.33-35) |
-| ZECH 13 | [ZECH 1:36–37](/scriptures/oc/zechariah/1.36-37) |
-| ZECH 14 | [ZECH 1:38–42](/scriptures/oc/zechariah/1.38-42) |
-| MAL 1 | [MAL 1:1–2](/scriptures/oc/malachi/1.1-2) |
-| MAL 2 | [MAL 1:3–5](/scriptures/oc/malachi/1.3-5) |
-| MAL 3 | [MAL 1:6–9](/scriptures/oc/malachi/1.6-9) |
-| MAL 4 | [MAL 1:10–12](/scriptures/oc/malachi/1.10-12) |
+| ZEPH 1 | [[Zephaniah 1\|ZEPH 1:1–5]] |
+| ZEPH 2 | [[Zephaniah 1\|ZEPH 1:6–9]] |
+| ZEPH 3 | [[Zephaniah 1\|ZEPH 1:10–12]] |
+| HAG 1 | [[Haggai 1\|HAG 1:1–3]] |
+| HAG 2 | [[Haggai 1\|HAG 1:4–6]] |
+| ZECH 1 | [[Zechariah 1\|ZECH 1:1–4]] |
+| ZECH 2 | [[Zechariah 1\|ZECH 1:5–7]] |
+| ZECH 3 | [[Zechariah 1\|ZECH 1:8]] |
+| ZECH 4 | [[Zechariah 1\|ZECH 1:9–11]] |
+| ZECH 5 | [[Zechariah 1\|ZECH 1:12–13]] |
+| ZECH 6 | [[Zechariah 1\|ZECH 1:14–15]] |
+| ZECH 7 | [[Zechariah 1\|ZECH 1:16–18]] |
+| ZECH 8 | [[Zechariah 1\|ZECH 1:19–24]] |
+| ZECH 9 | [[Zechariah 1\|ZECH 1:25–26]] |
+| ZECH 10 | [[Zechariah 1\|ZECH 1:27–29]] |
+| ZECH 11 | [[Zechariah 1\|ZECH 1:30–32]] |
+| ZECH 12 | [[Zechariah 1\|ZECH 1:33–35]] |
+| ZECH 13 | [[Zechariah 1\|ZECH 1:36–37]] |
+| ZECH 14 | [[Zechariah 1\|ZECH 1:38–42]] |
+| MAL 1 | [[Malachi 1\|MAL 1:1–2]] |
+| MAL 2 | [[Malachi 1\|MAL 1:3–5]] |
+| MAL 3 | [[Malachi 1\|MAL 1:6–9]] |
+| MAL 4 | [[Malachi 1\|MAL 1:10–12]] |

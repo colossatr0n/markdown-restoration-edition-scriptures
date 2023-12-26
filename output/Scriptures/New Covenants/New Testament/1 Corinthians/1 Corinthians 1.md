@@ -1,4 +1,4 @@
-<<   |   >>
+[[Romans 1|<< Romans 1]]  |  [[2 Corinthians 1|2 Corinthians 1 >>]]
 
 # THE FIRST EPISTLE TO THE CORINTHIANS
 ###### 1
