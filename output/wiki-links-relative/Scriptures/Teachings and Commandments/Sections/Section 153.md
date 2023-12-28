@@ -1,4 +1,4 @@
-[[Section 152.md|<< Section 152]]  |  [[Section 154.md|Section 154 >>]]
+[[Section 152|<< Section 152]]  |  [[Section 154|Section 154 >>]]
 
 ### SECTION 153
 

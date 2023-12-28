@@ -1,4 +1,4 @@
-[[God of Abraham, God of Isaac, God of Jacob.md|<< God of Abraham, God of Isaac, God of Jacob]]  |  [[Government of God.md|Government of God >>]]
+[[God of Abraham, God of Isaac, God of Jacob|<< God of Abraham, God of Isaac, God of Jacob]]  |  [[Government of God|Government of God >>]]
 
 ### Gospel of Jesus Christ
 “You need to know what [this] term really means. If you do not, then you have not received it. You have claimed, like others, to be ‘of Christ’ without ever comprehending what His Gospel includes and does not include.”1 The word gospel comes from the Old English *godspel* (good spell); literally from *god* (good) and *spel* (story, message, spell, narrative, or form of words; often defined as glad or good tidings). When a story or spell is cast that is good, it is a “gospel.” It has the same origin as “to spell,” meaning to read letter by letter or speak. The original had a long “o,” and later became associated as “God,” as in “God-story.” The word is a translation of the Greek *euangelion *(εὐαγγελίου) meaning “good message” and translated in the KJV as “gospel.”2

@@ -1,4 +1,4 @@
-[[Matthew 12.md|<< Matthew 12]]  |  [[../Mark/Mark 1.md|Mark 1 >>]]
+[[Matthew 12|<< Matthew 12]]  |  [[../Mark/Mark 1|Mark 1 >>]]
 
 ### Chapter 13
 ###### 1

@@ -1,4 +1,4 @@
-[[../2 Peter/2 Peter 1.md|<< 2 Peter 1]]  |  [[../2 John/2 John 1.md|2 John 1 >>]]
+[[../2 Peter/2 Peter 1|<< 2 Peter 1]]  |  [[../2 John/2 John 1|2 John 1 >>]]
 
 # THE FIRST EPISTLE GENERAL OF JOHN
 ###### 1

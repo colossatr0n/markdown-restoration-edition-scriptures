@@ -1,4 +1,4 @@
-[[Mormon 3.md|<< Mormon 3]]  |  [[../Ether/Ether 1.md|Ether 1 >>]]
+[[Mormon 3|<< Mormon 3]]  |  [[../Ether/Ether 1|Ether 1 >>]]
 
 ### Chapter 4
 ###### 1

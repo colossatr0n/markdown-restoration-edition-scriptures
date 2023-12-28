@@ -1,4 +1,4 @@
-[[Isaiah 21.md|<< Isaiah 21]]  |  [[Isaiah 23.md|Isaiah 23 >>]]
+[[Isaiah 21|<< Isaiah 21]]  |  [[Isaiah 23|Isaiah 23 >>]]
 
 ### Chapter 22
 ###### 1

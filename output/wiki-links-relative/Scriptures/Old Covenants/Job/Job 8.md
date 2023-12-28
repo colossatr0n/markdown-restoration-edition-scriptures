@@ -1,4 +1,4 @@
-[[Job 7.md|<< Job 7]]  |  [[Job 9.md|Job 9 >>]]
+[[Job 7|<< Job 7]]  |  [[Job 9|Job 9 >>]]
 
 ### Chapter 8
 ###### 1

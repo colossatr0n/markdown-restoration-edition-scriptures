@@ -1,4 +1,4 @@
-[[Psalms 18.md|<< Psalms 18]]  |  [[Psalms 20.md|Psalms 20 >>]]
+[[Psalms 18|<< Psalms 18]]  |  [[Psalms 20|Psalms 20 >>]]
 
 ### Psalm 19
 

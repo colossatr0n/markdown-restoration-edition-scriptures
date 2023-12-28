@@ -1,4 +1,4 @@
-[[../Genesis/Genesis 12.md|<< Genesis 12]]  |  [[Exodus 2.md|Exodus 2 >>]]
+[[../Genesis/Genesis 12|<< Genesis 12]]  |  [[Exodus 2|Exodus 2 >>]]
 
 ### THE SECOND BOOK OF MOSES CALLED
 # EXODUS

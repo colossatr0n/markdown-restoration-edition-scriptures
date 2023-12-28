@@ -1,4 +1,4 @@
-[[Isaiah 7.md|<< Isaiah 7]]  |  [[Isaiah 9.md|Isaiah 9 >>]]
+[[Isaiah 7|<< Isaiah 7]]  |  [[Isaiah 9|Isaiah 9 >>]]
 
 ### Chapter 8
 ###### 1

@@ -1,4 +1,4 @@
-[[Woe.md|<< Woe]]  |  [[Worlds Without End.md|Worlds Without End >>]]
+[[Woe|<< Woe]]  |  [[Worlds Without End|Worlds Without End >>]]
 
 ### World
 “The world and earth are not synonymous terms. The world is the human family.”1 What is the end of the world? The destruction of the wicked*.*2

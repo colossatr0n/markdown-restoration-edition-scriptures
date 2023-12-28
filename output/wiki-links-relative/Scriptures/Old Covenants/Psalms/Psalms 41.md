@@ -1,4 +1,4 @@
-[[Psalms 40.md|<< Psalms 40]]  |  [[Psalms 42.md|Psalms 42 >>]]
+[[Psalms 40|<< Psalms 40]]  |  [[Psalms 42|Psalms 42 >>]]
 
 ### Psalm 41
 

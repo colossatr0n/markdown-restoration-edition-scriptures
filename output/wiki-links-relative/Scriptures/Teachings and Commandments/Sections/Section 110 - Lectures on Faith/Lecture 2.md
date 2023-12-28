@@ -1,4 +1,4 @@
-[[Lecture 1.md|<< Lecture 1]]  |  [[Lecture 3.md|Lecture 3 >>]]
+[[Lecture 1|<< Lecture 1]]  |  [[Lecture 3|Lecture 3 >>]]
 
 ### LECTURE SECOND
 #### Of Faith
@@ -628,4 +628,4 @@ Question 147: Is the knowledge of the existence of God a matter of mere traditio
 ###### 208
 Question 148: How do you prove it?A: From the whole of the first and second lectures.
 
-[See Appendix: [[../../Appendix/Timeline of the Fathers.md|Timeline of the Fathers]]]
+[See Appendix: [[../../Appendix/Timeline of the Fathers|Timeline of the Fathers]]]

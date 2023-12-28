@@ -1,4 +1,4 @@
-[[Numbers 6.md|<< Numbers 6]]  |  [[Numbers 8.md|Numbers 8 >>]]
+[[Numbers 6|<< Numbers 6]]  |  [[Numbers 8|Numbers 8 >>]]
 
 ### Chapter 7
 ###### 1

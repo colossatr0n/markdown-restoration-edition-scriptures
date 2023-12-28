@@ -1,4 +1,4 @@
-[[Luke 13.md|<< Luke 13]]  |  [[../John/John 1.md|John 1 >>]]
+[[Luke 13|<< Luke 13]]  |  [[../John/John 1|John 1 >>]]
 
 ### Chapter 14
 ###### 1

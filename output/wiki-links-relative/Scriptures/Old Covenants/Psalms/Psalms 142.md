@@ -1,4 +1,4 @@
-[[Psalms 141.md|<< Psalms 141]]  |  [[Psalms 143.md|Psalms 143 >>]]
+[[Psalms 141|<< Psalms 141]]  |  [[Psalms 143|Psalms 143 >>]]
 
 ### Psalm 142
 

@@ -35,7 +35,7 @@ def main(args):
                 continue
             content_loader.retrieve_asset(img['src'])
             name = ".".join(img['src'].split("/")[1:])
-            obsidian_img_link_by_path[img['src']] = name
+            obsidian_img_link_by_path[img['src']] = os.path.join(args.output_dir, "assets", name)
 
         # Convert to markdown and save.
         if not is_toc(soup):
@@ -58,11 +58,13 @@ def main(args):
         filepath = os.path.join(str(book_dir), chap_title + '.md')
 
         obsidian_link_by_path[path] = filepath
+        if not path.strip()[-1].isdigit():
+            obsidian_link_by_path[os.path.join(path, '/')] = filepath
 
     for path in material_paths:
         soup = content_loader.retrieve_html(path)
         filepath = obsidian_link_by_path[path]
-        md = html_to_md(filepath, soup, obsidian_link_by_path, obsidian_img_link_by_path, args.rel_links)
+        md = html_to_md(filepath, soup, obsidian_link_by_path, obsidian_img_link_by_path, args.rel_links, args.link_type)
 
         with open(filepath, "w+") as f:
             f.write(md)
@@ -73,7 +75,7 @@ def main(args):
     for cache_file_path, obsidian_link in obsidian_img_link_by_path.items():
         shutil.copyfile(
             os.path.join(CACHE_DIR, ".".join(cache_file_path.split("/")[1:])),
-            os.path.join(assets_dir, obsidian_link)
+            obsidian_link
         )
 
 
@@ -81,7 +83,7 @@ def create_parser():
     parser = argparse.ArgumentParser()
     parser.add_argument("-o", "--output-dir", default="output")
     parser.add_argument("--rel-links", action='store_true', default=False)
-    parser.add_argument("--link-type", choices=('wikilinks', 'markdown'), default=False)
+    parser.add_argument("--link-type", choices=('wikilinks', 'markdown'), default='wikilinks')
     return parser
 
 

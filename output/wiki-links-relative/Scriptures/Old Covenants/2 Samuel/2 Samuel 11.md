@@ -1,4 +1,4 @@
-[[2 Samuel 10.md|<< 2 Samuel 10]]  |  [[2 Samuel 12.md|2 Samuel 12 >>]]
+[[2 Samuel 10|<< 2 Samuel 10]]  |  [[2 Samuel 12|2 Samuel 12 >>]]
 
 ### Chapter 11
 ###### 1

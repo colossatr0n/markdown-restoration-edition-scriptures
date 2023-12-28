@@ -137,7 +137,7 @@
 | [[Section 107\|107]] | 105 | 102 |
 | [[Section 108\|108]] | 106 | 103 |
 | [[Section 109\|109]] | – | – |
-| [110 (LoF)](/scriptures/tc/section/110) | – | – |
+| [[Teachings and Commandments\|110 (LoF)]] | – | – |
 | [[Section 111\|111]] | – | – |
 | [[Section 112\|112]] | – | – |
 | [[Section 113\|113]] | – | – |
@@ -148,7 +148,7 @@
 | [[Section 118\|118]] | – | – |
 | [[Section 119\|119]] | – | – |
 | [[Section 120\|120]] | – | – |
-| [–](/scriptures/tc/section/–) | 107 | 104 |
+| – | 107 | 104 |
 | [[Section 121\|121]] | 108 | – |
 | [[Section 122\|122:4–6]] | 137 | – |
 | [[Section 123\|123]] | 109 | – |
@@ -176,7 +176,7 @@
 |  | – | 108A |
 | [[Section 143\|143]] | 125 | – |
 | [[Section 144\|144]] | – | – |
-| [145 (BoA)](/scriptures/tc/section/145) | PGP | – |
+| [[Teachings and Commandments\|145 (BoA)]] | PGP | – |
 | [[Section 146\|146]] | – | – |
 | [[Section 147\|147]] | – | – |
 | [[Section 148\|148]] | – | – |
@@ -208,7 +208,7 @@
 | [[Section 168\|168]] | – | – |
 | [[Section 169\|169]] | – | – |
 | [[Section 170\|170]] | – | – |
-| [171](/scriptures/tc/section/171) | – | – |
+| [[Teachings and Commandments\|171]] | – | – |
 | [[Section 172\|172]] | – | – |
 | [[Section 173\|173]] | – | – |
 | [[Section 174\|174]] | – | – |

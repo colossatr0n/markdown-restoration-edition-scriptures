@@ -1,4 +1,4 @@
-[[2 Kings 6.md|<< 2 Kings 6]]  |  [[2 Kings 8.md|2 Kings 8 >>]]
+[[2 Kings 6|<< 2 Kings 6]]  |  [[2 Kings 8|2 Kings 8 >>]]
 
 ### Chapter 7
 ###### 1

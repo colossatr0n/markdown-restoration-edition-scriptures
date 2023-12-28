@@ -1,4 +1,4 @@
-[[Plan of Salvation.md|<< Plan of Salvation]]  |  [[Power of God.md|Power of God >>]]
+[[Plan of Salvation|<< Plan of Salvation]]  |  [[Power of God|Power of God >>]]
 
 ### Possess Your Soul
 

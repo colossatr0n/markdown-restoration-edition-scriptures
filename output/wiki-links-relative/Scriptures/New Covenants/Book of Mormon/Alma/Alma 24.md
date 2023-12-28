@@ -1,4 +1,4 @@
-[[Alma 23.md|<< Alma 23]]  |  [[Alma 25.md|Alma 25 >>]]
+[[Alma 23|<< Alma 23]]  |  [[Alma 25|Alma 25 >>]]
 
 ### Chapter 24
 ###### 1

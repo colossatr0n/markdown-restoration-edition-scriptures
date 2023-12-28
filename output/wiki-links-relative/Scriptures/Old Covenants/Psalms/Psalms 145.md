@@ -1,4 +1,4 @@
-[[Psalms 144.md|<< Psalms 144]]  |  [[Psalms 146.md|Psalms 146 >>]]
+[[Psalms 144|<< Psalms 144]]  |  [[Psalms 146|Psalms 146 >>]]
 
 ### Psalm 145
 

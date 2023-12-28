@@ -1,4 +1,4 @@
-[[Section 62.md|<< Section 62]]  |  [[Section 64.md|Section 64 >>]]
+[[Section 62|<< Section 62]]  |  [[Section 64|Section 64 >>]]
 
 ### SECTION 63
 

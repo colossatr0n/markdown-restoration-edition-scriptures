@@ -1,4 +1,4 @@
-[[Revelation 6.md|<< Revelation 6]]  |  [[Revelation 8.md|Revelation 8 >>]]
+[[Revelation 6|<< Revelation 6]]  |  [[Revelation 8|Revelation 8 >>]]
 
 ### Chapter 7
 ###### 1

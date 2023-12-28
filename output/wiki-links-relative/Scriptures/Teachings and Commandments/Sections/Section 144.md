@@ -1,4 +1,4 @@
-[[Section 143.md|<< Section 143]]  |  [[Section 145 - Abraham/Facsimile 1.md|Facsimile 1 >>]]
+[[Section 143|<< Section 143]]  |  [[Section 145 - Abraham/Facsimile 1|Facsimile 1 >>]]
 
 ### SECTION 144
 

@@ -1,0 +1,67 @@
+[<< Section 73](Section%2073)  |  [Section 75 >>](Section%2075)
+
+### SECTION 74
+
+*Answers to questions about The Revelation of Saint John, given at Hiram, Ohio, between about 4 and about 20 March 1832.*
+
+Revelation Explained:
+
+###### 1
+
+    Question:* What is the sea of glass spoken of by John, 4th chapter and 6th verse of Revelation [Rev. 2:2]?*Answer: It is the earth in its sanctified, immortal, and Eternal state.
+
+###### 2
+
+    Question:* What are we to understand by the four beasts spoken of by John in the 4th chapter and 6th verse of Revelation [Rev. 2:3]?*Answer: They are figurative expressions used by the revelator, John, in describing Heaven, the paradise of God, the happiness of men and of beasts, and of creeping things and of the fowls of the air, that which is spiritual being in the likeness of that which is temporal, and that which is temporal in the likeness of that which is spiritual: the spirit of man in the likeness of his person, as also the spirit of the beast, and every other creature which God has created.
+
+###### 3
+
+    Question:* Are the four beasts limited to individual beasts, or do they represent classes or orders?*Answer: They are limited to four individual beasts, which were shown to John to represent the glory of the classes of beings in their destined order or sphere of creation, in the enjoyment of their eternal felicity.
+
+###### 4
+
+    Question:* What are we to understand by the eyes and wings which the beasts had?*Answer: Their eyes are a representation of light and knowledge. That is, they are full of knowledge, and their wings are a representation of power to move, to act, etc.
+
+###### 5
+
+    Question:* What are we to understand by the four and twenty elders, spoken of by John?*Answer: We are to understand that these elders, whom John saw, were elders who had been faithful in the work of the ministry and were dead, who belonged to the seven churches, and were then in the paradise of God.
+
+###### 6
+
+    Question:* What are we to understand by the book which John saw, which was sealed on the back with seven seals?*Answer: We are to understand that it contains the revealed will, mysteries, and works of God, the hidden things of his economy concerning this earth during the seven thousand years of its continuance, or its temporal existence.
+
+###### 7
+
+    Question:* What are we to understand by the seven seals with which it was sealed?*Answer: We are to understand that the first seal contains the things of the first thousand years, and the second also of the second thousand years, and so on until the seventh.
+
+###### 8
+
+    Question:* What are we to understand by the four angels spoken of by John, 7th chapter and 1st verse of Revelation [Rev. 2:13]?*Answer: We are to understand that they are four angels sent forth from God, to whom is given power over the four parts of the earth, to save life and to destroy. These are they who have the everlasting gospel to commit to every nation, kindred, tongue, and people, having power to shut up the heavens, to seal up unto life, or to cast down to the regions of darkness.
+
+###### 9
+
+    Question:* What are we to understand by the angel ascending from the east, Revelation, 7th chapter and 2nd verse [Rev. 2:13]?*Answer: We are to understand that the angel ascended from the east is he to whom is given the seal of the living God over the twelve tribes of Israel. Wherefore, he cries unto the four angels having the everlasting gospel, saying: Hurt not the earth, neither the sea, nor the trees, till we have sealed the servants of our God in their foreheads. And if you will receive it, this is Elias, which was to come, to gather together the tribes of Israel and restore all things.
+
+###### 10
+
+    Question:* What time are things spoken of in this chapter to be accomplished?*Answer: They are to be accomplished in the sixth thousand years, or the opening of the sixth seal.
+
+###### 11
+
+    Question:* What are we to understand by sealing the one hundred and forty-four thousand, out of all the tribes of Israel, twelve thousand out of every tribe?*Answer: We are to understand that those who are sealed are high priests, ordained unto the Holy Order of God, to administer the everlasting gospel. For they are they who are ordained out of every nation, kindred, tongue, and people, by the angels to whom is given power over the nations of the earth, to bring as many as will come to the church of the Firstborn.
+
+###### 12
+
+    Question:* What are we to understand by the sounding of the trumpets, mentioned in the 8th chapter of Revelation [Rev. 3]?*Answer: We are to understand that, as God made the world in six days, and on the seventh day he finished his work and sanctified it, and also formed man out of the dust of the earth, even so, in the beginning of the seventh thousand years will the Lord God sanctify the earth and complete the salvation of man, and judge all things, and shall redeem all things, except that which he has not put into his power, when he shall have sealed all things unto the end of all things. And the sounding of the trumpets of the seven angels are the preparing and finishing of his work in the beginning of the seventh thousand years, the preparing of the way before the time of his coming.
+
+###### 13
+
+    Question:* When are the things to be accomplished, which are written in the 9th chapter of Revelation [Rev. 3]?*Answer: They are to be accomplished after the opening of the seventh seal, before the coming of Christ.
+
+###### 14
+
+    Question:* What are we to understand by the little book which was eaten by John, as mentioned in the 10th chapter of Revelation [Rev. 3:13]?*Answer: We are to understand that it was a mission and an ordinance for him to gather the tribes of Israel. Behold, this is Elias who, as it is written, must come and restore all things.
+
+###### 15
+
+    Question:* What is to be understood by the two witnesses in the eleventh chapter of Revelation [Rev. 3:15]?*Answer: They are two prophets that are to be raised up to the Jewish nation in the last days at the time of the restoration, and to prophesy to the Jews after they are gathered and have built the city of Jerusalem in the land of their fathers.

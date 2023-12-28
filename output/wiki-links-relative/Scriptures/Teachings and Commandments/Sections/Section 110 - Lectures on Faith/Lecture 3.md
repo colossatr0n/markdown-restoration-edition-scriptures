@@ -1,4 +1,4 @@
-[[Lecture 2.md|<< Lecture 2]]  |  [[Lecture 4.md|Lecture 4 >>]]
+[[Lecture 2|<< Lecture 2]]  |  [[Lecture 4|Lecture 4 >>]]
 
 ### LECTURE THIRD
 #### Of Faith

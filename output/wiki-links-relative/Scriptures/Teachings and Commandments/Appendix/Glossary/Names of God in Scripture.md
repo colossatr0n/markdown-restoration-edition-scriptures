@@ -1,4 +1,4 @@
-[[Naked and Afraid.md|<< Naked and Afraid]]  |  [[Nation.md|Nation >>]]
+[[Naked and Afraid|<< Naked and Afraid]]  |  [[Nation|Nation >>]]
 
 ### Names of God in Scripture
 Names serve not only as identification but as identity. Aspects and attributes of identity are often emphasized by the name itself. “Names are for identification, but they are more than that. Why is it necessary that all be done *in the name of the Son*…? Like the other elements of ordinance, it is a means of communication.”1 “To receive a new name is to receive a new role or persona, to be identified with a particular situation or association.” 2 God’s name is hallowed (*see* Matthew 3:29). *Hallowed* means “respected, acknowledged, reverenced, its authority held in awe.”3 (*See Beloved Enos*, 126–127, for a discussion of names and titles). Some of the names of God used in scripture are :

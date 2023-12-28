@@ -1,4 +1,4 @@
-[[1 Kings 2.md|<< 1 Kings 2]]  |  [[1 Kings 4.md|1 Kings 4 >>]]
+[[1 Kings 2|<< 1 Kings 2]]  |  [[1 Kings 4|1 Kings 4 >>]]
 
 ### Chapter 3
 ###### 1

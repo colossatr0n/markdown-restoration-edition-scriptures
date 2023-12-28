@@ -1,4 +1,4 @@
-[[Daniel 6.md|<< Daniel 6]]  |  [[Daniel 8.md|Daniel 8 >>]]
+[[Daniel 6|<< Daniel 6]]  |  [[Daniel 8|Daniel 8 >>]]
 
 ### Chapter 7
 ###### 1

@@ -1,4 +1,4 @@
-[[1 Samuel 5.md|<< 1 Samuel 5]]  |  [[1 Samuel 7.md|1 Samuel 7 >>]]
+[[1 Samuel 5|<< 1 Samuel 5]]  |  [[1 Samuel 7|1 Samuel 7 >>]]
 
 ### Chapter 6
 ###### 1

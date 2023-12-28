@@ -1,4 +1,4 @@
-[[Full of Love.md|<< Full of Love]]  |  [[Gathering of Israel.md|Gathering of Israel >>]]
+[[Full of Love|<< Full of Love]]  |  [[Gathering of Israel|Gathering of Israel >>]]
 
 ### Garments Washed White
 

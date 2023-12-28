@@ -1,4 +1,4 @@
-[[../New Testament/NT Appendix/Correlation Tables.md|<< Correlation Tables]]  |  [[Introduction.md|Introduction >>]]
+[[../New Testament/NT Appendix/Correlation Tables|<< Correlation Tables]]  |  [[Introduction|Introduction >>]]
 
 ### PREFACE TO THE BOOK OF MORMON
 The Restoration Edition
@@ -33,19 +33,19 @@ Those changes are found in the following passages:
 
 
 
-[[Alma/Alma 16.md|Alma 16:37]]
+[[Alma/Alma 16|Alma 16:37]]
 
 
-[[3 Nephi/3 Nephi 7.md|3 Nephi 7:3]]
+[[3 Nephi/3 Nephi 7|3 Nephi 7:3]]
 
 
-[[3 Nephi/3 Nephi 9.md|3 Nephi 9:5]]
+[[3 Nephi/3 Nephi 9|3 Nephi 9:5]]
 
 
-[[Ether/Ether 1.md|Ether 1:12]]
+[[Ether/Ether 1|Ether 1:12]]
 
 
-[[Ether/Ether 1.md|Ether 1:13]]
+[[Ether/Ether 1|Ether 1:13]]
 
 
 Other notable differences that make this Restoration Edition the most accurate Book of Mormon available in print include the following:

@@ -1,4 +1,4 @@
-[[../2 John/2 John 1.md|<< 2 John 1]]  |  [[../Judas/Judas 1.md|Judas 1 >>]]
+[[../2 John/2 John 1|<< 2 John 1]]  |  [[../Judas/Judas 1|Judas 1 >>]]
 
 # THE THIRD EPISTLE OF JOHN
 ###### 1

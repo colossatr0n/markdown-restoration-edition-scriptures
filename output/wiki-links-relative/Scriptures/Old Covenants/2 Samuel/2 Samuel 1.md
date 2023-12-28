@@ -1,4 +1,4 @@
-[[../1 Samuel/1 Samuel 12.md|<< 1 Samuel 12]]  |  [[2 Samuel 2.md|2 Samuel 2 >>]]
+[[../1 Samuel/1 Samuel 12|<< 1 Samuel 12]]  |  [[2 Samuel 2|2 Samuel 2 >>]]
 
 # THE SECOND BOOK OF SAMUEL
 ### OTHERWISE CALLED THE SECOND BOOK OF THE KINGS

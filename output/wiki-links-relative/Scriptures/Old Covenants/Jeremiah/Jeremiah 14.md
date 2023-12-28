@@ -1,4 +1,4 @@
-[[Jeremiah 13.md|<< Jeremiah 13]]  |  [[Jeremiah 15.md|Jeremiah 15 >>]]
+[[Jeremiah 13|<< Jeremiah 13]]  |  [[Jeremiah 15|Jeremiah 15 >>]]
 
 ### Chapter 14
 ###### 1

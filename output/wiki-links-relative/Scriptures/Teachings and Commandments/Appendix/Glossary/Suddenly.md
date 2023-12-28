@@ -1,4 +1,4 @@
-[[Submissive-sion.md|<< Submissive-sion]]  |  [[Suffer For Their Own Sins.md|Suffer For Their Own Sins >>]]
+[[Submissive-sion|<< Submissive-sion]]  |  [[Suffer For Their Own Sins|Suffer For Their Own Sins >>]]
 
 ### Suddenly
 Surprisingly; in an unexpected way; being caught off-guard. “I declared what I was going to do, I did it, and you got caught off-guard.” (*See* e.g., Isaiah 17:1.)1

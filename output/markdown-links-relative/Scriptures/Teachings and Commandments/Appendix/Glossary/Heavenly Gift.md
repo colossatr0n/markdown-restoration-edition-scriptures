@@ -1,0 +1,11 @@
+[<< Hearts Turned to the Fathers](Hearts%20Turned%20to%20the%20Fathers.md)  |  [Heavenly Host >>](Heavenly%20Host.md)
+
+### Heavenly Gift
+An offer made directly from the Lord, often through a new gospel dispensation, with Heaven’s intent to bestow the fullness of the gospel and priesthood upon a generation. This fullness includes an expanding scriptural canon, revelation, Heavenly visitors, and prophetic power, as well as all blessings and sealing power necessary for fullness of salvation and exaltation.1 It has been offered by the Lord more often than it has been welcomed and accepted by mankind. This is reflected in the Lord’s lament, *O ye people*…*of the house of Israel, how oft have I gathered you as a hen gathereth her chickens under her wings and have nourished you. And again, how oft would I have gathered you as a hen gathereth her chickens under her wings, yea, O ye people of the house of Israel who have fallen. Yea, O ye people of the house of Israel, ye that dwell at Jerusalem as ye that have fallen, yea, how oft would I have gathered you as a hen gathereth her chickens and ye would not. O ye house of Israel whom I have spared, how oft will I gather you as a hen gathereth her chickens under her wings if ye will repent and return unto me with full purpose of heart. But if not, O house of Israel, the places of your dwellings shall become desolate until the time of the fulfilling of the covenant to your fathers *(3 Nephi 4:9). The Lord’s offer can only be accepted on the condition of obedience and faith. When the fullness is accepted, people live in peace and happiness: *And they had all things common among them; therefore, there were not rich and poor, bond and free, but they were all made free and partakers of the Heavenly gift* (4 Nephi 1:1). *He has shewn himself unto the world, and glorified the name of the Father, and prepared a way that thereby others might be partakers of the Heavenly gift *(Ether 5:2). When the fullness is refused (by mankind not complying with the conditions of the covenant), the opportunity to establish a Heavenly order and Zion is lost. 2
+
+
+
+1 Passing the Heavenly Gift, 8; see also 19, 87, 95, 212, 287, 346, 359; Hebrews 1:15.
+
+
+2 Commentary added to Glossary Jan. 31, 2019.

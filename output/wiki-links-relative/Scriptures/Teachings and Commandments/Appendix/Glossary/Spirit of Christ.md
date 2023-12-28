@@ -1,4 +1,4 @@
-[[Spirit Matter.md|<< Spirit Matter]]  |  [[Spirit of Truth.md|Spirit of Truth >>]]
+[[Spirit Matter|<< Spirit Matter]]  |  [[Spirit of Truth|Spirit of Truth >>]]
 
 ### Spirit of Christ
 

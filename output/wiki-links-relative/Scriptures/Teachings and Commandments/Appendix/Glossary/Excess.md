@@ -1,4 +1,4 @@
-[[Exaltation.md|<< Exaltation]]  |  [[Extortion.md|Extortion >>]]
+[[Exaltation|<< Exaltation]]  |  [[Extortion|Extortion >>]]
 
 ### Excess
 Wealth (an explanation in T&C 46:4).1

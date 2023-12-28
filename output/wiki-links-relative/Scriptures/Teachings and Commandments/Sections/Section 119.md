@@ -1,4 +1,4 @@
-[[Section 118.md|<< Section 118]]  |  [[Section 120.md|Section 120 >>]]
+[[Section 118|<< Section 118]]  |  [[Section 120|Section 120 >>]]
 
 ### SECTION 119
 

@@ -1,4 +1,4 @@
-[[Psalms 51.md|<< Psalms 51]]  |  [[Psalms 53.md|Psalms 53 >>]]
+[[Psalms 51|<< Psalms 51]]  |  [[Psalms 53|Psalms 53 >>]]
 
 ### Psalm 52
 

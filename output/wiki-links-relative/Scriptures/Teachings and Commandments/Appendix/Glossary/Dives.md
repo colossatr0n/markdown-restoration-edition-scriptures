@@ -1,4 +1,4 @@
-[[Disputation.md|<< Disputation]]  |  [[Doctrine of Christ.md|Doctrine of Christ >>]]
+[[Disputation|<< Disputation]]  |  [[Doctrine of Christ|Doctrine of Christ >>]]
 
 ### Dives
 

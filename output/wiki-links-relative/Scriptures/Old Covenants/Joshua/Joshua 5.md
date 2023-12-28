@@ -1,4 +1,4 @@
-[[Joshua 4.md|<< Joshua 4]]  |  [[../Judges/Judges 1.md|Judges 1 >>]]
+[[Joshua 4|<< Joshua 4]]  |  [[../Judges/Judges 1|Judges 1 >>]]
 
 ### Chapter 5
 ###### 1

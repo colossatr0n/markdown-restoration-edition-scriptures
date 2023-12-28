@@ -1,4 +1,4 @@
-[[Section 57.md|<< Section 57]]  |  [[Section 59.md|Section 59 >>]]
+[[Section 57|<< Section 57]]  |  [[Section 59|Section 59 >>]]
 
 ### SECTION 58
 

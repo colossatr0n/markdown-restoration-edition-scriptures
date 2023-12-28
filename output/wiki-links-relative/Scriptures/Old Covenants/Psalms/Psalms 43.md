@@ -1,4 +1,4 @@
-[[Psalms 42.md|<< Psalms 42]]  |  [[Psalms 44.md|Psalms 44 >>]]
+[[Psalms 42|<< Psalms 42]]  |  [[Psalms 44|Psalms 44 >>]]
 
 ### Psalm 43
 ###### 1

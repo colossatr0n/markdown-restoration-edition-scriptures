@@ -1,4 +1,4 @@
-[[Mosiah 5.md|<< Mosiah 5]]  |  [[Mosiah 7.md|Mosiah 7 >>]]
+[[Mosiah 5|<< Mosiah 5]]  |  [[Mosiah 7|Mosiah 7 >>]]
 
 ### Chapter 6
 THE RECORD OF ZENIFF

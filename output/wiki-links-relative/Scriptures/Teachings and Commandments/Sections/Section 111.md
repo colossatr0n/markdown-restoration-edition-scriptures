@@ -1,4 +1,4 @@
-[[Section 110 - Lectures on Faith/Lecture 7.md|<< Lecture 7]]  |  [[Section 112.md|Section 112 >>]]
+[[Section 110 - Lectures on Faith/Lecture 7|<< Lecture 7]]  |  [[Section 112|Section 112 >>]]
 
 ### SECTION 111
 

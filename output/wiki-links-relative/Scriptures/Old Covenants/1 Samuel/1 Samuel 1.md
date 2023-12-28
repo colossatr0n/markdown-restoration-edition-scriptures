@@ -1,4 +1,4 @@
-[[../Ruth/Ruth 3.md|<< Ruth 3]]  |  [[1 Samuel 2.md|1 Samuel 2 >>]]
+[[../Ruth/Ruth 3|<< Ruth 3]]  |  [[1 Samuel 2|1 Samuel 2 >>]]
 
 # THE FIRST BOOK OF SAMUEL
 ### OTHERWISE CALLED THE FIRST BOOK OF THE KINGS

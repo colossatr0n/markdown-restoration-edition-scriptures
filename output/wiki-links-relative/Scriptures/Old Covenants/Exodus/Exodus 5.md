@@ -1,4 +1,4 @@
-[[Exodus 4.md|<< Exodus 4]]  |  [[Exodus 6.md|Exodus 6 >>]]
+[[Exodus 4|<< Exodus 4]]  |  [[Exodus 6|Exodus 6 >>]]
 
 ### Chapter 5
 ###### 1

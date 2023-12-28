@@ -1,4 +1,4 @@
-[[../Ezra/Ezra 2.md|<< Ezra 2]]  |  [[Nehemiah 2.md|Nehemiah 2 >>]]
+[[../Ezra/Ezra 2|<< Ezra 2]]  |  [[Nehemiah 2|Nehemiah 2 >>]]
 
 # THE BOOK OF NEHEMIAH
 ### Chapter 1

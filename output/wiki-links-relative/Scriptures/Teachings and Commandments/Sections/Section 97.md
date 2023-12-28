@@ -1,4 +1,4 @@
-[[Section 96.md|<< Section 96]]  |  [[Section 98.md|Section 98 >>]]
+[[Section 96|<< Section 96]]  |  [[Section 98|Section 98 >>]]
 
 ### SECTION 97
 

@@ -1,4 +1,4 @@
-[[Isaiah 3.md|<< Isaiah 3]]  |  [[Isaiah 5.md|Isaiah 5 >>]]
+[[Isaiah 3|<< Isaiah 3]]  |  [[Isaiah 5|Isaiah 5 >>]]
 
 ### Chapter 4
 ###### 1

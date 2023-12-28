@@ -1,4 +1,4 @@
-[[../Leviticus/Leviticus 14.md|<< Leviticus 14]]  |  [[Numbers 2.md|Numbers 2 >>]]
+[[../Leviticus/Leviticus 14|<< Leviticus 14]]  |  [[Numbers 2|Numbers 2 >>]]
 
 ### THE FOURTH BOOK OF MOSES CALLED
 # NUMBERS

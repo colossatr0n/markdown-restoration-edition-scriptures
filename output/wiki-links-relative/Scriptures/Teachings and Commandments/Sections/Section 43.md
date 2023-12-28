@@ -1,4 +1,4 @@
-[[Section 42.md|<< Section 42]]  |  [[Section 44.md|Section 44 >>]]
+[[Section 42|<< Section 42]]  |  [[Section 44|Section 44 >>]]
 
 ### SECTION 43
 

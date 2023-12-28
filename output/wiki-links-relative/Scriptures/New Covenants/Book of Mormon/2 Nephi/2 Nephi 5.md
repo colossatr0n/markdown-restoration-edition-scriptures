@@ -1,4 +1,4 @@
-[[2 Nephi 4.md|<< 2 Nephi 4]]  |  [[2 Nephi 6.md|2 Nephi 6 >>]]
+[[2 Nephi 4|<< 2 Nephi 4]]  |  [[2 Nephi 6|2 Nephi 6 >>]]
 
 ### Chapter 5
 ###### 1

@@ -1,4 +1,4 @@
-[[Pestilence.md|<< Pestilence]]  |  [[Plan of Salvation.md|Plan of Salvation >>]]
+[[Pestilence|<< Pestilence]]  |  [[Plan of Salvation|Plan of Salvation >>]]
 
 ### Pharaoh
 A title that originally meant “great house” or “great family”; Pharaoh was the “father” over Egypt who taught and led them. Over time, however, this title came to mean a “king” or “tyrant” who controlled people.1 Given the Egyptian preoccupation with the afterlife, the name is likely related to an expectation for the eternities and not merely a description of the office held in mortality.2

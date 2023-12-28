@@ -1,4 +1,4 @@
-[[Ezekiel 18.md|<< Ezekiel 18]]  |  [[Ezekiel 20.md|Ezekiel 20 >>]]
+[[Ezekiel 18|<< Ezekiel 18]]  |  [[Ezekiel 20|Ezekiel 20 >>]]
 
 ### Chapter 19
 ###### 1

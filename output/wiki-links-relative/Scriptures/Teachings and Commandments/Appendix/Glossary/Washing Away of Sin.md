@@ -1,4 +1,4 @@
-[[Voice of God.md|<< Voice of God]]  |  [[Watch.md|Watch >>]]
+[[Voice of God|<< Voice of God]]  |  [[Watch|Watch >>]]
 
 ### Washing Away of Sin
 The anointing of the spirit.1

@@ -1,4 +1,4 @@
-[[Noble and Great.md|<< Noble and Great]]  |  [[Oath and Covenant.md|Oath and Covenant >>]]
+[[Noble and Great|<< Noble and Great]]  |  [[Oath and Covenant|Oath and Covenant >>]]
 
 ### Numbers/Numbering, Large
 In the modern Hebrew Bible all numbers are written out in full, but for a long time the text was written without vowels. The absence of vowels made it possible to confuse two words which are crucial to this problem: *èleph* and *àlluph*. Without vowel points, these words look identical: *’lp. Èleph* is the ordinary word for “thousand,” but it can also be used in a variety of other senses: e.g. family (Judges 3:2); clan or governor (Zechariah 1:25,33–34); or as a military unit. *Àlluph* is used for the chieftains of Edom (Genesis 3:3–43); probably for a commander of a military thousand; and almost certainly for the professional, fully-armed soldier.1

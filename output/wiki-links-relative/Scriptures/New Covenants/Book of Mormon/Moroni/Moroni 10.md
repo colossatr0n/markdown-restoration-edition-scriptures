@@ -1,4 +1,4 @@
-[[Moroni 9.md|<< Moroni 9]]  |  [[../BoM Appendix/Correlation Tables.md|Correlation Tables >>]]
+[[Moroni 9|<< Moroni 9]]  |  [[../BoM Appendix/Correlation Tables|Correlation Tables >>]]
 
 ### Chapter 10
 ###### 1

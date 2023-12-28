@@ -1,4 +1,4 @@
-[[Genesis 1.md|<< Genesis 1]]  |  [[Genesis 3.md|Genesis 3 >>]]
+[[Genesis 1|<< Genesis 1]]  |  [[Genesis 3|Genesis 3 >>]]
 
 ### Chapter 2
 ###### 1

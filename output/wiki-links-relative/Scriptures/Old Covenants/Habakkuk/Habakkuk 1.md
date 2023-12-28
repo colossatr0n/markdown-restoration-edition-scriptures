@@ -1,4 +1,4 @@
-[[../Nahum/Nahum 1.md|<< Nahum 1]]  |  [[Habakkuk 2.md|Habakkuk 2 >>]]
+[[../Nahum/Nahum 1|<< Nahum 1]]  |  [[Habakkuk 2|Habakkuk 2 >>]]
 
 # HABAKKUK
 ### Chapter 1

@@ -1,4 +1,4 @@
-[[Seraphim.md|<< Seraphim]]  |  [[Seventy.md|Seventy >>]]
+[[Seraphim|<< Seraphim]]  |  [[Seventy|Seventy >>]]
 
 ### Servant
 

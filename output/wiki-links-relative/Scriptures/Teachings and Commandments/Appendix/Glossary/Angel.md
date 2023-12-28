@@ -1,4 +1,4 @@
-[[Ancient of Days.md|<< Ancient of Days]]  |  [[Angel of Light.md|Angel of Light >>]]
+[[Ancient of Days|<< Ancient of Days]]  |  [[Angel of Light|Angel of Light >>]]
 
 ### Angel
 

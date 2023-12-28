@@ -1,4 +1,4 @@
-[[Section 46.md|<< Section 46]]  |  [[Section 48.md|Section 48 >>]]
+[[Section 46|<< Section 46]]  |  [[Section 48|Section 48 >>]]
 
 ### SECTION 47
 

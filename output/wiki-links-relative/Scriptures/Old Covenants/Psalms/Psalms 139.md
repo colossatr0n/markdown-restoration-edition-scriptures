@@ -1,4 +1,4 @@
-[[Psalms 138.md|<< Psalms 138]]  |  [[Psalms 140.md|Psalms 140 >>]]
+[[Psalms 138|<< Psalms 138]]  |  [[Psalms 140|Psalms 140 >>]]
 
 ### Psalm 139
 

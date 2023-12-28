@@ -1,4 +1,4 @@
-[[Testify.md|<< Testify]]  |  [[Testing the Spirits.md|Testing the Spirits >>]]
+[[Testify|<< Testify]]  |  [[Testing the Spirits|Testing the Spirits >>]]
 
 ### Testimony of Jesus
 When Christ has promised one Eternal life, he can know with a surety he has Eternal life. Until then, all remain at risk and in jeopardy every hour they are here (*see* 1 Corinthians 1:64). When one knows he is sealed up to Eternal life, he has the more sure word of prophecy or the testimony of Jesus (*see WJS*, 201–202; *WWJ*, 2:230–231; T&C 86:1). These are they who have been told by the voice of God from heaven that they have Eternal life.1* The testimony of Jesus is the spirit of prophecy *(Revelation 7:10). To have a saving testimony of Him is to become a prophet. It is no wonder, then, that Moses wished all men were prophets (*see* Numbers 7:19). All are invited to get testimonies of Christ and are, therefore, also invited to become prophets.2

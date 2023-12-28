@@ -1,4 +1,4 @@
-[[What Lack I Yet?.md|<< What Lack I Yet?]]  |  [[White and Delightsome.md|White and Delightsome >>]]
+[[What Lack I Yet?|<< What Lack I Yet?]]  |  [[White and Delightsome|White and Delightsome >>]]
 
 ### What/Which is Right
 

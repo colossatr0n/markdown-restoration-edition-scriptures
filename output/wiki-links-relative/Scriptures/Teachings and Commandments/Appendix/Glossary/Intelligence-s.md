@@ -1,4 +1,4 @@
-[[Iniquity.md|<< Iniquity]]  |  [[Intercession.md|Intercession >>]]
+[[Iniquity|<< Iniquity]]  |  [[Intercession|Intercession >>]]
 
 ### Intelligence/s
 

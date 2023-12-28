@@ -1,4 +1,4 @@
-[[Section 171 - Testimony of St. John/Section 171 - Testimony of St. John 12.md|<< Section 171 - Testimony of St. John 12]]  |  [[Section 173.md|Section 173 >>]]
+[[Section 171 - Testimony of St. John/Section 171 - Testimony of St. John 12|<< Section 171 - Testimony of St. John 12]]  |  [[Section 173|Section 173 >>]]
 
 ### SECTION 172
 

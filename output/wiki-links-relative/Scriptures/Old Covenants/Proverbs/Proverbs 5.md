@@ -1,4 +1,4 @@
-[[Proverbs 4.md|<< Proverbs 4]]  |  [[Proverbs 6.md|Proverbs 6 >>]]
+[[Proverbs 4|<< Proverbs 4]]  |  [[Proverbs 6|Proverbs 6 >>]]
 
 ### Chapter 5
 

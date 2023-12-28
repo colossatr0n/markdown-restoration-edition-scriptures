@@ -1,4 +1,4 @@
-[[Exodus 16.md|<< Exodus 16]]  |  [[Exodus 18.md|Exodus 18 >>]]
+[[Exodus 16|<< Exodus 16]]  |  [[Exodus 18|Exodus 18 >>]]
 
 ### Chapter 17
 ###### 1

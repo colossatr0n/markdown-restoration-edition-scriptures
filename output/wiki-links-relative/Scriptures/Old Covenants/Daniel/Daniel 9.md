@@ -1,4 +1,4 @@
-[[Daniel 8.md|<< Daniel 8]]  |  [[Daniel 10.md|Daniel 10 >>]]
+[[Daniel 8|<< Daniel 8]]  |  [[Daniel 10|Daniel 10 >>]]
 
 ### Chapter 9
 ###### 1

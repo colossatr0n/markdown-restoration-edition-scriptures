@@ -1,4 +1,4 @@
-[[Canonization.md|<< Canonization]]  |  [[Genesis/Genesis 1.md|Genesis 1 >>]]
+[[Canonization|<< Canonization]]  |  [[Genesis/Genesis 1|Genesis 1 >>]]
 
 ### PREFACE
 
@@ -17,10 +17,10 @@ The following is a simple list of the updates and changes made to the Old Testam
     
 The Song of Solomon has been removed, as Joseph declared that it was not an inspired writing.
 
-      Archaic language updates to the Bible were approved by the Lord and have been restricted to updating words, phrases, and grammar that are no longer used in modern speech (*see *[[../Teachings and Commandments/Sections/Section 157.md|Teachings & Commandments 157:15]]).
+      Archaic language updates to the Bible were approved by the Lord and have been restricted to updating words, phrases, and grammar that are no longer used in modern speech (*see *[[../Teachings and Commandments/Sections/Section 157|Teachings & Commandments 157:15]]).
     
 
-      Some phrases and sentences have been modified in consequence of these word updates or when current wording made the meaning unclear. This was only permitted when the intent of the meaning was retained, as directed by the Lord (*ibid.*). Whenever meaning was questionable, the text was left alone. This meant that odd-sounding or incorrect text was not necessarily good justification for change. For example: *For in their anger they slew a man, and in their self-will they digged down a wall* ([[Genesis/Genesis 12.md|Genesis 12:21]]); *digged* has been updated to *dug*, but a more correct translation of *digged down a wall* would be an understanding that Simeon and Levi amused themselves by ham-stringing or laming cattle. That correction was not made.
+      Some phrases and sentences have been modified in consequence of these word updates or when current wording made the meaning unclear. This was only permitted when the intent of the meaning was retained, as directed by the Lord (*ibid.*). Whenever meaning was questionable, the text was left alone. This meant that odd-sounding or incorrect text was not necessarily good justification for change. For example: *For in their anger they slew a man, and in their self-will they digged down a wall* ([[Genesis/Genesis 12|Genesis 12:21]]); *digged* has been updated to *dug*, but a more correct translation of *digged down a wall* would be an understanding that Simeon and Levi amused themselves by ham-stringing or laming cattle. That correction was not made.
     
 
       Particular attention has been paid to how words are used and their structure. For example, *first born* refers to birth order, whereas *firstborn* is titular and refers to the birthright; *every one *refers to all of the parts of a subset, whereas *everyone* refers to all people.
@@ -28,7 +28,7 @@ The Song of Solomon has been removed, as Joseph declared that it was not an insp
 The distinction of LORD/Lord and GOD/God have been let go and standardized to Lord and God.
 Name spellings have been standardized.
 
-      Some old grammatical structures have been updated to make reading significantly easier, such as Verb >Noun >Object was changed to Noun >Verb >Object; for example: *Then answered they him* became *Then they answered him* ([[../New Covenants/New Testament/John/John 5.md|John 5:2]]). Some exceptions were made when the text needed to be respected more than it needed to be updated, for example…*created I him;…created I them* ([[Genesis/Genesis 3.md|Genesis 3:14]]).
+      Some old grammatical structures have been updated to make reading significantly easier, such as Verb >Noun >Object was changed to Noun >Verb >Object; for example: *Then answered they him* became *Then they answered him* ([[../New Covenants/New Testament/John/John 5|John 5:2]]). Some exceptions were made when the text needed to be respected more than it needed to be updated, for example…*created I him;…created I them* ([[Genesis/Genesis 3|Genesis 3:14]]).
     
 Chapters have been set by context rather than tradition, and verses have been expanded to paragraphs to allow the context to influence the reading of the text. This diminishes the divorcing of statements from their greater context, which often occurs when a scriptural text is poorly divided into smaller chapters and verses.
 Punctuation has been reduced, whenever possible, to allow multiple interpretations where the text suggests that possibility. Otherwise, modern grammatical rules have been applied.

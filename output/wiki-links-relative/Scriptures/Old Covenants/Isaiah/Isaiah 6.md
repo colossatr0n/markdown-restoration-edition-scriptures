@@ -1,4 +1,4 @@
-[[Isaiah 5.md|<< Isaiah 5]]  |  [[Isaiah 7.md|Isaiah 7 >>]]
+[[Isaiah 5|<< Isaiah 5]]  |  [[Isaiah 7|Isaiah 7 >>]]
 
 ### Chapter 6
 

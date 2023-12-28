@@ -1,4 +1,4 @@
-[[Single to God.md|<< Single to God]]  |  [[Small Means.md|Small Means >>]]
+[[Single to God|<< Single to God]]  |  [[Small Means|Small Means >>]]
 
 ### Slow of Speech
 

@@ -1,0 +1,23 @@
+[<< Luke 1](Luke%201.md)  |  [Luke 3 >>](Luke%203.md)
+
+### Chapter 2
+###### 1
+And it came to pass in those days that there went out a decree from Caesar Augustus, that all his empire should be taxed. This same taxing was when Cyrenius was governor of Syria. And all went to be taxed, everyone in his own city. And Joseph also went up from Galilee, out of the city of Nazareth, into Judea, unto the city of David which is called Bethlehem — because he was of the house and lineage of David — to be taxed with Mary his betrothed wife, she being great with child. And so it was that, while they were there, the days were accomplished that she should be delivered. And she brought forth her firstborn son, and wrapped him in swaddling clothes, and laid him in a manger because there was none to give room for them in the inns.
+
+###### 2
+And there were in the same country shepherds staying out in the field, keeping watch over their flocks by night. And behold, an angel of the Lord appeared unto them, and the glory of the Lord shone round about them, and they were sore afraid. But the angel said unto them, Fear not, for behold, I bring you good tidings of great joy, which shall be to all people. For unto you is born this day, in the city of David, a savior, who is Christ the Lord. And this is the way you shall find the babe: he is wrapped in swaddling clothes and is lying in a manger. And suddenly there was, with the angel, a multitude of the Heavenly host, praising God and saying, Glory to God in the highest, and on earth, peace, good will to men.
+
+###### 3
+And it came to pass, when the angels were gone away from them into Heaven, the shepherds said one to another, Let us now go even unto Bethlehem, and see this thing which has come to pass, which the Lord has made known unto us. And they came with haste, and found Mary, and Joseph, and the babe lying in a manger. And when they had seen, they made known abroad the saying which was told them concerning this child. All they who heard it wondered at those things which were told them by the shepherds; but Mary kept all those things and pondered them in her heart. And the shepherds returned, glorifying and praising God for all the things which they had heard and seen, as they were manifested unto them.
+
+###### 4
+And when eight days were accomplished for the circumcising of the child, his name was called Jesus, which was so named of the angel before he was conceived. And when the days of her purification according to the law of Moses were accomplished, they brought him to Jerusalem to present him to the Lord, as it is written in the law of the Lord: Every male who opens the womb shall be called holy to the Lord; and to offer a sacrifice according to that which is written in the law of the Lord: a pair of turtledoves or two young pigeons.
+
+###### 5
+And behold, there was a man at Jerusalem whose name was Simeon, and the same man was just and devout, waiting for the consolation of Israel, and the holy ghost was upon him. And it was revealed unto him by the holy ghost that he should not see death before he had seen the Lord’s Christ. And he came by the spirit into the temple. And when the parents brought in the child, even Jesus, to do for him after the custom of the law, then he took him up in his arms, and blessed God and said, Lord, now let your servant depart in peace, according to your word, for my eyes have seen your salvation which you have prepared before the face of all people, a light to lighten the gentiles, and the glory of your people Israel.
+
+###### 6
+And Joseph and Mary marveled at those things which were spoken of the child. And Simeon blessed them and said unto Mary, Behold, this child is set for the fall and rising again of many in Israel, and for a sign which shall be spoken against. Yea, a spear shall pierce through him to the wounding of your own soul also, that the thoughts of many hearts may be revealed.
+
+###### 7
+And there was one Anna, a prophetess, the daughter of Phanuel of the tribe of Asher — she was of great age and had lived with a husband only seven years, whom she married in her youth, and she lived a widow about eighty-four years — who departed not from the temple, but served God with fastings and prayers night and day. And she, coming in that hour, gave thanks likewise unto the Lord, and spoke of him to all them who looked for redemption in Jerusalem. And when they had performed all things according to the law of the Lord, they returned into Galilee, unto their own city Nazareth. And the child grew and waxed strong in spirit, being filled with wisdom; and the grace of God was upon him.

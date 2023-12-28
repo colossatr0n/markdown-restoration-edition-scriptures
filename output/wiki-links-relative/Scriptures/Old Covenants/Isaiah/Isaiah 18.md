@@ -1,4 +1,4 @@
-[[Isaiah 17.md|<< Isaiah 17]]  |  [[Isaiah 19.md|Isaiah 19 >>]]
+[[Isaiah 17|<< Isaiah 17]]  |  [[Isaiah 19|Isaiah 19 >>]]
 
 ### Chapter 18
 ###### 1

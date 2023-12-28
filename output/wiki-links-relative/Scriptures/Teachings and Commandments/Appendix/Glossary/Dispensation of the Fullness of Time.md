@@ -1,4 +1,4 @@
-[[Dispensation.md|<< Dispensation]]  |  [[Disputation.md|Disputation >>]]
+[[Dispensation|<< Dispensation]]  |  [[Disputation|Disputation >>]]
 
 ### Dispensation of the Fullness of Time
 The current time is called the Dispensation of the Fullness of Time because this time is leading to that return to fullness. However, in one sense, Joseph Smith was much like the Protestant Fathers who laid groundwork for a greater, further return of light. They did not see the full return. This generation might.1

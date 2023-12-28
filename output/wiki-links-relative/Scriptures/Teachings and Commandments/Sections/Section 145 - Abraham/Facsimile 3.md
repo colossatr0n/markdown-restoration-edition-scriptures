@@ -1,9 +1,9 @@
-[[Facsimile 2.md|<< Facsimile 2]]  |  [[../Section 146.md|Section 146 >>]]
+[[Facsimile 2|<< Facsimile 2]]  |  [[../Section 146|Section 146 >>]]
 
 ### A FACSIMILE FROM THE BOOK OF ABRAHAM
 ### NO. 3
 
-![[Images.tc.fac3.jpg]]
+![[../../../assets/Images.tc.fac3.jpg|Images.tc.fac3]]
 
 EXPLANATION OF THE ABOVE CUT
 

@@ -1,4 +1,4 @@
-[[Section 174.md|<< Section 174]]  |  [[Section 176.md|Section 176 >>]]
+[[Section 174|<< Section 174]]  |  [[Section 176|Section 176 >>]]
 
 ### SECTION 175
 
@@ -218,4 +218,4 @@ The Lord said, *It is not enough to receive my covenant, but you must also abide
 He concludes, *Cry peace. Proclaim my words. Invite those who will repent to be baptized and forgiven, and they shall obtain my spirit to guide them. The time is short and I come quickly, therefore open your mouths and warn others to flee the wrath which is to come as men in anger destroy one another. The wicked shall destroy the wicked, and I will hold the peacemakers in the palm of my hand and none can take them from me. Be comforted, be of good cheer, rejoice, and look up, for I am with you who remember me, and all those who watch for me, always, even unto the end. Amen. *82
 
 
-(see [[../Appendix/Section Endnotes.md|Section Endnotes in the Appendix]] for references.)
+(see [[../Appendix/Section Endnotes|Section Endnotes in the Appendix]] for references.)

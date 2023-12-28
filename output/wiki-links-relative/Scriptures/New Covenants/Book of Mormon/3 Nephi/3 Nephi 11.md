@@ -1,4 +1,4 @@
-[[3 Nephi 10.md|<< 3 Nephi 10]]  |  [[3 Nephi 12.md|3 Nephi 12 >>]]
+[[3 Nephi 10|<< 3 Nephi 10]]  |  [[3 Nephi 12|3 Nephi 12 >>]]
 
 ### Chapter 11
 ###### 1

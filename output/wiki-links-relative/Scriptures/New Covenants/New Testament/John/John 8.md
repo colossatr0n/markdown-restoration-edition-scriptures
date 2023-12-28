@@ -1,4 +1,4 @@
-[[John 7.md|<< John 7]]  |  [[John 9.md|John 9 >>]]
+[[John 7|<< John 7]]  |  [[John 9|John 9 >>]]
 
 ### Chapter 8
 ###### 1

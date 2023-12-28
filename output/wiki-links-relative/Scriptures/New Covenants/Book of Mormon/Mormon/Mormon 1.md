@@ -1,4 +1,4 @@
-[[../4 Nephi/4 Nephi 1.md|<< 4 Nephi 1]]  |  [[Mormon 2.md|Mormon 2 >>]]
+[[../4 Nephi/4 Nephi 1|<< 4 Nephi 1]]  |  [[Mormon 2|Mormon 2 >>]]
 
 # THE BOOK OF MORMON
 ### Chapter 1

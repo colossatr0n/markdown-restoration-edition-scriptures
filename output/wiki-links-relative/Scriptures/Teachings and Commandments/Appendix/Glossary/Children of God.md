@@ -1,4 +1,4 @@
-[[Cherubim.md|<< Cherubim]]  |  [[Children of the Prophets.md|Children of the Prophets >>]]
+[[Cherubim|<< Cherubim]]  |  [[Children of the Prophets|Children of the Prophets >>]]
 
 ### Children of God
 For the redeemed are the children of God, and He dwells in them (*see* 1 John 1:18).1 Christ taught and lived this: *And blessed are all the peacemakers, for they shall be called the children of God* (Matthew 3:12).2

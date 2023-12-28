@@ -1,4 +1,4 @@
-[[Section 16.md|<< Section 16]]  |  [[Section 18.md|Section 18 >>]]
+[[Section 16|<< Section 16]]  |  [[Section 18|Section 18 >>]]
 
 ### SECTION 17
 

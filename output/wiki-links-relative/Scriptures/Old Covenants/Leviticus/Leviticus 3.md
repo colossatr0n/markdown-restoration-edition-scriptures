@@ -1,4 +1,4 @@
-[[Leviticus 2.md|<< Leviticus 2]]  |  [[Leviticus 4.md|Leviticus 4 >>]]
+[[Leviticus 2|<< Leviticus 2]]  |  [[Leviticus 4|Leviticus 4 >>]]
 
 ### Chapter 3
 ###### 1

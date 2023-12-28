@@ -1,4 +1,4 @@
-[[2 Chronicles 13.md|<< 2 Chronicles 13]]  |  [[2 Chronicles 15.md|2 Chronicles 15 >>]]
+[[2 Chronicles 13|<< 2 Chronicles 13]]  |  [[2 Chronicles 15|2 Chronicles 15 >>]]
 
 ### Chapter 14
 ###### 1

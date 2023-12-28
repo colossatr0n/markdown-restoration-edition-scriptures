@@ -1,4 +1,4 @@
-[[Other Sheep.md|<< Other Sheep]]  |  [[Patience.md|Patience >>]]
+[[Other Sheep|<< Other Sheep]]  |  [[Patience|Patience >>]]
 
 ### Outcasts of Israel
 

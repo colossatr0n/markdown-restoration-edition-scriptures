@@ -1,4 +1,4 @@
-[[../1 Kings/1 Kings 5.md|<< 1 Kings 5]]  |  [[2 Kings 2.md|2 Kings 2 >>]]
+[[../1 Kings/1 Kings 5|<< 1 Kings 5]]  |  [[2 Kings 2|2 Kings 2 >>]]
 
 # THE SECOND BOOK OF THE KINGS
 ### COMMONLY CALLED THE FOURTH BOOK OF THE KINGS

@@ -1,4 +1,4 @@
-[[Ezekiel 17.md|<< Ezekiel 17]]  |  [[Ezekiel 19.md|Ezekiel 19 >>]]
+[[Ezekiel 17|<< Ezekiel 17]]  |  [[Ezekiel 19|Ezekiel 19 >>]]
 
 ### Chapter 18
 ###### 1

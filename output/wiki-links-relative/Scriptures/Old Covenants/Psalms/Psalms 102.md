@@ -1,4 +1,4 @@
-[[Psalms 101.md|<< Psalms 101]]  |  [[Psalms 103.md|Psalms 103 >>]]
+[[Psalms 101|<< Psalms 101]]  |  [[Psalms 103|Psalms 103 >>]]
 
 ### Psalm 102
 

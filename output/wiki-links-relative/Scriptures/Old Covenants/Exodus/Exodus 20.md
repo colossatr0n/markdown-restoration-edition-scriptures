@@ -1,4 +1,4 @@
-[[Exodus 19.md|<< Exodus 19]]  |  [[../Leviticus/Leviticus 1.md|Leviticus 1 >>]]
+[[Exodus 19|<< Exodus 19]]  |  [[../Leviticus/Leviticus 1|Leviticus 1 >>]]
 
 ### Chapter 20
 ###### 1

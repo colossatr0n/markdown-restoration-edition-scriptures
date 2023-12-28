@@ -1,0 +1,8 @@
+- [Judges 1](Judges%201.md)
+- [Judges 2](Judges%202.md)
+- [Judges 3](Judges%203.md)
+- [Judges 4](Judges%204.md)
+- [Judges 5](Judges%205.md)
+- [Judges 6](Judges%206.md)
+- [Judges 7](Judges%207.md)
+- [Judges 8](Judges%208.md)

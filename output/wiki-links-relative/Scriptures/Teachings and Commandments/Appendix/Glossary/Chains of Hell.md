@@ -1,4 +1,4 @@
-[[Ceremony of Recognition.md|<< Ceremony of Recognition]]  |  [[Charity.md|Charity >>]]
+[[Ceremony of Recognition|<< Ceremony of Recognition]]  |  [[Charity|Charity >>]]
 
 ### Chains of Hell
 

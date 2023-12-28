@@ -1,4 +1,4 @@
-[[Section 176.md|<< Section 176]]  |  [[../Appendix/Section Endnotes.md|Section Endnotes >>]]
+[[Section 176|<< Section 176]]  |  [[../Appendix/Section Endnotes|Section Endnotes >>]]
 
 ### SECTION 177
 

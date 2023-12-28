@@ -1,4 +1,4 @@
-[[Job 10.md|<< Job 10]]  |  [[Job 12.md|Job 12 >>]]
+[[Job 10|<< Job 10]]  |  [[Job 12|Job 12 >>]]
 
 ### Chapter 11
 ###### 1

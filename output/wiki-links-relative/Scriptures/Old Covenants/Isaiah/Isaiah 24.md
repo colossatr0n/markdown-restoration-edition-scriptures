@@ -1,4 +1,4 @@
-[[Isaiah 23.md|<< Isaiah 23]]  |  [[Isaiah 25.md|Isaiah 25 >>]]
+[[Isaiah 23|<< Isaiah 23]]  |  [[Isaiah 25|Isaiah 25 >>]]
 
 ### Chapter 24
 ###### 1

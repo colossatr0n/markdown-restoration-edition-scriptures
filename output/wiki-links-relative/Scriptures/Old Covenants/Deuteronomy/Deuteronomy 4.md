@@ -1,4 +1,4 @@
-[[Deuteronomy 3.md|<< Deuteronomy 3]]  |  [[Deuteronomy 5.md|Deuteronomy 5 >>]]
+[[Deuteronomy 3|<< Deuteronomy 3]]  |  [[Deuteronomy 5|Deuteronomy 5 >>]]
 
 ### Chapter 4
 ###### 1

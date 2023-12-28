@@ -1,4 +1,4 @@
-[[Acts 10.md|<< Acts 10]]  |  [[Acts 12.md|Acts 12 >>]]
+[[Acts 10|<< Acts 10]]  |  [[Acts 12|Acts 12 >>]]
 
 ### Chapter 11
 ###### 1

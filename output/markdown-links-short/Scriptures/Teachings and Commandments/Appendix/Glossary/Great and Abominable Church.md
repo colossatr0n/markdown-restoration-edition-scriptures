@@ -1,0 +1,19 @@
+[<< Grace](Grace)  |  [Great Knowledge and Greater Knowledge >>](Great%20Knowledge%20and%20Greater%20Knowledge)
+
+### Great and Abominable Church
+Mankind is commanded to not unite with the great and abominable church. This is not a single congregation; it is the world itself. The entire world is divided into two — one is the church of the Lamb of God; the other is everything else (*see* 1 Nephi 3:27). This is a bigger problem than it may first appear. Inasmuch as there are endless ways to belong to the great and abominable church, but only a single way to avoid it, the odds are gentiles will not find Zion. Instead, they will fight against her — Zion — and join the worldly minions who are opposed to her.1 The abominable church is always ready to preach false, vain, and foolish doctrines to man. It will offer anything to distract people and keep them from seeing the Lord “bring again Zion.” It will even use the words of Zion to preach a false faith. It is abominable because its false teachings are clothed in the vocabulary of truth.2
+
+Using a typological description, the prophet Nephi prophesied that the world, in the last days, will be separated into two divisions. There will be only two “churches” (or “assemblages” or “cultures”); namely, *the one is the church of the Lamb of God, and the other is the church of the Devil. Wherefore, whoso belongeth not to the church of the Lamb of God belongeth to that great church which is the mother of abominations, and she is the whore of all the earth* (1 Nephi 3:27). Therefore, based on what Nephi says, unless one is part of that body of believers whose Father is Christ and who possess a covenant from Him that they will be His, he belongs to the whore of all the earth, a church of abominations. Those who are believers are they whom He has declared to His Father as *having been true and faithful in all things*. The other, all-inclusive, great church is comprised of all philosophies, all belief systems, all unbelief systems, all rationalizations, all theories, and all vanities that distract people from repenting and following Christ. These vary from very good things that are uplifting (and possess even great portions of truth) to the degrading and perverse. This all-inclusive church is a “whore” because she is completely indiscriminate and open for all to have her acceptance and affection. She welcomes all, the only requirement being that one have false beliefs. “The great illusion of a whore is to imagine she likes you. To imagine she cares for you. To imagine she desires what you desire and is cooperating with you because she finds you attractive, appealing, and that you fulfill her longing. It is a lie, an illusion, and a fraud. Her bodily diseases are less virulent than her contamination of the soul. Empty, false, vain, and foolish thoughts occupy the imagination of those who have intercourse with the great whore. She prefers the lie, relies on it. You would not be her customer if not for the lies.”3 This contrast is drawn for Nephi because these are two extremes. Both of them are religious. One is founded on a true religion; the other is a false religion. One follows the Father’s covenants and will result in God’s promised results. The other follows the commandments of men who have mingled their own philosophies with scripture so that their doctrines are all corrupt. They share a vocabulary but nothing else.4*See also* CHURCH; BABYLON.
+
+
+
+1 “Nephi’s Brother Jacob, Part 5,” March 15, 2012, blog post.
+
+
+2 “1 Nephi 14:3–4,” July 6, 2010, blog post.
+
+
+3 “1 Nephi 14:10,” July 8, 2010, blog post.
+
+
+4 “1 Nephi 14:8–9,” July 8, 2010, blog post.

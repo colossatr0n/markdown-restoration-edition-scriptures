@@ -1,4 +1,4 @@
-[[Psalms 84.md|<< Psalms 84]]  |  [[Psalms 86.md|Psalms 86 >>]]
+[[Psalms 84|<< Psalms 84]]  |  [[Psalms 86|Psalms 86 >>]]
 
 ### Psalm 85
 

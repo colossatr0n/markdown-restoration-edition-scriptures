@@ -1,4 +1,4 @@
-[[../Numbers/Numbers 13.md|<< Numbers 13]]  |  [[Deuteronomy 2.md|Deuteronomy 2 >>]]
+[[../Numbers/Numbers 13|<< Numbers 13]]  |  [[Deuteronomy 2|Deuteronomy 2 >>]]
 
 ### THE FIFTH BOOK OF MOSES CALLED
 # DEUTERONOMY

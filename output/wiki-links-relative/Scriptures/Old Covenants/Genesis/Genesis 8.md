@@ -1,4 +1,4 @@
-[[Genesis 7.md|<< Genesis 7]]  |  [[Genesis 9.md|Genesis 9 >>]]
+[[Genesis 7|<< Genesis 7]]  |  [[Genesis 9|Genesis 9 >>]]
 
 
 *A son born to Abraham, etc., Abraham and Abimelech made a covenant, etc.*

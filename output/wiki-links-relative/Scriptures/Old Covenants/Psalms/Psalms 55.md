@@ -1,4 +1,4 @@
-[[Psalms 54.md|<< Psalms 54]]  |  [[Psalms 56.md|Psalms 56 >>]]
+[[Psalms 54|<< Psalms 54]]  |  [[Psalms 56|Psalms 56 >>]]
 
 ### Psalm 55
 

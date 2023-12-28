@@ -1,4 +1,4 @@
-[[Psalms 91.md|<< Psalms 91]]  |  [[Psalms 93.md|Psalms 93 >>]]
+[[Psalms 91|<< Psalms 91]]  |  [[Psalms 93|Psalms 93 >>]]
 
 ### Psalm 92
 

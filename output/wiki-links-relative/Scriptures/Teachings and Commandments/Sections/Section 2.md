@@ -1,4 +1,4 @@
-[[Section 1 - Joseph Smith History/Part 20 (June 1830).md|<< Part 20 (June 1830)]]  |  [[Section 3.md|Section 3 >>]]
+[[Section 1 - Joseph Smith History/Part 20 (June 1830)|<< Part 20 (June 1830)]]  |  [[Section 3|Section 3 >>]]
 
 ### SECTION 2
 

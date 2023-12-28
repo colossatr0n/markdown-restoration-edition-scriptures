@@ -1,4 +1,4 @@
-[[Jeremiah 16.md|<< Jeremiah 16]]  |  [[Jeremiah 18.md|Jeremiah 18 >>]]
+[[Jeremiah 16|<< Jeremiah 16]]  |  [[Jeremiah 18|Jeremiah 18 >>]]
 
 ### Chapter 17
 ###### 1

@@ -1,4 +1,4 @@
-[[../3 Nephi/3 Nephi 14.md|<< 3 Nephi 14]]  |  [[../Mormon/Mormon 1.md|Mormon 1 >>]]
+[[../3 Nephi/3 Nephi 14|<< 3 Nephi 14]]  |  [[../Mormon/Mormon 1|Mormon 1 >>]]
 
 # THE BOOK OF NEPHI
 ### WHO IS THE SON OF NEPHI,

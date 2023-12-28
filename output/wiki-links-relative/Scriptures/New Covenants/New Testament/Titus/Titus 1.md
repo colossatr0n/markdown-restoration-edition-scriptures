@@ -1,4 +1,4 @@
-[[../2 Timothy/2 Timothy 1.md|<< 2 Timothy 1]]  |  [[../Philemon/Philemon 1.md|Philemon 1 >>]]
+[[../2 Timothy/2 Timothy 1|<< 2 Timothy 1]]  |  [[../Philemon/Philemon 1|Philemon 1 >>]]
 
 # THE EPISTLE TO TITUS
 ###### 1

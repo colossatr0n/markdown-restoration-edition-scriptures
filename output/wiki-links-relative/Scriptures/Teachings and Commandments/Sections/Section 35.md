@@ -1,4 +1,4 @@
-[[Section 34.md|<< Section 34]]  |  [[Section 36.md|Section 36 >>]]
+[[Section 34|<< Section 34]]  |  [[Section 36|Section 36 >>]]
 
 ### SECTION 35
 

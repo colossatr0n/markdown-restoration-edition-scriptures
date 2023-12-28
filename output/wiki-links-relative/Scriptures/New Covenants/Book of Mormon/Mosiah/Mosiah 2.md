@@ -1,4 +1,4 @@
-[[Mosiah 1.md|<< Mosiah 1]]  |  [[Mosiah 3.md|Mosiah 3 >>]]
+[[Mosiah 1|<< Mosiah 1]]  |  [[Mosiah 3|Mosiah 3 >>]]
 
 ### Chapter 2
 ###### 1

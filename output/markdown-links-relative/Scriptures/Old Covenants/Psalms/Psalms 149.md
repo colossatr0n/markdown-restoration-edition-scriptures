@@ -1,0 +1,5 @@
+[<< Psalms 148](Psalms%20148.md)  |  [Psalms 150 >>](Psalms%20150.md)
+
+### Psalm 149
+###### 1
+Praise the Lord. Sing unto the Lord a new song, and his praise in the congregation of saints. Let Israel rejoice in him that made him. Let the children of Zion be joyful in their King. Let them praise his name in the dance. Let them sing praises unto him with the tambourine and harp. For the Lord takes pleasure in his people, he will beautify the meek with salvation. Let the saints be joyful in glory. Let them sing aloud upon their beds. Let the high praises of God be in their mouth, and a two-edged sword in their hand — to execute vengeance upon the heathen and punishments upon the people, to bind their kings with chains and their nobles with fetters of iron, to execute upon them the judgment written. This honor, all his saints have. Praise the Lord.

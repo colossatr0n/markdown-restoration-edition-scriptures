@@ -1,4 +1,4 @@
-[[../Haggai/Haggai 1.md|<< Haggai 1]]  |  [[../Malachi/Malachi 1.md|Malachi 1 >>]]
+[[../Haggai/Haggai 1|<< Haggai 1]]  |  [[../Malachi/Malachi 1|Malachi 1 >>]]
 
 # ZECHARIAH
 ###### 1

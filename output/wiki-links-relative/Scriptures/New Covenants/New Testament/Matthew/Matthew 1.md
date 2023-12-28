@@ -1,4 +1,4 @@
-[[../Preface.md|<< Preface]]  |  [[Matthew 2.md|Matthew 2 >>]]
+[[../Preface|<< Preface]]  |  [[Matthew 2|Matthew 2 >>]]
 
 # THE TESTIMONY OF ST. MATTHEW
 ### Chapter 1

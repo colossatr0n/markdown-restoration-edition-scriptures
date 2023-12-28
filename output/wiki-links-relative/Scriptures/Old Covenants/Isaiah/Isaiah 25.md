@@ -1,4 +1,4 @@
-[[Isaiah 24.md|<< Isaiah 24]]  |  [[../Jeremiah/Jeremiah 1.md|Jeremiah 1 >>]]
+[[Isaiah 24|<< Isaiah 24]]  |  [[../Jeremiah/Jeremiah 1|Jeremiah 1 >>]]
 
 ### Chapter 25
 ###### 1

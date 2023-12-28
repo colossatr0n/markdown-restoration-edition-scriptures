@@ -1,4 +1,4 @@
-[[Part 14 (May 1829).md|<< Part 14 (May 1829)]]  |  [[Part 16 (June–End 1829).md|Part 16 (June–End 1829) >>]]
+[[Part 14 (May 1829)|<< Part 14 (May 1829)]]  |  [[Part 16 (June–End 1829)|Part 16 (June–End 1829) >>]]
 
 ### Part 15 (June 1829)
 ###### 1

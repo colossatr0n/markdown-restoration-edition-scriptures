@@ -1,4 +1,4 @@
-[[Introduction.md|<< Introduction]]  |  [[Sections/Section 1 - Joseph Smith History/Part 1 (1805–1820).md|Part 1 (1805–1820) >>]]
+[[Introduction|<< Introduction]]  |  [[Sections/Section 1 - Joseph Smith History/Part 1 (1805–1820)|Part 1 (1805–1820) >>]]
 
 ### EPIGRAPH
 

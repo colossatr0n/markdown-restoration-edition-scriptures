@@ -1,4 +1,4 @@
-[[Agency.md|<< Agency]]  |  [[Angel.md|Angel >>]]
+[[Agency|<< Agency]]  |  [[Angel|Angel >>]]
 
 ### Ancient of Days
 This name means the oldest man, our Father Adam; Michael.1

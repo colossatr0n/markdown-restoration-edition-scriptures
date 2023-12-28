@@ -1,4 +1,4 @@
-[[../Sections/Section 177.md|<< Section 177]]  |  [[Excluded Revelations.md|Excluded Revelations >>]]
+[[../Sections/Section 177|<< Section 177]]  |  [[Excluded Revelations|Excluded Revelations >>]]
 
 ### SECTION ENDNOTES
 #### Section 175

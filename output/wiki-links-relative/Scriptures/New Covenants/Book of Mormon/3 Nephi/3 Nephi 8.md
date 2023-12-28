@@ -1,4 +1,4 @@
-[[3 Nephi 7.md|<< 3 Nephi 7]]  |  [[3 Nephi 9.md|3 Nephi 9 >>]]
+[[3 Nephi 7|<< 3 Nephi 7]]  |  [[3 Nephi 9|3 Nephi 9 >>]]
 
 ### Chapter 8
 ###### 1

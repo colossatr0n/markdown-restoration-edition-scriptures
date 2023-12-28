@@ -1,4 +1,4 @@
-- [[Mormon 1.md|Mormon 1]]
-- [[Mormon 2.md|Mormon 2]]
-- [[Mormon 3.md|Mormon 3]]
-- [[Mormon 4.md|Mormon 4]]
+- [[Mormon 1]]
+- [[Mormon 2]]
+- [[Mormon 3]]
+- [[Mormon 4]]

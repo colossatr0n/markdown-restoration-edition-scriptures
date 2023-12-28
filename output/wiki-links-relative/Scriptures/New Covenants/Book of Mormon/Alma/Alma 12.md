@@ -1,4 +1,4 @@
-[[Alma 11.md|<< Alma 11]]  |  [[Alma 13.md|Alma 13 >>]]
+[[Alma 11|<< Alma 11]]  |  [[Alma 13|Alma 13 >>]]
 
 ### Chapter 12
 

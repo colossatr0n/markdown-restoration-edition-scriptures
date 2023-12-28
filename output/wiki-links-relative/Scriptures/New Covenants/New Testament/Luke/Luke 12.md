@@ -1,4 +1,4 @@
-[[Luke 11.md|<< Luke 11]]  |  [[Luke 13.md|Luke 13 >>]]
+[[Luke 11|<< Luke 11]]  |  [[Luke 13|Luke 13 >>]]
 
 ### Chapter 12
 ###### 1

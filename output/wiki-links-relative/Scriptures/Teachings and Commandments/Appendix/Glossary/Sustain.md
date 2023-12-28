@@ -1,4 +1,4 @@
-[[Surety, Christ as.md|<< Surety, Christ as]]  |  [[Symbols.md|Symbols >>]]
+[[Surety, Christ as|<< Surety, Christ as]]  |  [[Symbols|Symbols >>]]
 
 ### Sustain
 To openly signify support and approval by vote or affirmation (e.g., when seven women sustain a man to use his priesthood outside his own family for the benefit of the fellowship); to support as true, legal, or just; or to allow or admit a proposal as valid. Not used in the sense of providing temporal support or relief or supplying sustenance. The LDS tradition is to ordain to the priesthood at age twelve, and that has become the standard. There is compelling evidence that both Jesus and John were initiated into the temple at age twelve before the Passover in essentially what would today be called a *bar mitzvah*. It was important for Jesus to be at the temple at the age of twelve for that initiation. For a youth to be ordained, at least seven women must vote to sustain him to be a priest, which would, of necessity, include the mother because she would be most acquainted with his daily walk.1

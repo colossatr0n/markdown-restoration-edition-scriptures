@@ -1,4 +1,4 @@
-[[Public Rites (Ordinances).md|<< Public Rites (Ordinances)]]  |  [[Rabbi.md|Rabbi >>]]
+[[Public Rites (Ordinances)|<< Public Rites (Ordinances)]]  |  [[Rabbi|Rabbi >>]]
 
 ### Pure in Heart
 

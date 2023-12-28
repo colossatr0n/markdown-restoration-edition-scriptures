@@ -1,4 +1,4 @@
-[[Numbers 11.md|<< Numbers 11]]  |  [[Numbers 13.md|Numbers 13 >>]]
+[[Numbers 11|<< Numbers 11]]  |  [[Numbers 13|Numbers 13 >>]]
 
 ### Chapter 12
 ###### 1

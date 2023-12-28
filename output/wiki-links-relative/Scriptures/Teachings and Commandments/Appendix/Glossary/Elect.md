@@ -1,4 +1,4 @@
-[[Elder.md|<< Elder]]  |  [[Elias.md|Elias >>]]
+[[Elder|<< Elder]]  |  [[Elias|Elias >>]]
 
 ### Elect
 

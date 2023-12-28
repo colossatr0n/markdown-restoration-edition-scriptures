@@ -1,4 +1,4 @@
-[[Section 84.md|<< Section 84]]  |  [[Section 86.md|Section 86 >>]]
+[[Section 84|<< Section 84]]  |  [[Section 86|Section 86 >>]]
 
 ### SECTION 85
 

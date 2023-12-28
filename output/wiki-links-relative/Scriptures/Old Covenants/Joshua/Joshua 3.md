@@ -1,4 +1,4 @@
-[[Joshua 2.md|<< Joshua 2]]  |  [[Joshua 4.md|Joshua 4 >>]]
+[[Joshua 2|<< Joshua 2]]  |  [[Joshua 4|Joshua 4 >>]]
 
 ### Chapter 3
 ###### 1

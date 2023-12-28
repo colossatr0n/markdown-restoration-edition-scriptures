@@ -1,4 +1,4 @@
-[[Section 164.md|<< Section 164]]  |  [[Section 166.md|Section 166 >>]]
+[[Section 164|<< Section 164]]  |  [[Section 166|Section 166 >>]]
 
 ### SECTION 165
 

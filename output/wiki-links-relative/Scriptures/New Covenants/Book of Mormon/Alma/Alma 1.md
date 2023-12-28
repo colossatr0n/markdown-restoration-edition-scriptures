@@ -1,4 +1,4 @@
-[[../Mosiah/Mosiah 13.md|<< Mosiah 13]]  |  [[Alma 2.md|Alma 2 >>]]
+[[../Mosiah/Mosiah 13|<< Mosiah 13]]  |  [[Alma 2|Alma 2 >>]]
 
 # THE BOOK OF ALMA
 ### THE SON OF ALMA

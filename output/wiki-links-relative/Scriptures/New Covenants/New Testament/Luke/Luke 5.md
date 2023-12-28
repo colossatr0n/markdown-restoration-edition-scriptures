@@ -1,4 +1,4 @@
-[[Luke 4.md|<< Luke 4]]  |  [[Luke 6.md|Luke 6 >>]]
+[[Luke 4|<< Luke 4]]  |  [[Luke 6|Luke 6 >>]]
 
 ### Chapter 5
 ###### 1

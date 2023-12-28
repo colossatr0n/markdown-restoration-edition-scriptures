@@ -1,4 +1,4 @@
-[[Luke 8.md|<< Luke 8]]  |  [[Luke 10.md|Luke 10 >>]]
+[[Luke 8|<< Luke 8]]  |  [[Luke 10|Luke 10 >>]]
 
 ### Chapter 9
 ###### 1

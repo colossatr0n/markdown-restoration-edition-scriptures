@@ -1,4 +1,4 @@
-[[Beast.md|<< Beast]]  |  [[Becoming One.md|Becoming One >>]]
+[[Beast|<< Beast]]  |  [[Becoming One|Becoming One >>]]
 
 ### Become as a Little Child
 

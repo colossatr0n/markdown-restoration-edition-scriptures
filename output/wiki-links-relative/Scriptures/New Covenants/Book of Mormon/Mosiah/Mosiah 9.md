@@ -1,4 +1,4 @@
-[[Mosiah 8.md|<< Mosiah 8]]  |  [[Mosiah 10.md|Mosiah 10 >>]]
+[[Mosiah 8|<< Mosiah 8]]  |  [[Mosiah 10|Mosiah 10 >>]]
 
 ### Chapter 9
 ###### 1

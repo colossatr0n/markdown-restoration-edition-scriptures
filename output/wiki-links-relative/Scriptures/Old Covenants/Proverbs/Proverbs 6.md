@@ -1,4 +1,4 @@
-[[Proverbs 5.md|<< Proverbs 5]]  |  [[../Ecclesiastes/Ecclesiastes 1.md|Ecclesiastes 1 >>]]
+[[Proverbs 5|<< Proverbs 5]]  |  [[../Ecclesiastes/Ecclesiastes 1|Ecclesiastes 1 >>]]
 
 ### Chapter 6
 

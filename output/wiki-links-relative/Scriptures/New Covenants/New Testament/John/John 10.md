@@ -1,4 +1,4 @@
-[[John 9.md|<< John 9]]  |  [[John 11.md|John 11 >>]]
+[[John 9|<< John 9]]  |  [[John 11|John 11 >>]]
 
 ### Chapter 10
 ###### 1

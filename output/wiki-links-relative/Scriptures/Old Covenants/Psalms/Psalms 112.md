@@ -1,4 +1,4 @@
-[[Psalms 111.md|<< Psalms 111]]  |  [[Psalms 113.md|Psalms 113 >>]]
+[[Psalms 111|<< Psalms 111]]  |  [[Psalms 113|Psalms 113 >>]]
 
 ### Psalm 112
 ###### 1

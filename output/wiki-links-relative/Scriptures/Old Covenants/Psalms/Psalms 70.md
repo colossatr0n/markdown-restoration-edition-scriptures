@@ -1,4 +1,4 @@
-[[Psalms 69.md|<< Psalms 69]]  |  [[Psalms 71.md|Psalms 71 >>]]
+[[Psalms 69|<< Psalms 69]]  |  [[Psalms 71|Psalms 71 >>]]
 
 ### Psalm 70
 

@@ -1,4 +1,4 @@
-[[Mosiah 3.md|<< Mosiah 3]]  |  [[Mosiah 5.md|Mosiah 5 >>]]
+[[Mosiah 3|<< Mosiah 3]]  |  [[Mosiah 5|Mosiah 5 >>]]
 
 ### Chapter 4
 ###### 1

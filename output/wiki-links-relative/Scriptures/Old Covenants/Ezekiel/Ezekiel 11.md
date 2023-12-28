@@ -1,4 +1,4 @@
-[[Ezekiel 10.md|<< Ezekiel 10]]  |  [[Ezekiel 12.md|Ezekiel 12 >>]]
+[[Ezekiel 10|<< Ezekiel 10]]  |  [[Ezekiel 12|Ezekiel 12 >>]]
 
 ### Chapter 11
 ###### 1

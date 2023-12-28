@@ -1,4 +1,4 @@
-[[2 Samuel 11.md|<< 2 Samuel 11]]  |  [[../1 Kings/1 Kings 1.md|1 Kings 1 >>]]
+[[2 Samuel 11|<< 2 Samuel 11]]  |  [[../1 Kings/1 Kings 1|1 Kings 1 >>]]
 
 ### Chapter 12
 ###### 1

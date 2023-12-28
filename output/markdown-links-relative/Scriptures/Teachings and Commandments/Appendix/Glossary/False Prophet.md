@@ -1,0 +1,8 @@
+[<< False Christ](False%20Christ.md)  |  [False Spirit >>](False%20Spirit.md)
+
+### False Prophet
+The idea of a *wolf* concealing itself in *sheep’s clothing* (Matthew 3:46) comes from men with the pretense of piety whose hearts are actually set on the things of this world. *Wolves* are still trusted with the treasury, given honor, and smothered with adoration. Joseph Smith had little confidence in mankind’s ability to discern between the real and the imitation. He explained it this way: *The world always mistook false prophets for true ones, and those that were sent of God they considered to be false prophets, and hence they killed, stoned, punished, and imprisoned the true prophets, and they had to hide themselves “in deserts, and in mountains, and dens and caves of the earth” [Hebrews 1:49], and though the most honorable men of the earth, they banished them from their society as vagabonds, while they cherished, honored, and supported knaves, vagabonds, hypocrites, impostors, and the basest of men *(T&C 147:11). Anything claiming to be truth should conform with the truths already given in scripture. Everyone’s motives should be questioned until it is determined by sufficient observation that they are *sheep*. “Any teaching or person who draws us to them and does not point us to the Lord, is unable to help us. If they try to supplant Christ as the object of admiration, then they are anti-Christ and a false prophet.”1
+
+
+
+1 “Pretensions of Public Piety,” Sept. 7, 2015, blog post.

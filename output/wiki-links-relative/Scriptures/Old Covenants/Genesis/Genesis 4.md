@@ -1,4 +1,4 @@
-[[Genesis 3.md|<< Genesis 3]]  |  [[Genesis 5.md|Genesis 5 >>]]
+[[Genesis 3|<< Genesis 3]]  |  [[Genesis 5|Genesis 5 >>]]
 
 ### Chapter 4
 ###### 1

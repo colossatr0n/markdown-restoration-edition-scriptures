@@ -1,0 +1,35 @@
+[<< Section 106](Section%20106.md)  |  [Section 108 >>](Section%20108.md)
+
+### SECTION 107
+
+*A revelation given at Clay County, Missouri, 22 June 1834, through Joseph Smith Jr.*
+
+###### 1
+Verily I say unto you who have assembled yourselves together that you may learn my will concerning the redemption of my afflicted people, behold, I say unto you, were it not for the transgressions of my people, speaking concerning the church and not individuals, they might have been redeemed, even now. But behold, they have not learned to be obedient to the things which I require at their hands, but are full of all manner of evil, and do not impart of their substance, as becomes saints, to the poor and afflicted among them, and are not united according to the union required by the law of the Celestial Kingdom. And Zion cannot be built up unless it is by the principles of the law of the Celestial Kingdom, otherwise I cannot receive her unto myself. And my people must needs be chastened until they learn obedience, if it must needs be by the things which they suffer.
+
+###### 2
+I speak not concerning those who are appointed to lead my people, who are the first elders of my church, for they are not all under this condemnation, but I speak concerning the church abroad. There are many who will say, Where is their God? Behold, he will deliver in time of trouble, otherwise we will not go up unto Zion, and will keep our moneys.
+
+###### 3
+Therefore, in consequence of the transgression of my people, it is expedient in me that my elders should wait for a little season for the redemption of Zion that they themselves may be prepared, and that my people may be taught more perfectly, and have experience, and know more perfectly concerning their duty and the things which I require at their hands. And this cannot be brought to pass until my elders are endowed with power from on high, for behold, I have prepared a great endowment and blessing to be poured out upon them, inasmuch as they are faithful and continue in humility before me. Therefore, it is expedient in me that my elders should wait a little season for the redemption of Zion.
+
+###### 4
+For behold, I do not require at their hands to fight the battles of Zion, for as I have said in a former commandment, even so I will fulfill: I will fight your battles. Behold, the Destroyer I have already sent forth to destroy and lay waste my enemies, and not many years hence they shall not be left to pollute my heritage, and to blaspheme my name upon the land which I have consecrated for the gathering together of my saints.
+
+###### 5
+Behold, I have commanded my servant Joseph to say to the strength of my house, even my warriors, my young men and middle-aged, to gather together for the redemption of my people, and throw down the tower of my enemies and scatter their watchmen, but the strength of my house has not hearkened unto my words. But inasmuch as there are those that have hearkened unto my words, I have prepared a blessing and an endowment for them, if they continue faithful. I have heard their prayers and will accept their offering, and it is expedient in me that they should be brought thus far for a trial of their faith.
+
+###### 6
+And now verily I say unto you, a commandment I give unto you — that as many as have come up hither that can stay in the regions round about, let them stay; and those who cannot stay, who have families in the east, let them tarry for a little season, inasmuch as my servant Joseph shall appoint unto them, for I will counsel him concerning this matter. And all things whatever he shall appoint unto them shall be fulfilled. And let all my people who dwell in the regions round about be very faithful, and prayerful, and humble before me, and reveal not the things which I have revealed unto them. Talk not of judgment, boast not of faith nor of mighty works, but carefully gather together as much in one region as can be, consistently with the feelings of the people. And behold, I will give unto you favor and grace in their eyes that you may rest in peace and safety while you are saying unto the people, Execute judgment and justice for us, according to law, and redress us of our wrongs.
+
+###### 7
+Now behold, I say unto you my friends, in this way you may find favor in the eyes of the people, until the armies of Israel become very great. And I will soften the hearts of the people as I did the heart of Pharaoh, from time to time, until my servant Joseph and my elders whom he shall appoint shall have time to gather up the strength of my house, and to have sent wise men to fulfill that which I have commanded concerning the purchasing of all the lands in Jackson County that can be purchased, and in the adjoining counties round about. For it is my will that these lands should be purchased, and after they are purchased, that my saints should possess them, according to the law of consecration which I have given. And after these lands are purchased, I will hold the armies of Israel guiltless in taking possession of their own lands, which they have previously purchased with their moneys, and of throwing down the towers of my enemies that may be upon them, and scattering their watchmen, and avenging me of my enemies unto the third and fourth generation of them that hate me. But firstly, let my army become very great, and let it be sanctified before me that it may become fair as the sun and clear as the moon, and that her banners may be terrible unto all nations — that the kingdoms of this world may be constrained to acknowledge that the kingdom of Zion is in very deed the kingdom of our God and his Christ, therefore let us become subject unto her laws.
+
+###### 8
+Verily I say unto you, it is expedient in me that the first elders of my church should receive their endowment from on high in my house which I have commanded to be built unto my name in the land of Kirtland. And let those commandments which I have given concerning Zion and her law be executed and fulfilled after her redemption.
+
+###### 9
+There has been a day of calling, but the time has come for a day of choosing, and let those be chosen that are worthy, and it shall be manifest unto my servant Joseph by the voice of the spirit those who are chosen, and they shall be sanctified. And inasmuch as they follow the counsels which they receive, they shall have power, after many days, to accomplish all things pertaining to Zion.
+
+###### 10
+And again, I say unto you, sue for peace, not only the people that have smitten you, but also to all people, and lift up an ensign of peace and make a proclamation for peace unto the ends of the earth, and make proposals for peace unto those who have smitten you, according to the voice of the spirit which is in you, and all things shall work together for your good. And be faithful, and behold and lo, I am with you even unto the end. Even so, Amen.

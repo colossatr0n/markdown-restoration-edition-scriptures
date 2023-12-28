@@ -1,4 +1,4 @@
-[[Hell.md|<< Hell]]  |  [[Holy Ghost.md|Holy Ghost >>]]
+[[Hell|<< Hell]]  |  [[Holy Ghost|Holy Ghost >>]]
 
 ### Holiness
 Purity of heart.1*See also* SANCTIFICATION.

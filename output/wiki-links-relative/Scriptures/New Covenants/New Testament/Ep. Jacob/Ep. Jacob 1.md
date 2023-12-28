@@ -1,4 +1,4 @@
-[[../Hebrews/Hebrews 1.md|<< Hebrews 1]]  |  [[../1 Peter/1 Peter 1.md|1 Peter 1 >>]]
+[[../Hebrews/Hebrews 1|<< Hebrews 1]]  |  [[../1 Peter/1 Peter 1|1 Peter 1 >>]]
 
 # THE EPISTLE OF JACOB
 (Traditionally called James)

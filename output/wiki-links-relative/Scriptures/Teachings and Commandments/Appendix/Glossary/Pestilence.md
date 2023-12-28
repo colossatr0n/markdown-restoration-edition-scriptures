@@ -1,4 +1,4 @@
-[[Persecution.md|<< Persecution]]  |  [[Pharaoh.md|Pharaoh >>]]
+[[Persecution|<< Persecution]]  |  [[Pharaoh|Pharaoh >>]]
 
 ### Pestilence
 

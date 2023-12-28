@@ -1,4 +1,4 @@
-[[Psalms 25.md|<< Psalms 25]]  |  [[Psalms 27.md|Psalms 27 >>]]
+[[Psalms 25|<< Psalms 25]]  |  [[Psalms 27|Psalms 27 >>]]
 
 ### Psalm 26
 

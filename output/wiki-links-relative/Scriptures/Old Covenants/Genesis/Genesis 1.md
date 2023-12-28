@@ -1,4 +1,4 @@
-[[../Preface.md|<< Preface]]  |  [[Genesis 2.md|Genesis 2 >>]]
+[[../Preface|<< Preface]]  |  [[Genesis 2|Genesis 2 >>]]
 
 # GENESIS
 ### Chapter 1

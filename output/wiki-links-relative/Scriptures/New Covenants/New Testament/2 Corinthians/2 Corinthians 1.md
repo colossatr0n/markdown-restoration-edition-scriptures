@@ -1,4 +1,4 @@
-[[../1 Corinthians/1 Corinthians 1.md|<< 1 Corinthians 1]]  |  [[../Galatians/Galatians 1.md|Galatians 1 >>]]
+[[../1 Corinthians/1 Corinthians 1|<< 1 Corinthians 1]]  |  [[../Galatians/Galatians 1|Galatians 1 >>]]
 
 ### THE SECOND EPISTLE TO THE
 # CORINTHIANS

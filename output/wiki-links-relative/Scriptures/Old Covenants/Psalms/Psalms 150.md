@@ -1,4 +1,4 @@
-[[Psalms 149.md|<< Psalms 149]]  |  [[../Proverbs/Proverbs 1.md|Proverbs 1 >>]]
+[[Psalms 149|<< Psalms 149]]  |  [[../Proverbs/Proverbs 1|Proverbs 1 >>]]
 
 ### Psalm 150
 ###### 1

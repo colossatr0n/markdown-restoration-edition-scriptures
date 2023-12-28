@@ -1,4 +1,4 @@
-[[Jeremiah 9.md|<< Jeremiah 9]]  |  [[Jeremiah 11.md|Jeremiah 11 >>]]
+[[Jeremiah 9|<< Jeremiah 9]]  |  [[Jeremiah 11|Jeremiah 11 >>]]
 
 ### Chapter 10
 ###### 1

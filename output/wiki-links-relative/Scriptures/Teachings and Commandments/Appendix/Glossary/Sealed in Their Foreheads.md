@@ -1,4 +1,4 @@
-[[Scripture.md|<< Scripture]]  |  [[Sealing Power.md|Sealing Power >>]]
+[[Scripture|<< Scripture]]  |  [[Sealing Power|Sealing Power >>]]
 
 ### Sealed in Their Foreheads
 “[To] seal the servants of God in their foreheads, etc. …means to seal the blessing on their heads meaning the everlasting covenant thereby making their calling & election sure.”1

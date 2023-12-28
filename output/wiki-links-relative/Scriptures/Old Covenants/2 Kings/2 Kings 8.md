@@ -1,4 +1,4 @@
-[[2 Kings 7.md|<< 2 Kings 7]]  |  [[../1 Chronicles/1 Chronicles 1.md|1 Chronicles 1 >>]]
+[[2 Kings 7|<< 2 Kings 7]]  |  [[../1 Chronicles/1 Chronicles 1|1 Chronicles 1 >>]]
 
 ### Chapter 8
 ###### 1

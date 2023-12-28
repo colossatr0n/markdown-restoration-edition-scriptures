@@ -1,4 +1,4 @@
-[[../Matthew/Matthew 13.md|<< Matthew 13]]  |  [[Mark 2.md|Mark 2 >>]]
+[[../Matthew/Matthew 13|<< Matthew 13]]  |  [[Mark 2|Mark 2 >>]]
 
 # THE GOSPEL ACCORDING TO ST. MARK
 ### Chapter 1

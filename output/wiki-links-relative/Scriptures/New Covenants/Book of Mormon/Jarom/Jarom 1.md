@@ -1,4 +1,4 @@
-[[../Enos/Enos 1.md|<< Enos 1]]  |  [[../Omni/Omni 1.md|Omni 1 >>]]
+[[../Enos/Enos 1|<< Enos 1]]  |  [[../Omni/Omni 1|Omni 1 >>]]
 
 # THE BOOK OF JAROM
 ###### 1

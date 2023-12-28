@@ -1,4 +1,4 @@
-[[Section 154.md|<< Section 154]]  |  [[Section 156.md|Section 156 >>]]
+[[Section 154|<< Section 154]]  |  [[Section 156|Section 156 >>]]
 
 ### SECTION 155
 THE PROVERBS OF JOSEPH SMITH JR.

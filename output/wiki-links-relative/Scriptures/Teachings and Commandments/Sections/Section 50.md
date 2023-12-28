@@ -1,4 +1,4 @@
-[[Section 49.md|<< Section 49]]  |  [[Section 51.md|Section 51 >>]]
+[[Section 49|<< Section 49]]  |  [[Section 51|Section 51 >>]]
 
 ### SECTION 50
 

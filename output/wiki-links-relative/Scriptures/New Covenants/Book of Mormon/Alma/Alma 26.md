@@ -1,4 +1,4 @@
-[[Alma 25.md|<< Alma 25]]  |  [[Alma 27.md|Alma 27 >>]]
+[[Alma 25|<< Alma 25]]  |  [[Alma 27|Alma 27 >>]]
 
 ### Chapter 26
 ###### 1

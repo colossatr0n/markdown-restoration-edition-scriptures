@@ -1,4 +1,4 @@
-[[Correlation Tables.md|<< Correlation Tables]]  |  [[Maps.md|Maps >>]]
+[[Correlation Tables|<< Correlation Tables]]  |  [[Maps|Maps >>]]
 
 ### TIMELINE of the FATHERS
-![[Images.tc.timeline.jpg]]
+![[../../assets/Images.tc.timeline.jpg|Images.tc.timeline]]

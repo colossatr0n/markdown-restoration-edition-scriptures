@@ -1,4 +1,4 @@
-[[Ezekiel 1.md|<< Ezekiel 1]]  |  [[Ezekiel 3.md|Ezekiel 3 >>]]
+[[Ezekiel 1|<< Ezekiel 1]]  |  [[Ezekiel 3|Ezekiel 3 >>]]
 
 ### Chapter 2
 ###### 1

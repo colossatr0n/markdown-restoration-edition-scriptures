@@ -1,4 +1,4 @@
-[[Part 10 (July 1828).md|<< Part 10 (July 1828)]]  |  [[Part 12 (March 1829).md|Part 12 (March 1829) >>]]
+[[Part 10 (July 1828)|<< Part 10 (July 1828)]]  |  [[Part 12 (March 1829)|Part 12 (March 1829) >>]]
 
 ### Part 11 (February 1829)
 ###### 1

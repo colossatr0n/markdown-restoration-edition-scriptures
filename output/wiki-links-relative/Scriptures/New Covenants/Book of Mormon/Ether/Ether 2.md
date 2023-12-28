@@ -1,4 +1,4 @@
-[[Ether 1.md|<< Ether 1]]  |  [[Ether 3.md|Ether 3 >>]]
+[[Ether 1|<< Ether 1]]  |  [[Ether 3|Ether 3 >>]]
 
 ### Chapter 2
 ###### 1

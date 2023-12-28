@@ -1,4 +1,4 @@
-[[1 Chronicles 11.md|<< 1 Chronicles 11]]  |  [[../2 Chronicles/2 Chronicles 1.md|2 Chronicles 1 >>]]
+[[1 Chronicles 11|<< 1 Chronicles 11]]  |  [[../2 Chronicles/2 Chronicles 1|2 Chronicles 1 >>]]
 
 ### Chapter 12
 ###### 1

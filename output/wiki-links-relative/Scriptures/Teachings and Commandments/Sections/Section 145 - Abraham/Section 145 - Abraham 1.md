@@ -1,4 +1,4 @@
-[[Facsimile 1.md|<< Facsimile 1]]  |  [[Section 145 - Abraham 2.md|Section 145 - Abraham 2 >>]]
+[[Facsimile 1|<< Facsimile 1]]  |  [[Section 145 - Abraham 2|Section 145 - Abraham 2 >>]]
 
 ### Chapter 1
 ###### 1

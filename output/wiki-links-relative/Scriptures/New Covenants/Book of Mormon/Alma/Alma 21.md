@@ -1,4 +1,4 @@
-[[Alma 20.md|<< Alma 20]]  |  [[Alma 22.md|Alma 22 >>]]
+[[Alma 20|<< Alma 20]]  |  [[Alma 22|Alma 22 >>]]
 
 ### Chapter 21
 

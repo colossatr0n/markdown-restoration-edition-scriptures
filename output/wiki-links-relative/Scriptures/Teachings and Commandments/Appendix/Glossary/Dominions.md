@@ -1,4 +1,4 @@
-[[Dominion.md|<< Dominion]]  |  [[Dragon.md|Dragon >>]]
+[[Dominion|<< Dominion]]  |  [[Dragon|Dragon >>]]
 
 ### Dominions
 

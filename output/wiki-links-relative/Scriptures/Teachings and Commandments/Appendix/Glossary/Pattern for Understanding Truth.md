@@ -1,4 +1,4 @@
-[[Patriarchal Priesthood.md|<< Patriarchal Priesthood]]  |  [[Peacemaker.md|Peacemaker >>]]
+[[Patriarchal Priesthood|<< Patriarchal Priesthood]]  |  [[Peacemaker|Peacemaker >>]]
 
 ### Pattern for Understanding Truth
 

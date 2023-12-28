@@ -1,4 +1,4 @@
-[[Eve.md|<< Eve]]  |  [[Excess.md|Excess >>]]
+[[Eve|<< Eve]]  |  [[Excess|Excess >>]]
 
 ### Exaltation
 To become like God and inherit Celestial glory.1 Elevation to the highest degree in which all powers are increased.2

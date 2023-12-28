@@ -1,4 +1,4 @@
-[[Meekness.md|<< Meekness]]  |  [[Melchizedek Priesthood.md|Melchizedek Priesthood >>]]
+[[Meekness|<< Meekness]]  |  [[Melchizedek Priesthood|Melchizedek Priesthood >>]]
 
 ### Melchizedek
 

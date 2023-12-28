@@ -1,4 +1,4 @@
-[[../Exodus/Exodus 20.md|<< Exodus 20]]  |  [[Leviticus 2.md|Leviticus 2 >>]]
+[[../Exodus/Exodus 20|<< Exodus 20]]  |  [[Leviticus 2|Leviticus 2 >>]]
 
 ### THE THIRD BOOK OF MOSES CALLED
 # LEVITICUS

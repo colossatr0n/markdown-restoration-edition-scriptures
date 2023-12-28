@@ -1,4 +1,4 @@
-[[Psalms 29.md|<< Psalms 29]]  |  [[Psalms 31.md|Psalms 31 >>]]
+[[Psalms 29|<< Psalms 29]]  |  [[Psalms 31|Psalms 31 >>]]
 
 ### Psalm 30
 

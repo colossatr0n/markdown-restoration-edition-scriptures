@@ -1,4 +1,4 @@
-[[Daniel 4.md|<< Daniel 4]]  |  [[Daniel 6.md|Daniel 6 >>]]
+[[Daniel 4|<< Daniel 4]]  |  [[Daniel 6|Daniel 6 >>]]
 
 ### Chapter 5
 ###### 1

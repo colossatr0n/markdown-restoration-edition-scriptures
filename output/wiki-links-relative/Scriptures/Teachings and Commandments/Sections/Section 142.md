@@ -1,4 +1,4 @@
-[[Section 141.md|<< Section 141]]  |  [[Section 143.md|Section 143 >>]]
+[[Section 141|<< Section 141]]  |  [[Section 143|Section 143 >>]]
 
 ### SECTION 142
 

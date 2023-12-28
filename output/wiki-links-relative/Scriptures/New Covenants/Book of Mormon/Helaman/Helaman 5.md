@@ -1,4 +1,4 @@
-[[Helaman 4.md|<< Helaman 4]]  |  [[../3 Nephi/3 Nephi 1.md|3 Nephi 1 >>]]
+[[Helaman 4|<< Helaman 4]]  |  [[../3 Nephi/3 Nephi 1|3 Nephi 1 >>]]
 
 ### Chapter 5
 

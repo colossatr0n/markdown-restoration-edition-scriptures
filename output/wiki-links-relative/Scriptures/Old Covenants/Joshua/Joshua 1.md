@@ -1,4 +1,4 @@
-[[../Deuteronomy/Deuteronomy 9.md|<< Deuteronomy 9]]  |  [[Joshua 2.md|Joshua 2 >>]]
+[[../Deuteronomy/Deuteronomy 9|<< Deuteronomy 9]]  |  [[Joshua 2|Joshua 2 >>]]
 
 # THE BOOK OF JOSHUA
 ### Chapter 1

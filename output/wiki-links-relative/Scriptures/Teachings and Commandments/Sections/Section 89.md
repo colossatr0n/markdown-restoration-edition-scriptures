@@ -1,4 +1,4 @@
-[[Section 88.md|<< Section 88]]  |  [[Section 90.md|Section 90 >>]]
+[[Section 88|<< Section 88]]  |  [[Section 90|Section 90 >>]]
 
 ### SECTION 89
 

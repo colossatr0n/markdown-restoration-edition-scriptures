@@ -1,4 +1,4 @@
-[[Part 6 (September 1827).md|<< Part 6 (September 1827)]]  |  [[Part 8 (February 1828).md|Part 8 (February 1828) >>]]
+[[Part 6 (September 1827)|<< Part 6 (September 1827)]]  |  [[Part 8 (February 1828)|Part 8 (February 1828) >>]]
 
 ### Part 7 (September 1827–February 1828)
 ###### 1

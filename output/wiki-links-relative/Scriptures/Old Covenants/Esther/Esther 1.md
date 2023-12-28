@@ -1,4 +1,4 @@
-[[../Nehemiah/Nehemiah 2.md|<< Nehemiah 2]]  |  [[../Job/Job 1.md|Job 1 >>]]
+[[../Nehemiah/Nehemiah 2|<< Nehemiah 2]]  |  [[../Job/Job 1|Job 1 >>]]
 
 # THE BOOK OF ESTHER
 ###### 1

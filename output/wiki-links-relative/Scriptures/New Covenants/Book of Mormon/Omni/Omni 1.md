@@ -1,4 +1,4 @@
-[[../Jarom/Jarom 1.md|<< Jarom 1]]  |  [[../Words of Mormon/Words of Mormon 1.md|Words of Mormon 1 >>]]
+[[../Jarom/Jarom 1|<< Jarom 1]]  |  [[../Words of Mormon/Words of Mormon 1|Words of Mormon 1 >>]]
 
 # THE BOOK OF OMNI
 ###### 1

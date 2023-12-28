@@ -1,4 +1,4 @@
-[[Hope.md|<< Hope]]  |  [[House of God.md|House of God >>]]
+[[Hope|<< Hope]]  |  [[House of God|House of God >>]]
 
 ### Host(s)
 Heavenly Beings who surround the Throne of God. These are most correctly understood as members of the family of God the Father.1

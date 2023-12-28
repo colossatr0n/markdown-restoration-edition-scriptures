@@ -1,4 +1,4 @@
-[[Ezekiel 20.md|<< Ezekiel 20]]  |  [[../Daniel/Daniel 1.md|Daniel 1 >>]]
+[[Ezekiel 20|<< Ezekiel 20]]  |  [[../Daniel/Daniel 1|Daniel 1 >>]]
 
 ### Chapter 21
 ###### 1

@@ -1,4 +1,4 @@
-[[Psalms 32.md|<< Psalms 32]]  |  [[Psalms 34.md|Psalms 34 >>]]
+[[Psalms 32|<< Psalms 32]]  |  [[Psalms 34|Psalms 34 >>]]
 
 ### Psalm 33
 ###### 1

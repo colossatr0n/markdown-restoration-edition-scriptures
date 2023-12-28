@@ -1,4 +1,4 @@
-[[Mosiah 10.md|<< Mosiah 10]]  |  [[Mosiah 12.md|Mosiah 12 >>]]
+[[Mosiah 10|<< Mosiah 10]]  |  [[Mosiah 12|Mosiah 12 >>]]
 
 ### Chapter 11
 

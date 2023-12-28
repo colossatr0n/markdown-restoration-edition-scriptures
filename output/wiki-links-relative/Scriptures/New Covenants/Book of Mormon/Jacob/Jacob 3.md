@@ -1,4 +1,4 @@
-[[Jacob 2.md|<< Jacob 2]]  |  [[Jacob 4.md|Jacob 4 >>]]
+[[Jacob 2|<< Jacob 2]]  |  [[Jacob 4|Jacob 4 >>]]
 
 ### Chapter 3
 ###### 1

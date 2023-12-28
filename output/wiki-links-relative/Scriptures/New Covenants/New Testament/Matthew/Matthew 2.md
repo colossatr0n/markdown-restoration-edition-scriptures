@@ -1,4 +1,4 @@
-[[Matthew 1.md|<< Matthew 1]]  |  [[Matthew 3.md|Matthew 3 >>]]
+[[Matthew 1|<< Matthew 1]]  |  [[Matthew 3|Matthew 3 >>]]
 
 ### Chapter 2
 ###### 1

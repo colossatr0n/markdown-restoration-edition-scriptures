@@ -1,4 +1,4 @@
-[[Luke 1.md|<< Luke 1]]  |  [[Luke 3.md|Luke 3 >>]]
+[[Luke 1|<< Luke 1]]  |  [[Luke 3|Luke 3 >>]]
 
 ### Chapter 2
 ###### 1

@@ -1,4 +1,4 @@
-[[2 Chronicles 11.md|<< 2 Chronicles 11]]  |  [[2 Chronicles 13.md|2 Chronicles 13 >>]]
+[[2 Chronicles 11|<< 2 Chronicles 11]]  |  [[2 Chronicles 13|2 Chronicles 13 >>]]
 
 ### Chapter 12
 ###### 1

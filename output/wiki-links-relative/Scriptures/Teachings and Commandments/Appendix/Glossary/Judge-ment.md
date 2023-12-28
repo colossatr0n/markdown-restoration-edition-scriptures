@@ -1,4 +1,4 @@
-[[Jesus Christ as the Father.md|<< Jesus Christ as the Father]]  |  [[Justification.md|Justification >>]]
+[[Jesus Christ as the Father|<< Jesus Christ as the Father]]  |  [[Justification|Justification >>]]
 
 ### Judge/ment
 In 3 Nephi 5–7, Christ elevates the Law of Moses by raising the expectation for human conduct. He moves from mere outward conduct into the inner soul of the man. One is not doing as he should if all he does is refrain from killing. Instead, he needs to remove anger. The prior obligation (“said by them of old”) focused only on one’s conduct; now the focus is one’s motivation. One can judge another based on conduct. They either do or do not do something. The conduct is observable and, therefore, capable of being judged. Now, however, Christ moves the battleground inside a person. It is now in the heart. On such terrain as that, man is incapable of knowing and, therefore, of judging.

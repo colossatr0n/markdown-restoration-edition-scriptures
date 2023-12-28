@@ -1,4 +1,4 @@
-[[Ruth 1.md|<< Ruth 1]]  |  [[Ruth 3.md|Ruth 3 >>]]
+[[Ruth 1|<< Ruth 1]]  |  [[Ruth 3|Ruth 3 >>]]
 
 ### Chapter 2
 ###### 1

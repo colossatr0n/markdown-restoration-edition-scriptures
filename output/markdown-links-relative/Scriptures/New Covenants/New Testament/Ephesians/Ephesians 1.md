@@ -1,0 +1,84 @@
+[<< Galatians 1](../Galatians/Galatians%201.md)  |  [Philippians 1 >>](../Philippians/Philippians%201.md)
+
+# THE EPISTLE TO THE EPHESIANS
+###### 1
+
+Paul, an apostle of Jesus Christ by the will of God, to the saints who are at Ephesus and to the faithful in Christ Jesus: Grace be to you, and peace from God our Father and from the Lord Jesus Christ.
+
+###### 2
+Blessed be the God and Father of our Lord Jesus Christ, who has blessed us with all spiritual blessings in Heavenly places in Christ, according as he has chosen us in him before the foundation of the world, that we should be holy and without blame before him in love; having foreordained us unto the adoption of children by Jesus Christ to himself, according to the good pleasure of his will, to the praise of the glory of his grace wherein he has made us accepted in the Beloved, in whom we have redemption through his blood, the forgiveness of sins, according to the riches of his grace wherein he has abounded toward us in all wisdom and prudence; having made known unto us the mystery of his will, according to his good pleasure which he has purposed in himself — that in the dispensation of the fullness of times he might gather together in one all things in Christ (both which are in Heaven and which are on earth), even in him in whom also we have obtained an inheritance, being foreordained according to the purpose of him who works all things after the counsel of his own will, that we should be to the praise of his glory who first trusted in Christ, in whom you also trusted after you heard the word of truth, the gospel of your salvation, in whom also, after you believed, you were sealed with that Holy Spirit of Promise, which is the earnest payment of our inheritance until the redemption of the purchased possession, unto the praise of his glory.
+
+###### 3
+Wherefore, I also, after I heard of your faith in the Lord Jesus and love unto all the saints, cease not to give thanks for you, making mention of you in my prayers, that the God of our Lord Jesus Christ, the Father of glory, may give unto you the spirit of wisdom and revelation in the knowledge of him, the eyes of your understanding being enlightened, that you may know what is the hope of his calling, and what the riches of the glory of his inheritance in the saints, and what is the exceeding greatness of his power toward us who believe according to the working of his mighty power which he wrought in Christ when he raised him from the dead and set him at his own right hand in the Heavenly places — far above all principality, and power, and might, and dominion, and every name that is named, not only in this world, but also in that which is to come — and has put all things under his feet, and gave him to be the head over all things to the church, which is his body, the fullness of him that fills all in all.
+
+###### 4
+And you has he quickened, who were dead in trespasses and sins wherein in time past you walked according to the course of this world, according to the prince of the power of the air, the spirit that now works in the children of disobedience, among whom also we all had our conduct reversed in times past, in the lusts of our flesh, fulfilling the desires of the flesh and of the mind, and were by nature the children of wrath, even as others.
+
+###### 5
+But God, who is rich in mercy, for his great love with which he loved us even when we were dead in sins, has quickened us together with Christ (by grace you are saved), and has raised us up together, and made us sit together in Heavenly places in Christ Jesus, that in the ages to come he might show the exceeding riches of his grace in his kindness toward us through Christ Jesus; for by grace are you saved, through faith — and that not of yourselves, but the gift of God — not of works, lest any man should boast; for we are his workmanship, created in Christ Jesus unto good works, which God has before ordained, that we should walk in them.
+
+###### 6
+Wherefore, remember that you were in time past gentiles in the flesh, who are called Uncircumcised by that which is called the Circumcised in the flesh made by hands, that at that time you were without Christ, being foreigners from the commonwealth of Israel and strangers from the covenants of promise, having no hope and without God in the world. But now in Christ Jesus, you who sometimes were far off are made near by the blood of Christ; for he is our peace, who has made both one and has broken down the middle wall of partition between us, having abolished in his flesh the enmity, even the law of commandments contained in ordinances, to make in himself, of two, one new man, so making peace, and that he might reconcile both unto God in one body by the cross, having slain the enmity thereby, and came and preached peace to you who were afar off and to them that were near; for through him we both have access by one spirit unto the Father.
+
+###### 7
+Now therefore you are no more strangers and foreigners, but fellow citizens with the saints, and of the household of God, and are built upon the foundation of the apostles and prophets, Jesus Christ himself being the chief cornerstone, in whom all the building fitly framed together grows unto a holy temple in the Lord, in whom you also are built together for a habitation of God through the spirit.
+
+###### 8
+For this cause, I, Paul, am the prisoner of Jesus Christ among you gentiles, for the dispensation of the grace of God which is given me toward you, as you have heard that by revelation he made known unto me the mystery of Christ, as I wrote before in few words whereby, when you read, you may understand my knowledge in the mystery of Christ, which in other ages was not made known unto the sons of men as it is now revealed unto his holy apostles and prophets by the spirit — that the gentiles should be fellow heirs, and of the same body, and partakers of his promise in Christ, by the gospel whereof I was made a minister according to the gift of the grace of God given unto me by the effectual working of his power.
+
+###### 9
+Unto me, who am less than the least of all saints, is this grace given, that I should preach among the gentiles the unsearchable riches of Christ, and to make all men see what is the fellowship of the mystery which from the beginning of the world has been hidden in God, who created all things by Jesus Christ, to the intent that now, unto the Principalities and Powers in Heavenly places, might be known by the church the much varied wisdom of God, according to the eternal purpose which he purposed in Christ Jesus our Lord, in whom we have boldness and access with confidence by the faith of him. Wherefore, I desire that you faint not at my tribulations for you, which is your glory.
+
+###### 10
+For this cause I bow my knees unto the Father of our Lord Jesus Christ, of whom the whole family in Heaven and earth is named: that he would grant you, according to the riches of his glory, to be strengthened with might by his spirit in the inner man, that Christ may dwell in your hearts by faith, that you, being rooted and grounded in love, may be able to comprehend with all saints the breadth, and length, and depth, and height, and to know the love of Christ, which passes knowledge, that you might be filled with all the fullness of God.
+
+###### 11
+Now unto him that is able to do exceedingly abundantly above all that we ask or think, according to the power that works in us, unto him be glory in the church by Christ Jesus, throughout all ages, worlds without end. Amen.
+
+###### 12
+I, therefore, the prisoner of the Lord, implore you that you walk worthy of the vocation with which you are called, with all lowliness and meekness, with long-suffering, bearing with one another in love, endeavoring to keep the unity of the spirit in the bond of peace, in one body and one spirit, even as you are called in one hope of your calling — one Lord, one faith, one baptism, one God and Father of all, who is above all, and through all, and in you all.
+
+###### 13
+But unto every one of us is given grace according to the measure of the gift of Christ. Wherefore, he says, When he ascended up on high, he took captive the captors and gave gifts unto men. (Now that he ascended, what is it but that he also descended first into the lower parts of the earth? He who descended is the same also who ascended up into Heaven, to glorify him who reigns over all heavens, that he might fill all things.) And he gave some apostles, and some prophets, and some evangelists, and some pastors and teachers, for the perfecting of the saints, for the work of the ministry, for the edifying of the body of Christ until we, in the unity of the faith, all come to the knowledge of the Son of God, unto a perfect man, unto the measure of the stature of the fullness of Christ, that we henceforth be no more children tossed to and fro and carried about with every wind of doctrine by the sleight of men and cunning craftiness whereby they lie in wait to deceive, but, speaking the truth in love, may grow up into him in all things who is the head, even Christ, from whom the whole body — fitly joined and held together by that which every joint supplies, according to the effectual working in the measure of every part — makes increase of the body, unto the edifying of itself in love.
+
+###### 14
+This I say, therefore, and testify in the Lord: that you henceforth walk not as other gentiles walk, in the vanity of their mind, having the understanding darkened, being alienated from the life of God through the ignorance that is in them because of the blindness of their heart, who being past feeling have given themselves over unto lasciviousness, to work all uncleanness with greediness. But you have not so learned Christ if it so be that you have learned him and have been taught by him, as the truth is in Jesus.
+
+###### 15
+And now I speak unto you concerning the former conduct, by exhortation that you put off the old man, which is corrupt according to the deceitful lusts, and be renewed in the mind of the spirit, and that you put on the new man, which after God is created in righteousness and true holiness.
+
+###### 16
+Wherefore, putting away lying, speak every man truth with his neighbor, for we are members one of another. Can you be angry and sin not? Let not the sun go down upon your wrath, neither give place to the Devil. Let him that stole steal no more, but rather let him labor, working with his hands for the things which are good, that he may have to give to him that needs. Let no corrupt communication proceed out of your mouth, but that which is good to the use of edifying, that it may minister grace unto the hearers. And grieve not the holy spirit of God whereby you are sealed unto the day of redemption. Let all bitterness, and wrath, and anger, and clamor, and evil speaking be put away from you with all malice. And be kind one to another, tenderhearted, forgiving one another, even as God for Christ’s sake has forgiven you. Be therefore followers of God, as dear children, and walk in love, as Christ also has loved us and has given himself for us, an offering and a sacrifice to God for a sweet-smelling savor.
+
+###### 17
+But fornication and all uncleanness or covetousness, let it not be once named among you, as becomes saints, neither filthiness, nor foolish talking, nor jesting, which are not proper, but rather giving of thanks. For this you know: that no whoremonger, nor unclean person, nor covetous man, who is an idolater, has any inheritance in the kingdom of Christ and of God. Let no man deceive you with vain words, for because of these things comes the wrath of God upon the children of disobedience. Be not therefore partakers with them.
+
+###### 18
+For you were sometimes darkness, but now are you light in the Lord. Walk as children of light (for the fruit of the spirit is in all goodness and righteousness and truth), proving what is acceptable unto the Lord. And have no fellowship with the unfruitful works of darkness, but rather reprove them, for it is a shame even to speak of those things which are done of them in secret. But all things that are reproved are made manifest by the light, for whatever does make manifest is light. Wherefore, he says, Awake, you that sleep, and arise from the dead, and Christ shall give you light.
+
+###### 19
+See then that you walk circumspectly, not as fools but as wise, redeeming the time because the days are evil. Wherefore, be not unwise but understanding what is the will of the Lord. And be not drunk with wine, wherein is excess, but be filled with the spirit, speaking to yourselves in psalms, and hymns, and spiritual songs, singing and making melody in your heart to the Lord, giving thanks always for all things unto God and the Father, in the name of our Lord Jesus Christ, submitting yourselves one to another in the fear of God.
+
+###### 20
+Wives, submit yourselves unto your own husbands, as unto the Lord; for the husband is the head of the wife, even as Christ is the head of the church, and he is the savior of the body. Therefore, as the church is subject unto Christ, so let the wives be to their own husbands in everything.
+
+###### 21
+Husbands, love your wives, even as Christ also loved the church and gave himself for it, that he might sanctify and cleanse it with the washing of water, by the word, that he might present it to himself a glorious church, not having spot or wrinkle or any such thing, but that it should be holy and without blemish. So ought men to love their wives as their own bodies. He that loves his wife loves himself, for no man ever yet hated his own flesh, but nourishes and cherishes it even as the Lord the church; for we are members of his body, of his flesh, and of his bones. For this cause shall a man leave his father and mother and shall be joined unto his wife, and they two shall be one flesh. This is a great mystery, but I speak concerning Christ and the church. Nevertheless, let every one of you in particular so love his wife, even as himself, and the wife see that she reverence her husband.
+
+###### 22
+Children, obey your parents in the Lord, for this is right. Honor your father and mother (which is the first commandment with promise), that it may be well with you and you may live long on the earth. And you fathers, provoke not your children to wrath, but bring them up in the nurture and admonition of the Lord.
+
+###### 23
+Servants, be obedient to them that are your masters according to the flesh, with fear and trembling, in singleness of your heart as unto Christ — not with eye-service as men-pleasers, but as the servants of Christ, doing the will of God from the heart with good will, doing service as to the Lord and not to men, knowing that whatever good thing any man does, the same shall he receive of the Lord, whether he is bond or free.
+
+###### 24
+And you, masters, do the same things unto them, refraining from threatening, knowing that your Master also is in Heaven, neither is there respect of persons with him.
+
+###### 25
+Finally, my brethren, be strong in the Lord and in the power of his might. Put on the whole armor of God, that you may be able to stand against the wiles of the devil; for we wrestle not against flesh and blood, but against principalities, against powers, against the rulers of the darkness of this world, against spiritual wickedness in high places. Wherefore, take unto you the whole armor of God, that you may be able to withstand in the evil day, and having done all, to stand. Stand therefore having your loins girded about with truth, and having on the breastplate of righteousness, and your feet shod with the preparation of the gospel of peace — above all, taking the shield of faith, with which you shall be able to quench all the fiery darts of the wicked. And take the helmet of salvation and the sword of the spirit (which is the word of God), praying always, with all prayer and supplication in the spirit, and watching unto that with all perseverance and supplication for all saints, and for me — that utterance may be given unto me, that I may open my mouth boldly to make known the mystery of the gospel for which I am an ambassador in bonds, that therein I may speak boldly, as I ought to speak.
+
+###### 26
+But that you also may know my affairs and how I do, Tychicus (a beloved brother and faithful minister in the Lord) shall make known to you all things, whom I have sent unto you for the same purpose, that you might know our affairs and that he might comfort your hearts. Peace be to the brethren, and love with faith from God the Father and the Lord Jesus Christ. Grace be with all them that love our Lord Jesus Christ in sincerity. Amen.
+
+
+*Written from Rome unto the Ephesians by Tychicus.*

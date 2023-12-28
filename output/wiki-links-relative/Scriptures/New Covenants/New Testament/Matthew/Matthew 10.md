@@ -1,4 +1,4 @@
-[[Matthew 9.md|<< Matthew 9]]  |  [[Matthew 11.md|Matthew 11 >>]]
+[[Matthew 9|<< Matthew 9]]  |  [[Matthew 11|Matthew 11 >>]]
 
 ### Chapter 10
 ###### 1

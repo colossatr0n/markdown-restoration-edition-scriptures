@@ -1,4 +1,4 @@
-[[Preface.md|<< Preface]]  |  [[Epigraph.md|Epigraph >>]]
+[[Preface|<< Preface]]  |  [[Epigraph|Epigraph >>]]
 
 ### INTRODUCTION
 Teachings and Commandments contains the history, revelations, letters, talks, and documents of the Restoration of Jesus Christ in this day. This volume is laid out chronologically and begins with the personal history that was written by Joseph Smith, Jr. It continues with the revelations and interactions that Joseph had with the Lord and includes Joseph’s Lectures on Faith and the translation of the Book of Abraham. Following the martyrdom of Joseph and Hyrum, the saints floundered without a prophet, and it wasn’t long before the restoration that Joseph had established found itself in apostasy. With the death of Eldred G. Smith in 2013 (Eldred being the fourth generation from Hyrum Smith to serve as Patriarch to the LDS Church), the heavens were once again opened, and the Lord *set his hand again the second time to recover his people* (Jacob 4:1; emphasis added) and to establish Zion. The revelations of Denver C. Snuffer Jr. follow the revelations of Joseph Smith in this volume.

@@ -1,4 +1,4 @@
-[[../Mark/Mark 8.md|<< Mark 8]]  |  [[Luke 2.md|Luke 2 >>]]
+[[../Mark/Mark 8|<< Mark 8]]  |  [[Luke 2|Luke 2 >>]]
 
 # LUKE
 ### Chapter 1

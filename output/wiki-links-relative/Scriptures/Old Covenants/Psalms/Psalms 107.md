@@ -1,4 +1,4 @@
-[[Psalms 106.md|<< Psalms 106]]  |  [[Psalms 108.md|Psalms 108 >>]]
+[[Psalms 106|<< Psalms 106]]  |  [[Psalms 108|Psalms 108 >>]]
 
 ### Psalm 107
 ###### 1

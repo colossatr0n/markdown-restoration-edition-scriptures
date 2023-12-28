@@ -1,4 +1,4 @@
-[[Alma 3.md|<< Alma 3]]  |  [[Alma 5.md|Alma 5 >>]]
+[[Alma 3|<< Alma 3]]  |  [[Alma 5|Alma 5 >>]]
 
 ### Chapter 4
 ###### 1

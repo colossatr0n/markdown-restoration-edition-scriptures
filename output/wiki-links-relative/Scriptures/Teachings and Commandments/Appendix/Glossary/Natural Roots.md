@@ -1,4 +1,4 @@
-[[Nation.md|<< Nation]]  |  [[New Earth.md|New Earth >>]]
+[[Nation|<< Nation]]  |  [[New Earth|New Earth >>]]
 
 ### Natural Roots
 Those Fathers who still hold the rights under the original covenant (*see* Jacob 3:23).1

@@ -1,4 +1,4 @@
-[[../1 Timothy/1 Timothy 1.md|<< 1 Timothy 1]]  |  [[../Titus/Titus 1.md|Titus 1 >>]]
+[[../1 Timothy/1 Timothy 1|<< 1 Timothy 1]]  |  [[../Titus/Titus 1|Titus 1 >>]]
 
 # THE SECOND EPISTLE TO TIMOTHY
 ###### 1

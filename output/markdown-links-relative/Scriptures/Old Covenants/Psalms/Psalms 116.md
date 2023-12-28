@@ -1,0 +1,8 @@
+[<< Psalms 115](Psalms%20115.md)  |  [Psalms 117 >>](Psalms%20117.md)
+
+### Psalm 116
+###### 1
+I love the Lord because he has heard my voice and my supplications, because he has inclined his ear unto me; therefore will I call upon him as long as I live. The sorrows of death encompassed me, and the pains of hell got hold upon me. I found trouble and sorrow. Then I called upon the name of the Lord: O Lord, I implore you, deliver my soul. Gracious is the Lord, and righteous. Yea, our God is merciful. The Lord preserves the simple. I was brought low, and he helped me. Return unto your rest, O my soul, for the Lord has dealt bountifully with you. For you have delivered my soul from death, my eyes from tears, and my feet from falling. I will walk before the Lord in the land of the living. I believed, therefore have I spoken. I was greatly afflicted. I said in my haste, All men are liars.
+
+###### 2
+What shall I render unto the Lord for all his benefits toward me? I will take the cup of salvation and call upon the name of the Lord. I will pay my vows unto the Lord now in the presence of all his people. Precious in the sight of the Lord is the death of his saints. O Lord, truly I am your servant. I am your servant and the son of your handmaid. You have loosened my bonds. I will offer to you the sacrifice of thanksgiving and will call upon the name of the Lord. I will pay my vows unto the Lord now in the presence of all his people, in the courts of the Lord’s house — in your midst, O Jerusalem. Praise the Lord.

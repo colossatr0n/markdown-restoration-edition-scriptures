@@ -1,4 +1,4 @@
-[[Spirit of Christ.md|<< Spirit of Christ]]  |  [[Stiffneckedness.md|Stiffneckedness >>]]
+[[Spirit of Christ|<< Spirit of Christ]]  |  [[Stiffneckedness|Stiffneckedness >>]]
 
 ### Spirit of Truth
 Capitalization and context of how this term is used result in three different meanings :

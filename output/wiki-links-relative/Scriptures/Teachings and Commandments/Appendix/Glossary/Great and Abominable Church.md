@@ -1,4 +1,4 @@
-[[Grace.md|<< Grace]]  |  [[Great Knowledge and Greater Knowledge.md|Great Knowledge and Greater Knowledge >>]]
+[[Grace|<< Grace]]  |  [[Great Knowledge and Greater Knowledge|Great Knowledge and Greater Knowledge >>]]
 
 ### Great and Abominable Church
 Mankind is commanded to not unite with the great and abominable church. This is not a single congregation; it is the world itself. The entire world is divided into two — one is the church of the Lamb of God; the other is everything else (*see* 1 Nephi 3:27). This is a bigger problem than it may first appear. Inasmuch as there are endless ways to belong to the great and abominable church, but only a single way to avoid it, the odds are gentiles will not find Zion. Instead, they will fight against her — Zion — and join the worldly minions who are opposed to her.1 The abominable church is always ready to preach false, vain, and foolish doctrines to man. It will offer anything to distract people and keep them from seeing the Lord “bring again Zion.” It will even use the words of Zion to preach a false faith. It is abominable because its false teachings are clothed in the vocabulary of truth.2

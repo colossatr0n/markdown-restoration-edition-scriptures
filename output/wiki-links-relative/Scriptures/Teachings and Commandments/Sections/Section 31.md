@@ -1,4 +1,4 @@
-[[Section 30.md|<< Section 30]]  |  [[Section 32.md|Section 32 >>]]
+[[Section 30|<< Section 30]]  |  [[Section 32|Section 32 >>]]
 
 ### SECTION 31
 

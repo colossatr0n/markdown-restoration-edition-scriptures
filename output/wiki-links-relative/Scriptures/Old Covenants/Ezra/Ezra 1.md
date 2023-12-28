@@ -1,4 +1,4 @@
-[[../2 Chronicles/2 Chronicles 19.md|<< 2 Chronicles 19]]  |  [[Ezra 2.md|Ezra 2 >>]]
+[[../2 Chronicles/2 Chronicles 19|<< 2 Chronicles 19]]  |  [[Ezra 2|Ezra 2 >>]]
 
 # EZRA
 ### Chapter 1

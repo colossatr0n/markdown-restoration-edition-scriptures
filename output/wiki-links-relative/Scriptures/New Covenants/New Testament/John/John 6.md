@@ -1,4 +1,4 @@
-[[John 5.md|<< John 5]]  |  [[John 7.md|John 7 >>]]
+[[John 5|<< John 5]]  |  [[John 7|John 7 >>]]
 
 ### Chapter 6
 ###### 1

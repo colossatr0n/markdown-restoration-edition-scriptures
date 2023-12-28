@@ -1,4 +1,4 @@
-[[Psalms 59.md|<< Psalms 59]]  |  [[Psalms 61.md|Psalms 61 >>]]
+[[Psalms 59|<< Psalms 59]]  |  [[Psalms 61|Psalms 61 >>]]
 
 ### Psalm 60
 

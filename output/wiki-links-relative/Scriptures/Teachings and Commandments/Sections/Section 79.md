@@ -1,4 +1,4 @@
-[[Section 78.md|<< Section 78]]  |  [[Section 80.md|Section 80 >>]]
+[[Section 78|<< Section 78]]  |  [[Section 80|Section 80 >>]]
 
 ### SECTION 79
 

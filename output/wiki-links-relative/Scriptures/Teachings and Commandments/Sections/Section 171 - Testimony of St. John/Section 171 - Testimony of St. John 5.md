@@ -1,4 +1,4 @@
-[[Section 171 - Testimony of St. John 4.md|<< Section 171 - Testimony of St. John 4]]  |  [[Section 171 - Testimony of St. John 6.md|Section 171 - Testimony of St. John 6 >>]]
+[[Section 171 - Testimony of St. John 4|<< Section 171 - Testimony of St. John 4]]  |  [[Section 171 - Testimony of St. John 6|Section 171 - Testimony of St. John 6 >>]]
 
 ### Chapter 5
 ###### 1

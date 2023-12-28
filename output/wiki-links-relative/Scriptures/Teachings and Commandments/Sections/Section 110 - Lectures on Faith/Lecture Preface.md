@@ -1,4 +1,4 @@
-[[../Section 109.md|<< Section 109]]  |  [[Lecture 1.md|Lecture 1 >>]]
+[[../Section 109|<< Section 109]]  |  [[Lecture 1|Lecture 1 >>]]
 
 # LECTURES ON FAITH
 ### Section 110

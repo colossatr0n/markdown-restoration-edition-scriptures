@@ -1,4 +1,4 @@
-[[1 Samuel 8.md|<< 1 Samuel 8]]  |  [[1 Samuel 10.md|1 Samuel 10 >>]]
+[[1 Samuel 8|<< 1 Samuel 8]]  |  [[1 Samuel 10|1 Samuel 10 >>]]
 
 ### Chapter 9
 ###### 1

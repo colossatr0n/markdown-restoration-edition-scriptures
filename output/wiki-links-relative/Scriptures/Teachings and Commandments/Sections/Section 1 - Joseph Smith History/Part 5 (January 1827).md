@@ -1,4 +1,4 @@
-[[Part 4 (1824–1827).md|<< Part 4 (1824–1827)]]  |  [[Part 6 (September 1827).md|Part 6 (September 1827) >>]]
+[[Part 4 (1824–1827)|<< Part 4 (1824–1827)]]  |  [[Part 6 (September 1827)|Part 6 (September 1827) >>]]
 
 ### Part 5 (January 1827)
 ###### 1

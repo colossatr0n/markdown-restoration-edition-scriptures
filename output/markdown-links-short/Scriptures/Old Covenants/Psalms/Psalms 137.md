@@ -1,0 +1,5 @@
+[<< Psalms 136](Psalms%20136)  |  [Psalms 138 >>](Psalms%20138)
+
+### Psalm 137
+###### 1
+By the rivers of Babylon, there we sat down. Yea, we wept when we remembered Zion. We hung our harps upon the willows in the midst thereof, for there they that carried us away captive required of us a song, and they that wasted us required of us mirth, saying, Sing us one of the songs of Zion. How shall we sing the Lord’s song in a strange land? If I forget you, O Jerusalem, let my right hand forget its skill. If I do not remember you, let my tongue cleave to the roof of my mouth, if I prefer not Jerusalem above my chief joy. Remember, O Lord, the children of Edom in the day of Jerusalem, who said, Raze it, raze it, even to the foundation thereof. O daughter of Babylon, who are to be destroyed, happy shall he be that rewards you as you have served us. Happy shall he be that takes and dashes your little ones against the stones.

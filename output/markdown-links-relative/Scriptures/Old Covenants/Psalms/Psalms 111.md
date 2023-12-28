@@ -1,0 +1,5 @@
+[<< Psalms 110](Psalms%20110.md)  |  [Psalms 112 >>](Psalms%20112.md)
+
+### Psalm 111
+###### 1
+Praise the Lord. I will praise the Lord with my whole heart in the assembly of the upright and in the congregation. The works of the Lord are great, sought out of all them that have pleasure therein. His work is honorable and glorious, and his righteousness endures for ever. He has made his wonderful works to be remembered. The Lord is gracious and full of compassion. He has given food unto them that fear him. He will ever be mindful of his covenant. He has shown his people the power of his works, that he may give them the heritage of the heathen. The works of his hands are verity and judgment. All his commandments are sure. They stand fast for ever and ever, and are done in truth and uprightness. He sent redemption unto his people. He has commanded his covenant for ever. Holy and reverend is his name. The fear of the Lord is the beginning of wisdom. A good understanding have all they that do his commandments. His praise endures for ever.

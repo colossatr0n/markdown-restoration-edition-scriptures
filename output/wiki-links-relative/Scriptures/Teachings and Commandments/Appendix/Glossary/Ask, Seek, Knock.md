@@ -1,4 +1,4 @@
-[[Ask.md|<< Ask]]  |  [[Atonement.md|Atonement >>]]
+[[Ask|<< Ask]]  |  [[Atonement|Atonement >>]]
 
 ### Ask, Seek, Knock
 

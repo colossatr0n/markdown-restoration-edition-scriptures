@@ -1,4 +1,4 @@
-[[Isaiah 2.md|<< Isaiah 2]]  |  [[Isaiah 4.md|Isaiah 4 >>]]
+[[Isaiah 2|<< Isaiah 2]]  |  [[Isaiah 4|Isaiah 4 >>]]
 
 ### Chapter 3
 ###### 1

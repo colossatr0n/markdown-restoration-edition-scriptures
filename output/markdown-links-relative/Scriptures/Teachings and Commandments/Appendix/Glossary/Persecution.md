@@ -1,0 +1,19 @@
+[<< Perfection](Perfection.md)  |  [Pestilence >>](Pestilence.md)
+
+### Persecution
+Persecution is what happens when an idea cannot be opposed on its merit. Persecution is the product of fear, typically experienced by those lacking knowledge. There are two great competing forces in the whole of creation: love and fear.1*And blessed are all they who are persecuted for my name’s sake, for theirs is the kingdom of Heaven* (3 Nephi 5:19). *“*It is not just persecution, but persecution *for [His] name’s sake* that makes you blessed. When you are doing what you should for His name’s sake, you are likely to provoke persecution. He will later explain this is almost inevitable. It won’t be because you are provoking it by your obnoxious behavior. It is because people will question your sincerity and commitment. The world expects hypocrites. They regard everyone with suspicion. And, let’s face it, most charlatans adopt religion as one of their cloaks. The kind of persecution which produces the *kingdom of Heaven* is, of course, martyrdom…. Blessed are those who are willing to endure persecution for His name’s sake. For they are those who are willing [to] develop faith which cannot be obtained in any other way. It is through the sacrifice of all things that faith necessary for salvation is developed. Sometimes we bring persecution upon ourselves because we are unwise. The Lord addresses that. We are to take offenses, but not give them. When we unwisely give offenses and cause persecution, that is not for His name’s sake. There is a balance between wisdom and righteousness.”2
+
+
+*And blessed are ye when men shall revile*
+* you, and persecute, and shall say all manner of evil*
+* against you falsely, for my sake* (3 Nephi 5:19). The world’s first reaction to followers of Christ will be skepticism, which will result in an attempt to measure the follower’s sincerity. Until he’s been tested by the world, there is no reason for the world to believe anything he has to say. They will revile him, thinking he is just another fraud. They will persecute him as a charlatan, even though he is His disciple. They will say all manner of evil against him falsely, all the while thinking they are only giving the follower what he deserves. This is how the world decides if he is actually following Him. They have seen and heard no end of those who have claimed to follow Him, and this man is no different in their eyes; that is, until he has actually followed Him — borne their criticism, returned good for evil, and shown how devoted he is. When he has proven his devotion, then some few will soften their hearts. Others will remain unwilling to admit the truth, even when it is apparent he is His. This is the way in which Christ lived His life. The teachings in the Sermon on the Mount and at Bountiful are an explanation of Him. They are an explanation of the lives of any who follow Him. To follow Him and to learn of His ways always requires experiencing some of what He experienced. While He assumed a full measure of these teachings, His followers are only required to experience some of what He did, which allows them to understand Him. But these teachings are meant to be lived. They are meant to be applied and tested. If a person tests them, he or she will discover Him through them. They will also come to know and understand the prophets who went before, some of whom will, invariably, come to succor their fellow Saints. This is always the pattern when the fullness of the Gospel of Jesus Christ is lived on the earth.3*See also* MARTYR.
+
+
+
+1 “The Restoration’s Shattered Promises and Great Hope,” address given at Sunstone Symposium, Sandy, UT, July 28, 2018, paper, 7.
+
+
+2 “3 Nephi 12:10,” Oct. 7, 2010, blog post.
+
+
+3 “3 Nephi 12:11–12,” Oct. 7, 2010, blog post.

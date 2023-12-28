@@ -1,4 +1,4 @@
-[[Mosiah 6.md|<< Mosiah 6]]  |  [[Mosiah 8.md|Mosiah 8 >>]]
+[[Mosiah 6|<< Mosiah 6]]  |  [[Mosiah 8|Mosiah 8 >>]]
 
 ### Chapter 7
 ###### 1

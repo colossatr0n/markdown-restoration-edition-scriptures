@@ -1,4 +1,4 @@
-[[../Mormon/Mormon 4.md|<< Mormon 4]]  |  [[Ether 2.md|Ether 2 >>]]
+[[../Mormon/Mormon 4|<< Mormon 4]]  |  [[Ether 2|Ether 2 >>]]
 
 # THE BOOK OF ETHER
 ### Chapter 1

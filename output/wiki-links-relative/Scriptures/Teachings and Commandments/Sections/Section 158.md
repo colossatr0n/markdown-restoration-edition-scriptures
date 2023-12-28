@@ -1,4 +1,4 @@
-[[Section 157.md|<< Section 157]]  |  [[Section 159.md|Section 159 >>]]
+[[Section 157|<< Section 157]]  |  [[Section 159|Section 159 >>]]
 
 ### SECTION 158
 

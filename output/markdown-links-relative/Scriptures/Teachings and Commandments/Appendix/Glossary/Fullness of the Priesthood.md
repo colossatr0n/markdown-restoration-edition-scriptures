@@ -1,0 +1,8 @@
+[<< Fullness of the Gospel](Fullness%20of%20the%20Gospel.md)  |  [Fullness of the Scriptures >>](Fullness%20of%20the%20Scriptures.md)
+
+### Fullness of the Priesthood
+A term that was used by Joseph Smith at different times with different meanings. It always conveyed that the recipient had accepted all that had been given to a point in time. The willing readiness to accept all that had been offered by the time of the dedication of the Kirtland Temple meant the believer had been ordained to the Aaronic and Melchizedek priesthoods, had been baptized, and as the then-current practice involved, had been re-baptized and passed through an initiatory washing and anointing. The term used later during the late-Nauvoo period of Joseph Smith’s life involved all of the foregoing and, in addition, an endowment and sealing, second anointing, and finally an adoption process tying the individual into a family relationship that would endure after death. Because the fullness of the priesthood was used dynamically and not statically by Joseph Smith, various revelations making use of the term should not be read as having a single meaning. In a final sense, fullness of priesthood will be post-resurrection and will come to those who have continually manifested a willingness to accept the dynamic and progressive fullness of the priesthood offered by God to man in the development and restoration of all things.1
+
+
+
+1 “The Holy Order,” Oct. 29, 2017, 2–3, paper.

@@ -1,4 +1,4 @@
-[[Ezekiel 11.md|<< Ezekiel 11]]  |  [[Ezekiel 13.md|Ezekiel 13 >>]]
+[[Ezekiel 11|<< Ezekiel 11]]  |  [[Ezekiel 13|Ezekiel 13 >>]]
 
 ### Chapter 12
 ###### 1

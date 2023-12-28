@@ -1,4 +1,4 @@
-[[Psalms 116.md|<< Psalms 116]]  |  [[Psalms 118.md|Psalms 118 >>]]
+[[Psalms 116|<< Psalms 116]]  |  [[Psalms 118|Psalms 118 >>]]
 
 ### Psalm 117
 ###### 1

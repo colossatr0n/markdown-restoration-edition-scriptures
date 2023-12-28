@@ -1,4 +1,4 @@
-[[Job 3.md|<< Job 3]]  |  [[Job 5.md|Job 5 >>]]
+[[Job 3|<< Job 3]]  |  [[Job 5|Job 5 >>]]
 
 ### Chapter 4
 ###### 1

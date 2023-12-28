@@ -1,4 +1,4 @@
-[[Section 171 - Testimony of St. John 1.md|<< Section 171 - Testimony of St. John 1]]  |  [[Section 171 - Testimony of St. John 3.md|Section 171 - Testimony of St. John 3 >>]]
+[[Section 171 - Testimony of St. John 1|<< Section 171 - Testimony of St. John 1]]  |  [[Section 171 - Testimony of St. John 3|Section 171 - Testimony of St. John 3 >>]]
 
 ### Chapter 2
 ###### 1

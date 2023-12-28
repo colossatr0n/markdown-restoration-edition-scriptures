@@ -1,4 +1,4 @@
-[[Ezekiel 7.md|<< Ezekiel 7]]  |  [[Ezekiel 9.md|Ezekiel 9 >>]]
+[[Ezekiel 7|<< Ezekiel 7]]  |  [[Ezekiel 9|Ezekiel 9 >>]]
 
 ### Chapter 8
 ###### 1

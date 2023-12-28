@@ -1,4 +1,4 @@
-[[../Ezekiel/Ezekiel 21.md|<< Ezekiel 21]]  |  [[Daniel 2.md|Daniel 2 >>]]
+[[../Ezekiel/Ezekiel 21|<< Ezekiel 21]]  |  [[Daniel 2|Daniel 2 >>]]
 
 # THE BOOK OF DANIEL
 ### Chapter 1

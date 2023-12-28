@@ -1,4 +1,4 @@
-[[Judges 7.md|<< Judges 7]]  |  [[../Ruth/Ruth 1.md|Ruth 1 >>]]
+[[Judges 7|<< Judges 7]]  |  [[../Ruth/Ruth 1|Ruth 1 >>]]
 
 ### Chapter 8
 ###### 1

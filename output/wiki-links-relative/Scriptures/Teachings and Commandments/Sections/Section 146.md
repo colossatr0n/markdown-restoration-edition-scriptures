@@ -1,4 +1,4 @@
-[[Section 145 - Abraham/Facsimile 3.md|<< Facsimile 3]]  |  [[Section 147.md|Section 147 >>]]
+[[Section 145 - Abraham/Facsimile 3|<< Facsimile 3]]  |  [[Section 147|Section 147 >>]]
 
 ### SECTION 146
 

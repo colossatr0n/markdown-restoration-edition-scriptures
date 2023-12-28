@@ -1,4 +1,4 @@
-[[Exodus 6.md|<< Exodus 6]]  |  [[Exodus 8.md|Exodus 8 >>]]
+[[Exodus 6|<< Exodus 6]]  |  [[Exodus 8|Exodus 8 >>]]
 
 ### Chapter 7
 ###### 1

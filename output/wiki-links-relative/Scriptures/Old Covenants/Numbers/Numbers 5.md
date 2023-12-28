@@ -1,4 +1,4 @@
-[[Numbers 4.md|<< Numbers 4]]  |  [[Numbers 6.md|Numbers 6 >>]]
+[[Numbers 4|<< Numbers 4]]  |  [[Numbers 6|Numbers 6 >>]]
 
 ### Chapter 5
 ###### 1

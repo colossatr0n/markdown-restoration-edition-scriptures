@@ -1,4 +1,4 @@
-[[Book of Mormon as Covenant.md|<< Book of Mormon as Covenant]]  |  [[Bowels.md|Bowels >>]]
+[[Book of Mormon as Covenant|<< Book of Mormon as Covenant]]  |  [[Bowels|Bowels >>]]
 
 ### Book of the Lamb of God
 The New Testament.1

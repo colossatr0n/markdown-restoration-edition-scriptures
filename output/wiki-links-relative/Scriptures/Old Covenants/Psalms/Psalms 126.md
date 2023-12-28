@@ -1,4 +1,4 @@
-[[Psalms 125.md|<< Psalms 125]]  |  [[Psalms 127.md|Psalms 127 >>]]
+[[Psalms 125|<< Psalms 125]]  |  [[Psalms 127|Psalms 127 >>]]
 
 ### Psalm 126
 

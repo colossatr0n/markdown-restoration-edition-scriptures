@@ -1,4 +1,4 @@
-[[Chosen Vessel.md|<< Chosen Vessel]]  |  [[Church.md|Church >>]]
+[[Chosen Vessel|<< Chosen Vessel]]  |  [[Church|Church >>]]
 
 ### Christian
 

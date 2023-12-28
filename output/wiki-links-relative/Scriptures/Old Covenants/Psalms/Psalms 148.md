@@ -1,4 +1,4 @@
-[[Psalms 147.md|<< Psalms 147]]  |  [[Psalms 149.md|Psalms 149 >>]]
+[[Psalms 147|<< Psalms 147]]  |  [[Psalms 149|Psalms 149 >>]]
 
 ### Psalm 148
 ###### 1

@@ -174,7 +174,7 @@
 | [[Job 11\|JOB 11]] | JOB 32–37 |
 | [[Job 12\|JOB 12]] | JOB 38–42:6 |
 | [[Job 13\|JOB 13]] | JOB 42:7–17 |
-| [PSALMS](/scriptures/oc/psalms/) | PSALMS |
+| [[Psalms\|PSALMS]] | PSALMS |
 | [[Proverbs 1\|PROV 1]] | PROV 1–9 |
 | [[Proverbs 2\|PROV 2]] | PROV 10–22:16 |
 | [[Proverbs 3\|PROV 3]] | PROV 22:17–24 |
@@ -270,7 +270,7 @@
 | [[Habakkuk 2\|HAB 2]] | HAB  |
 | [[Zephaniah 1\|ZEPH]] | ZEPH 1–3 |
 | [[Haggai 1\|HAG]] | HAG 1–2 |
-| [ZECH](/scriptures/oc/zecharaiah/) | ZECH 1–14 |
+| [[Zechariah 1\|ZECH]] | ZECH 1–14 |
 | [[Malachi 1\|MAL]] | MAL 1–4 |
 
 
@@ -403,7 +403,7 @@
 | NUM 4 | [[Numbers 2\|NUM 2:10–18]] |
 | NUM 5 | [[Numbers 3\|NUM 3]] |
 | NUM 6 | [[Numbers 4\|NUM 4]] |
-| NUM 7 | [NUM 5–6:1](/scriptures/oc/numbers/5-6.1) |
+| NUM 7 | [[Numbers 5\|NUM 5–6:1]] |
 | NUM 8 | [[Numbers 6\|NUM 6:2–5]] |
 | NUM 9 | [[Numbers 7\|NUM 7:1–3]] |
 | NUM 10 | [[Numbers 7\|NUM 7:4–10]] |
@@ -571,118 +571,118 @@
 | 2 SAM 22 | [[2 Samuel 10\|2 SAM 10]] |
 | 2 SAM 23 | [[2 Samuel 11\|2 SAM 11]] |
 | 2 SAM 24 | [[2 Samuel 12\|2 SAM 12]] |
-| 1 KGS 1 | [1 KGS 1](/scriptures/oc/1kings/ 1) |
-| 1 KGS 2 | [1 KGS 2:1–14](/scriptures/oc/1kings/ 2.1-14) |
-| 1 KGS 3 | [1 KGS 2:15–21](/scriptures/oc/1kings/ 2.15-21) |
-| 1 KGS 4 | [1 KGS 2:22–26](/scriptures/oc/1kings/ 2.22-26) |
-| 1 KGS 5 | [1 KGS 2:27–30](/scriptures/oc/1kings/ 2.27-30) |
-| 1 KGS 6 | [1 KGS 2:31–39](/scriptures/oc/1kings/ 2.31-39) |
-| 1 KGS 7 | [1 KGS 2:40–50](/scriptures/oc/1kings/ 2.40-50) |
-| 1 KGS 8 | [1 KGS 2:51–69](/scriptures/oc/1kings/ 2.51-69) |
-| 1 KGS 9 | [1 KGS 2:70–76](/scriptures/oc/1kings/ 2.70-76) |
-| 1 KGS 10 | [1 KGS 2:77–84](/scriptures/oc/1kings/ 2.77-84) |
-| 1 KGS 11 | [1 KGS 2:85–96](/scriptures/oc/1kings/ 2.85-96) |
-| 1 KGS 12 | [1 KGS 3:1–10](/scriptures/oc/1kings/ 3.1-10) |
-| 1 KGS 13 | [1 KGS 3:11–21](/scriptures/oc/1kings/ 3.11-21) |
-| 1 KGS 14 | [1 KGS 3:22–31](/scriptures/oc/1kings/ 3.22-31) |
-| 1 KGS 15 | [1 KGS 3:32–41](/scriptures/oc/1kings/ 3.32-41) |
-| 1 KGS 16 | [1 KGS 3:42–52](/scriptures/oc/1kings/ 3.42-52) |
-| 1 KGS 17 | [1 KGS 4:1–7](/scriptures/oc/1kings/ 4.1-7) |
-| 1 KGS 18 | [1 KGS 4:8–22](/scriptures/oc/1kings/ 4.8-22) |
-| 1 KGS 19 | [1 KGS 4:22–29](/scriptures/oc/1kings/ 4.22-29) |
-| 1 KGS 20 | [1 KGS 4:30–47](/scriptures/oc/1kings/ 4.30-47) |
-| 1 KGS 21 | [1 KGS 4:48–57](/scriptures/oc/1kings/ 4.48-57) |
-| 1 KGS 22 | [1 KGS 5:1–17](/scriptures/oc/1kings/ 5.1-17) |
-| 2 KGS 1 | [2 KGS 1:1–6](/scriptures/oc/2kings/ 1.1-6) |
-| 2 KGS 2 | [2 KGS 1:7–14](/scriptures/oc/2kings/ 1.7-14) |
-| 2 KGS 3 | [2 KGS 2:1–5](/scriptures/oc/2kings/ 2.1-5) |
-| 2 KGS 4 | [2 KGS 2:6–12](/scriptures/oc/2kings/ 2.6-12) |
-| 2 KGS 5 | [2 KGS 2:13–18](/scriptures/oc/2kings/ 2.13-18) |
-| 2 KGS 6 | [2 KGS 2:19–25](/scriptures/oc/2kings/ 2.19-25) |
-| 2 KGS 7 | [2 KGS 2:26–32](/scriptures/oc/2kings/ 2.26-32) |
-| 2 KGS 8 | [2 KGS 2:33–40](/scriptures/oc/2kings/ 2.33-40) |
-| 2 KGS 9 | [2 KGS 2:41–8](/scriptures/oc/2kings/ 2.41-8) |
-| 2 KGS 10 | [2 KGS 3](/scriptures/oc/2kings/ 3) |
-| 2 KGS 11 | [2 KGS 4:1–5](/scriptures/oc/2kings/ 4.1-5) |
-| 2 KGS 12 | [2 KGS 4:6–11](/scriptures/oc/2kings/ 4.6-11) |
-| 2 KGS 13 | [2 KGS 4:12–17](/scriptures/oc/2kings/ 4.12-17) |
-| 2 KGS 14 | [2 KGS 5:1–6](/scriptures/oc/2kings/ 5.1-6) |
-| 2 KGS 15 | [2 KGS 5:7–13](/scriptures/oc/2kings/ 5.7-13) |
-| 2 KGS 16 | [2 KGS 5:14–17](/scriptures/oc/2kings/ 5.14-17) |
-| 2 KGS 17 | [2 KGS 5:18–26](/scriptures/oc/2kings/ 5.18-26) |
-| 2 KGS 18 | [2 KGS 6:1–5](/scriptures/oc/2kings/ 6.1-5) |
-| 2 KGS 19 | [2 KGS 6:6–11](/scriptures/oc/2kings/ 6.6-11) |
-| 2 KGS 20 | [2 KGS 6:12–16](/scriptures/oc/2kings/ 6.12-16) |
-| 2 KGS 21 | [2 KGS 7:1–4](/scriptures/oc/2kings/ 7.1-4) |
-| 2 KGS 22 | [2 KGS 7:5–8](/scriptures/oc/2kings/ 7.5-8) |
-| 2 KGS 23 | [2 KGS 7:9–15](/scriptures/oc/2kings/ 7.9-15) |
-| 2 KGS 24 | [2 KGS 8:1–4](/scriptures/oc/2kings/ 8.1-4) |
-| 2 KGS 25 | [2 KGS 8:5–10](/scriptures/oc/2kings/ 8.5-10) |
-| 1 CHR 1 | [1 CHR 1:1–13](/scriptures/oc/1chronicles/ 1.1-13) |
-| 1 CHR 2 | [1 CHR 1:14–2:13](/scriptures/oc/1chronicles/ 1.14-2.13) |
-| 1 CHR 3 | [1 CHR 2:14–17](/scriptures/oc/1chronicles/ 2.14-17) |
-| 1 CHR 4 | [1 CHR 2:18–3:5](/scriptures/oc/1chronicles/ 2.18-3.5) |
-| 1 CHR 5 | [1 CHR 3:6–13](/scriptures/oc/1chronicles/ 3.6-13) |
-| 1 CHR 6 | [1 CHR 4](/scriptures/oc/1chronicles/ 4) |
-| 1 CHR 7 | [1 CHR 5](/scriptures/oc/1chronicles/ 5) |
-| 1 CHR 8 | [1 CHR 6:1–2](/scriptures/oc/1chronicles/ 6.1-2) |
-| 1 CHR 9 | [1 CHR 6:3–11](/scriptures/oc/1chronicles/ 6.3-11) |
-| 1 CHR 10 | [1 CHR 6:12–17](/scriptures/oc/1chronicles/ 6.12-17) |
-| 1 CHR 11 | [1 CHR 7:1–6](/scriptures/oc/1chronicles/ 7.1-6) |
-| 1 CHR 12 | [1 CHR 7:7–13](/scriptures/oc/1chronicles/ 7.7-13) |
-| 1 CHR 13 | [1 CHR 8:1–3](/scriptures/oc/1chronicles/ 8.1-3) |
-| 1 CHR 14 | [1 CHR 8:4–7](/scriptures/oc/1chronicles/ 8.4-7) |
-| 1 CHR 15 | [1 CHR 8:8–15](/scriptures/oc/1chronicles/ 8.8-15) |
-| 1 CHR 16 | [1 CHR 8:16–26](/scriptures/oc/1chronicles/ 8.16-26) |
-| 1 CHR 17 | [1 CHR 9:1–8](/scriptures/oc/1chronicles/ 9.1-8) |
-| 1 CHR 18 | [1 CHR 9:13](/scriptures/oc/1chronicles/ 9.13) |
-| 1 CHR 19 | [1 CHR 9:14–23](/scriptures/oc/1chronicles/ 9.14-23) |
-| 1 CHR 20 | [1 CHR 9:24–25](/scriptures/oc/1chronicles/ 9.24-25) |
-| 1 CHR 21 | [1 CHR 10:1–12](/scriptures/oc/1chronicles/ 10.1-12) |
-| 1 CHR 22 | [1 CHR 10:13–18](/scriptures/oc/1chronicles/ 10.13-18) |
-| 1 CHR 23 | [1 CHR 11:1–7](/scriptures/oc/1chronicles/ 11.1-7) |
-| 1 CHR 24 | [1 CHR 11:8–11](/scriptures/oc/1chronicles/ 11.8-11) |
-| 1 CHR 25 | [1 CHR 11:12–14](/scriptures/oc/1chronicles/ 11.12-14) |
-| 1 CHR 26 | [1 CHR 11:15–24](/scriptures/oc/1chronicles/ 11.15-24) |
-| 1 CHR 27 | [1 CHR 11:15–30](/scriptures/oc/1chronicles/ 11.15-30) |
-| 1 CHR 28 | [1 CHR 12:1–8](/scriptures/oc/1chronicles/ 12.1-8) |
-| 1 CHR 29 | [1 CHR 12:9–19](/scriptures/oc/1chronicles/ 12.9-19) |
-| 2 CHR 1 | [2 CHR 1:1–4](/scriptures/oc/2chronicles/ 1.1-4) |
-| 2 CHR 2 | [2 CHR 1:5–12](/scriptures/oc/2chronicles/ 1.5-12) |
-| 2 CHR 3 | [2 CHR 1:13–18](/scriptures/oc/2chronicles/ 1.13-18) |
-| 2 CHR 4 | [2 CHR 1:19–24](/scriptures/oc/2chronicles/ 1.19-24) |
-| 2 CHR 5 | [2 CHR 1:25–2:4](/scriptures/oc/2chronicles/ 1.25-2.4) |
-| 2 CHR 6 | [2 CHR 2:5–19](/scriptures/oc/2chronicles/ 2.5-19) |
-| 2 CHR 7 | [2 CHR 2:20–27](/scriptures/oc/2chronicles/ 2.20-27) |
-| 2 CHR 8 | [2 CHR 3:1–6](/scriptures/oc/2chronicles/ 3.1-6) |
-| 2 CHR 9 | [2 CHR 3:7–14](/scriptures/oc/2chronicles/ 3.7-14) |
-| 2 CHR 10 | [2 CHR 4:1–6](/scriptures/oc/2chronicles/ 4.1-6) |
-| 2 CHR 11 | [2 CHR 4:7–11](/scriptures/oc/2chronicles/ 4.7-11) |
-| 2 CHR 12 | [2 CHR 4:12–18](/scriptures/oc/2chronicles/ 4.12-18) |
-| 2 CHR 13 | [2 CHR 5:1–6](/scriptures/oc/2chronicles/ 5.1-6) |
-| 2 CHR 14 | [2 CHR 5:7–6:5](/scriptures/oc/2chronicles/ 5.7-6.5) |
-| 2 CHR 15 | [2 CHR 6:6–10](/scriptures/oc/2chronicles/ 6.6-10) |
-| 2 CHR 16 | [2 CHR 6:11–14](/scriptures/oc/2chronicles/ 6.11-14) |
-| 2 CHR 17 | [2 CHR 7:1–5](/scriptures/oc/2chronicles/ 7.1-5) |
-| 2 CHR 18 | [2 CHR 7:6–18](/scriptures/oc/2chronicles/ 7.6-18) |
-| 2 CHR 19 | [2 CHR 7:19–22](/scriptures/oc/2chronicles/ 7.19-22) |
-| 2 CHR 20 | [2 CHR 7:23–35](/scriptures/oc/2chronicles/ 7.23-35) |
-| 2 CHR 21 | [2 CHR 8:1–8](/scriptures/oc/2chronicles/ 8.1-8) |
-| 2 CHR 22 | [2 CHR 8:8–9:5](/scriptures/oc/2chronicles/ 8.8-9.5) |
-| 2 CHR 23 | [2 CHR 10](/scriptures/oc/2chronicles/ 10) |
-| 2 CHR 24 | [2 CHR 11](/scriptures/oc/2chronicles/ 11) |
-| 2 CHR 25 | [2 CHR 12](/scriptures/oc/2chronicles/ 12) |
-| 2 CHR 26 | [2 CHR 13](/scriptures/oc/2chronicles/ 13) |
-| 2 CHR 27 | [2 CHR 14](/scriptures/oc/2chronicles/ 14) |
-| 2 CHR 28 | [2 CHR 15](/scriptures/oc/2chronicles/ 15) |
-| 2 CHR 29 | [2 CHR 16:1–12](/scriptures/oc/2chronicles/ 16.1-12) |
-| 2 CHR 30 | [2 CHR 16:13–19](/scriptures/oc/2chronicles/ 16.13-19) |
-| 2 CHR 31 | [2 CHR 16:20–28](/scriptures/oc/2chronicles/ 16.20-28) |
-| 2 CHR 32 | [2 CHR 16:29–40](/scriptures/oc/2chronicles/ 16.29-40) |
-| 2 CHR 33 | [2 CHR 17](/scriptures/oc/2chronicles/ 17) |
-| 2 CHR 34 | [2 CHR 18:1–14](/scriptures/oc/2chronicles/ 18.1-14) |
-| 2 CHR 35 | [2 CHR 18:15–26](/scriptures/oc/2chronicles/ 18.15-26) |
-| 2 CHR 36 | [2 CHR 19](/scriptures/oc/2chronicles/ 19) |
+| 1 KGS 1 | [[1 Kings 1\|1 KGS 1]] |
+| 1 KGS 2 | [[1 Kings 2\|1 KGS 2:1–14]] |
+| 1 KGS 3 | [[1 Kings 2\|1 KGS 2:15–21]] |
+| 1 KGS 4 | [[1 Kings 2\|1 KGS 2:22–26]] |
+| 1 KGS 5 | [[1 Kings 2\|1 KGS 2:27–30]] |
+| 1 KGS 6 | [[1 Kings 2\|1 KGS 2:31–39]] |
+| 1 KGS 7 | [[1 Kings 2\|1 KGS 2:40–50]] |
+| 1 KGS 8 | [[1 Kings 2\|1 KGS 2:51–69]] |
+| 1 KGS 9 | [[1 Kings 2\|1 KGS 2:70–76]] |
+| 1 KGS 10 | [[1 Kings 2\|1 KGS 2:77–84]] |
+| 1 KGS 11 | [[1 Kings 2\|1 KGS 2:85–96]] |
+| 1 KGS 12 | [[1 Kings 3\|1 KGS 3:1–10]] |
+| 1 KGS 13 | [[1 Kings 3\|1 KGS 3:11–21]] |
+| 1 KGS 14 | [[1 Kings 3\|1 KGS 3:22–31]] |
+| 1 KGS 15 | [[1 Kings 3\|1 KGS 3:32–41]] |
+| 1 KGS 16 | [[1 Kings 3\|1 KGS 3:42–52]] |
+| 1 KGS 17 | [[1 Kings 4\|1 KGS 4:1–7]] |
+| 1 KGS 18 | [[1 Kings 4\|1 KGS 4:8–22]] |
+| 1 KGS 19 | [[1 Kings 4\|1 KGS 4:22–29]] |
+| 1 KGS 20 | [[1 Kings 4\|1 KGS 4:30–47]] |
+| 1 KGS 21 | [[1 Kings 4\|1 KGS 4:48–57]] |
+| 1 KGS 22 | [[1 Kings 5\|1 KGS 5:1–17]] |
+| 2 KGS 1 | [[2 Kings 1\|2 KGS 1:1–6]] |
+| 2 KGS 2 | [[2 Kings 1\|2 KGS 1:7–14]] |
+| 2 KGS 3 | [[2 Kings 2\|2 KGS 2:1–5]] |
+| 2 KGS 4 | [[2 Kings 2\|2 KGS 2:6–12]] |
+| 2 KGS 5 | [[2 Kings 2\|2 KGS 2:13–18]] |
+| 2 KGS 6 | [[2 Kings 2\|2 KGS 2:19–25]] |
+| 2 KGS 7 | [[2 Kings 2\|2 KGS 2:26–32]] |
+| 2 KGS 8 | [[2 Kings 2\|2 KGS 2:33–40]] |
+| 2 KGS 9 | [[2 Kings 2\|2 KGS 2:41–8]] |
+| 2 KGS 10 | [[2 Kings 3\|2 KGS 3]] |
+| 2 KGS 11 | [[2 Kings 4\|2 KGS 4:1–5]] |
+| 2 KGS 12 | [[2 Kings 4\|2 KGS 4:6–11]] |
+| 2 KGS 13 | [[2 Kings 4\|2 KGS 4:12–17]] |
+| 2 KGS 14 | [[2 Kings 5\|2 KGS 5:1–6]] |
+| 2 KGS 15 | [[2 Kings 5\|2 KGS 5:7–13]] |
+| 2 KGS 16 | [[2 Kings 5\|2 KGS 5:14–17]] |
+| 2 KGS 17 | [[2 Kings 5\|2 KGS 5:18–26]] |
+| 2 KGS 18 | [[2 Kings 6\|2 KGS 6:1–5]] |
+| 2 KGS 19 | [[2 Kings 6\|2 KGS 6:6–11]] |
+| 2 KGS 20 | [[2 Kings 6\|2 KGS 6:12–16]] |
+| 2 KGS 21 | [[2 Kings 7\|2 KGS 7:1–4]] |
+| 2 KGS 22 | [[2 Kings 7\|2 KGS 7:5–8]] |
+| 2 KGS 23 | [[2 Kings 7\|2 KGS 7:9–15]] |
+| 2 KGS 24 | [[2 Kings 8\|2 KGS 8:1–4]] |
+| 2 KGS 25 | [[2 Kings 8\|2 KGS 8:5–10]] |
+| 1 CHR 1 | [[1 Chronicles 1\|1 CHR 1:1–13]] |
+| 1 CHR 2 | [[1 Chronicles 1\|1 CHR 1:14–2:13]] |
+| 1 CHR 3 | [[1 Chronicles 2\|1 CHR 2:14–17]] |
+| 1 CHR 4 | [[1 Chronicles 2\|1 CHR 2:18–3:5]] |
+| 1 CHR 5 | [[1 Chronicles 3\|1 CHR 3:6–13]] |
+| 1 CHR 6 | [[1 Chronicles 4\|1 CHR 4]] |
+| 1 CHR 7 | [[1 Chronicles 5\|1 CHR 5]] |
+| 1 CHR 8 | [[1 Chronicles 6\|1 CHR 6:1–2]] |
+| 1 CHR 9 | [[1 Chronicles 6\|1 CHR 6:3–11]] |
+| 1 CHR 10 | [[1 Chronicles 6\|1 CHR 6:12–17]] |
+| 1 CHR 11 | [[1 Chronicles 7\|1 CHR 7:1–6]] |
+| 1 CHR 12 | [[1 Chronicles 7\|1 CHR 7:7–13]] |
+| 1 CHR 13 | [[1 Chronicles 8\|1 CHR 8:1–3]] |
+| 1 CHR 14 | [[1 Chronicles 8\|1 CHR 8:4–7]] |
+| 1 CHR 15 | [[1 Chronicles 8\|1 CHR 8:8–15]] |
+| 1 CHR 16 | [[1 Chronicles 8\|1 CHR 8:16–26]] |
+| 1 CHR 17 | [[1 Chronicles 9\|1 CHR 9:1–8]] |
+| 1 CHR 18 | [[1 Chronicles 9\|1 CHR 9:13]] |
+| 1 CHR 19 | [[1 Chronicles 9\|1 CHR 9:14–23]] |
+| 1 CHR 20 | [[1 Chronicles 9\|1 CHR 9:24–25]] |
+| 1 CHR 21 | [[1 Chronicles 10\|1 CHR 10:1–12]] |
+| 1 CHR 22 | [[1 Chronicles 10\|1 CHR 10:13–18]] |
+| 1 CHR 23 | [[1 Chronicles 11\|1 CHR 11:1–7]] |
+| 1 CHR 24 | [[1 Chronicles 11\|1 CHR 11:8–11]] |
+| 1 CHR 25 | [[1 Chronicles 11\|1 CHR 11:12–14]] |
+| 1 CHR 26 | [[1 Chronicles 11\|1 CHR 11:15–24]] |
+| 1 CHR 27 | [[1 Chronicles 11\|1 CHR 11:15–30]] |
+| 1 CHR 28 | [[1 Chronicles 12\|1 CHR 12:1–8]] |
+| 1 CHR 29 | [[1 Chronicles 12\|1 CHR 12:9–19]] |
+| 2 CHR 1 | [[2 Chronicles 1\|2 CHR 1:1–4]] |
+| 2 CHR 2 | [[2 Chronicles 1\|2 CHR 1:5–12]] |
+| 2 CHR 3 | [[2 Chronicles 1\|2 CHR 1:13–18]] |
+| 2 CHR 4 | [[2 Chronicles 1\|2 CHR 1:19–24]] |
+| 2 CHR 5 | [[2 Chronicles 1\|2 CHR 1:25–2:4]] |
+| 2 CHR 6 | [[2 Chronicles 2\|2 CHR 2:5–19]] |
+| 2 CHR 7 | [[2 Chronicles 2\|2 CHR 2:20–27]] |
+| 2 CHR 8 | [[2 Chronicles 3\|2 CHR 3:1–6]] |
+| 2 CHR 9 | [[2 Chronicles 3\|2 CHR 3:7–14]] |
+| 2 CHR 10 | [[2 Chronicles 4\|2 CHR 4:1–6]] |
+| 2 CHR 11 | [[2 Chronicles 4\|2 CHR 4:7–11]] |
+| 2 CHR 12 | [[2 Chronicles 4\|2 CHR 4:12–18]] |
+| 2 CHR 13 | [[2 Chronicles 5\|2 CHR 5:1–6]] |
+| 2 CHR 14 | [[2 Chronicles 5\|2 CHR 5:7–6:5]] |
+| 2 CHR 15 | [[2 Chronicles 6\|2 CHR 6:6–10]] |
+| 2 CHR 16 | [[2 Chronicles 6\|2 CHR 6:11–14]] |
+| 2 CHR 17 | [[2 Chronicles 7\|2 CHR 7:1–5]] |
+| 2 CHR 18 | [[2 Chronicles 7\|2 CHR 7:6–18]] |
+| 2 CHR 19 | [[2 Chronicles 7\|2 CHR 7:19–22]] |
+| 2 CHR 20 | [[2 Chronicles 7\|2 CHR 7:23–35]] |
+| 2 CHR 21 | [[2 Chronicles 8\|2 CHR 8:1–8]] |
+| 2 CHR 22 | [[2 Chronicles 8\|2 CHR 8:8–9:5]] |
+| 2 CHR 23 | [[2 Chronicles 10\|2 CHR 10]] |
+| 2 CHR 24 | [[2 Chronicles 11\|2 CHR 11]] |
+| 2 CHR 25 | [[2 Chronicles 12\|2 CHR 12]] |
+| 2 CHR 26 | [[2 Chronicles 13\|2 CHR 13]] |
+| 2 CHR 27 | [[2 Chronicles 14\|2 CHR 14]] |
+| 2 CHR 28 | [[2 Chronicles 15\|2 CHR 15]] |
+| 2 CHR 29 | [[2 Chronicles 16\|2 CHR 16:1–12]] |
+| 2 CHR 30 | [[2 Chronicles 16\|2 CHR 16:13–19]] |
+| 2 CHR 31 | [[2 Chronicles 16\|2 CHR 16:20–28]] |
+| 2 CHR 32 | [[2 Chronicles 16\|2 CHR 16:29–40]] |
+| 2 CHR 33 | [[2 Chronicles 17\|2 CHR 17]] |
+| 2 CHR 34 | [[2 Chronicles 18\|2 CHR 18:1–14]] |
+| 2 CHR 35 | [[2 Chronicles 18\|2 CHR 18:15–26]] |
+| 2 CHR 36 | [[2 Chronicles 19\|2 CHR 19]] |
 | EZRA 1 | [[Ezra 1\|EZRA 1:1–2]] |
 | EZRA 2 | [[Ezra 1\|EZRA 1:3–14]] |
 | EZRA 3 | [[Ezra 1\|EZRA 1:15–17]] |
@@ -706,16 +706,16 @@
 | NEH 11 | [[Nehemiah 2\|NEH 2:42–50]] |
 | NEH 12 | [[Nehemiah 2\|NEH 2:51–57]] |
 | NEH 13 | [[Nehemiah 2\|NEH 2:58–64]] |
-| ESTR 1 | [ESTR 1:1–4](/scriptures/oc/esther/1.1-4) |
-| ESTR 2 | [ESTR 1:5–11](/scriptures/oc/esther/1.5-11) |
-| ESTR 3 | [ESTR 1:12–14](/scriptures/oc/esther/1.12-14) |
-| ESTR 4 | [ESTR 1:15–19](/scriptures/oc/esther/1.15-19) |
-| ESTR 5 | [ESTR 1:20–22](/scriptures/oc/esther/1.20-22) |
-| ESTR 6 | [ESTR 1:23–24](/scriptures/oc/esther/1.23-24) |
-| ESTR 7 | [ESTR 1:25–26](/scriptures/oc/esther/1.25-26) |
-| ESTR 8 | [ESTR 1:27–31](/scriptures/oc/esther/1.27-31) |
-| ESTR 9 | [ESTR 1:32–38](/scriptures/oc/esther/1.32-38) |
-| ESTR 10 | [ESTR 1:39](/scriptures/oc/esther/1.39) |
+| ESTR 1 | [[Esther 1\|ESTR 1:1–4]] |
+| ESTR 2 | [[Esther 1\|ESTR 1:5–11]] |
+| ESTR 3 | [[Esther 1\|ESTR 1:12–14]] |
+| ESTR 4 | [[Esther 1\|ESTR 1:15–19]] |
+| ESTR 5 | [[Esther 1\|ESTR 1:20–22]] |
+| ESTR 6 | [[Esther 1\|ESTR 1:23–24]] |
+| ESTR 7 | [[Esther 1\|ESTR 1:25–26]] |
+| ESTR 8 | [[Esther 1\|ESTR 1:27–31]] |
+| ESTR 9 | [[Esther 1\|ESTR 1:32–38]] |
+| ESTR 10 | [[Esther 1\|ESTR 1:39]] |
 | JOB 1 | [[Job 1\|JOB 1]] |
 | JOB 2 | [[Job 2\|JOB 2:1–4]] |
 | JOB 3 | [[Job 2\|JOB 2:5–7]] |
@@ -758,7 +758,7 @@
 | JOB 40 | [[Job 12\|JOB 12:16–20]] |
 | JOB 41 | [[Job 12\|JOB 12:21–24]] |
 | JOB 42 | [[Job 12\|JOB 12:25–13:4]] |
-| PSALMS | [PSALMS](/scriptures/oc/psalms/) |
+| PSALMS | [[Psalms\|PSALMS]] |
 | PROV 1 | [[Proverbs 1\|PROV 1:1–4]] |
 | PROV 2 | [[Proverbs 1\|PROV 1:5–6]] |
 | PROV 3 | [[Proverbs 1\|PROV 1:7–15]] |
@@ -790,19 +790,19 @@
 | PROV 29 | [[Proverbs 4\|PROV 4:98–124]] |
 | PROV 30 | [[Proverbs 5\|PROV 5]] |
 | PROV 31 | [[Proverbs 6\|PROV 6]] |
-| ECCL 1 | [ECCL 1:1-3](/scriptures/oc/ecclesiastes/1.1-3) |
-| ECCL 2 | [ECCL 1:4-9](/scriptures/oc/ecclesiastes/1.4-9) |
-| ECCL 3 | [ECCL 1:10-14](/scriptures/oc/ecclesiastes/1.10-14) |
-| ECCL 4 | [ECCL 1:15-18](/scriptures/oc/ecclesiastes/1.15-18) |
-| ECCL 5 | [ECCL 1:19-23](/scriptures/oc/ecclesiastes/1.19-23) |
-| ECCL 6 | [ECCL 1:24-26](/scriptures/oc/ecclesiastes/1.24-26) |
-| ECCL 7 | [ECCL 1:27-32](/scriptures/oc/ecclesiastes/1.27-32) |
-| ECCL 8 | [ECCL 1:32-36](/scriptures/oc/ecclesiastes/1.32-36) |
-| ECCL 9 | [ECCL 1:37-41](/scriptures/oc/ecclesiastes/1.37-41) |
-| ECCL 10 | [ECCL 1:42-52](/scriptures/oc/ecclesiastes/1.42-52) |
-| ECCL 11 | [ECCL 1:53-57](/scriptures/oc/ecclesiastes/1.53-57) |
-| ECCL 12 | [ECCL 1:58-60](/scriptures/oc/ecclesiastes/1.58-60) |
-| SONG OF SOLOMON | [–](/scriptures/oc/-) |
+| ECCL 1 | [[Ecclesiastes 1\|ECCL 1:1-3]] |
+| ECCL 2 | [[Ecclesiastes 1\|ECCL 1:4-9]] |
+| ECCL 3 | [[Ecclesiastes 1\|ECCL 1:10-14]] |
+| ECCL 4 | [[Ecclesiastes 1\|ECCL 1:15-18]] |
+| ECCL 5 | [[Ecclesiastes 1\|ECCL 1:19-23]] |
+| ECCL 6 | [[Ecclesiastes 1\|ECCL 1:24-26]] |
+| ECCL 7 | [[Ecclesiastes 1\|ECCL 1:27-32]] |
+| ECCL 8 | [[Ecclesiastes 1\|ECCL 1:32-36]] |
+| ECCL 9 | [[Ecclesiastes 1\|ECCL 1:37-41]] |
+| ECCL 10 | [[Ecclesiastes 1\|ECCL 1:42-52]] |
+| ECCL 11 | [[Ecclesiastes 1\|ECCL 1:53-57]] |
+| ECCL 12 | [[Ecclesiastes 1\|ECCL 1:58-60]] |
+| SONG OF SOLOMON | – |
 | ISA 1 | [[Isaiah 1\|ISA 1:1–4]] |
 | ISA 2 | [[Isaiah 1\|ISA 1:5–8]] |
 | ISA 3 | [[Isaiah 1\|ISA 1:9–10]] |
@@ -921,11 +921,11 @@
 | JER 50 | [[Jeremiah 18\|JER 18:2–9]] |
 | JER 51 | [[Jeremiah 18\|JER 18:10–19:1]] |
 | JER 52 | [[Jeremiah 19\|JER 19:2–7]] |
-| LAM 1 | [LAM 1:1–5](/scriptures/oc/lamentations/1.1-5) |
-| LAM 2 | [LAM 1:6–10](/scriptures/oc/lamentations/1.6-10) |
-| LAM 3 | [LAM 1:11–14](/scriptures/oc/lamentations/1.11-14) |
-| LAM 4 | [LAM 1:15–19](/scriptures/oc/lamentations/1.15-19) |
-| LAM 5 | [LAM 1:20–21](/scriptures/oc/lamentations/1.20-21) |
+| LAM 1 | [[Lamentations 1\|LAM 1:1–5]] |
+| LAM 2 | [[Lamentations 1\|LAM 1:6–10]] |
+| LAM 3 | [[Lamentations 1\|LAM 1:11–14]] |
+| LAM 4 | [[Lamentations 1\|LAM 1:15–19]] |
+| LAM 5 | [[Lamentations 1\|LAM 1:20–21]] |
 | EZEK 1 | [[Ezekiel 1\|EZEK 1:1–7]] |
 | EZEK 2 | [[Ezekiel 1\|EZEK 1:7–8]] |
 | EZEK 3 | [[Ezekiel 1\|EZEK 1:8–12]] |

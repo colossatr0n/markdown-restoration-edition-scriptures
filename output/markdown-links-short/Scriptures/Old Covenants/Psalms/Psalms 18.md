@@ -1,0 +1,26 @@
+[<< Psalms 17](Psalms%2017)  |  [Psalms 19 >>](Psalms%2019)
+
+### Psalm 18
+
+*To the chief musician, a psalm of David, the servant of the Lord who spoke unto the Lord the words of this song in the day that the Lord delivered him from the hand of all his enemies and from the hand of Saul. And he said:*
+
+###### 1
+I will love you, O Lord, my strength. The Lord is my rock, and my fortress, and my deliverer, my God, my strength in whom I will trust, my buckler, and the horn of my salvation, and my high tower. I will call upon the Lord for he is to be praised. So shall I be saved from my enemies.
+
+###### 2
+The sorrows of death encompassed me and the floods of ungodly men made me afraid. The sorrows of hell encompassed me about. The snares of death confronted me. In my distress I called upon the Lord and cried unto my God. He heard my voice out of his temple, and my cry came before him, even into his ears.
+
+###### 3
+Then the earth shook and trembled. The foundations also of the hills moved and were shaken because he was angry. There went up a smoke out of his nostrils, and fire out of his mouth devoured; coals were kindled by it. He bowed the heavens also and came down, and darkness was under his feet. And he rode upon a cherub and did fly, yea, he did fly upon the wings of the wind. He made darkness his secret place, his pavilion round about him were dark waters and thick clouds of the skies. At the brightness that was before him his thick clouds passed, hailstones and coals of fire. The Lord also thundered in the heavens, and the Highest gave his voice: hailstones and coals of fire. Yea, he sent out his arrows and scattered them, and he shot out lightnings and routed them. Then the channels of waters were seen and the foundations of the world were uncovered at your rebuke, O Lord, at the blast of the breath of your nostrils. He sent from above. He took me. He drew me out of many waters. He delivered me from my strong enemy and from them who hated me, for they were too strong for me. They confronted me in the day of my calamity, but the Lord was my support. He brought me forth also into a large place. He delivered me because he delighted in me.
+
+###### 4
+The Lord rewarded me according to my righteousness. According to the cleanness of my hands has he recompensed me. For I have kept the ways of the Lord and have not wickedly departed from my God. For all his judgments were before me, and I did not put away his statutes from me. I was also upright before him and I kept myself from my iniquity. Therefore has the Lord recompensed me according to my righteousness, according to the cleanness of my hands in his eyesight. With the merciful you will show yourself merciful. With an upright man you will show yourself upright. With the pure you will show yourself pure. And with the froward you will show yourself froward. For you will save the afflicted people, but will bring down high looks. For you will light my candle.
+
+###### 5
+The Lord my God will enlighten my darkness. For by you I have run through a troop and by my God have I leaped over a wall. O God, your ways are perfect. The word of the Lord is tried, is a buckler to all those who trust in him.
+
+###### 6
+For who is God save the Lord? Or who is a rock save our God? Our God that girds me with strength and makes my way perfect, he makes my feet like hinds’ feet and sets me upon my high places. He teaches my hands to war so that a bow of steel is broken by my arms. You have also given me the shield of your salvation, and your right hand has held me up, and your gentleness has made me great. You have enlarged my steps under me that my feet did not slip. I have pursued my enemies and overtaken them. Neither did I return until they were consumed. I have wounded them, that they were not able to rise. They are fallen under my feet. For you have girded me with strength unto the battle. You have subdued under me those that rose up against me. You have also given me the necks of my enemies, that I might destroy them that hate me. They cried but found none to save unto the Lord, but he answered them not. Then did I beat them small as the dust before the wind. I did cast them out as the dirt in the streets.
+
+###### 7
+You have delivered me from the strivings of the people, and you have made me the head of the heathen. A people whom I have not known shall serve me. As soon as they hear of me, they shall obey me. The strangers shall submit themselves unto me. The strangers shall fade away and be frightened out of their strongholds. The Lord lives, and blessed be my rock and let the God of my salvation be exalted. It is God that avenges me and subdues the people under me, he delivers me from my enemies. Yea, you lift me up above those that rise up against me. You have delivered me from the violent man. Therefore will I give thanks unto you, O Lord, among the heathen, and sing praises unto your name. Great deliverance gives he to his king, and shows mercy to his anointed, to David, and to his seed for ever.

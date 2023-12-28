@@ -1,4 +1,4 @@
-[[Psalms 21.md|<< Psalms 21]]  |  [[Psalms 23.md|Psalms 23 >>]]
+[[Psalms 21|<< Psalms 21]]  |  [[Psalms 23|Psalms 23 >>]]
 
 ### Psalm 22
 

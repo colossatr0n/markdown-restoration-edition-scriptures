@@ -1,4 +1,4 @@
-[[2 Samuel 7.md|<< 2 Samuel 7]]  |  [[2 Samuel 9.md|2 Samuel 9 >>]]
+[[2 Samuel 7|<< 2 Samuel 7]]  |  [[2 Samuel 9|2 Samuel 9 >>]]
 
 ### Chapter 8
 ###### 1

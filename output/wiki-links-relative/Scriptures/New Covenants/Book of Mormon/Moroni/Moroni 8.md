@@ -1,4 +1,4 @@
-[[Moroni 7.md|<< Moroni 7]]  |  [[Moroni 9.md|Moroni 9 >>]]
+[[Moroni 7|<< Moroni 7]]  |  [[Moroni 9|Moroni 9 >>]]
 
 ### Chapter 8
 ###### 1

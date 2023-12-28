@@ -1,4 +1,4 @@
-[[../Luke/Luke 14.md|<< Luke 14]]  |  [[John 2.md|John 2 >>]]
+[[../Luke/Luke 14|<< Luke 14]]  |  [[John 2|John 2 >>]]
 
 # THE TESTIMONY OF JOHN
 ### Chapter 1

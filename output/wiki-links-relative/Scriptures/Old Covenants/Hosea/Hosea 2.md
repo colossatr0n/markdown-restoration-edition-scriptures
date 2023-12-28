@@ -1,4 +1,4 @@
-[[Hosea 1.md|<< Hosea 1]]  |  [[../Joel/Joel 1.md|Joel 1 >>]]
+[[Hosea 1|<< Hosea 1]]  |  [[../Joel/Joel 1|Joel 1 >>]]
 
 ### Chapter 2
 ###### 1

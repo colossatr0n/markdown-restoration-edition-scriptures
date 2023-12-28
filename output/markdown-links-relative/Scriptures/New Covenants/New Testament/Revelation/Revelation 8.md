@@ -1,0 +1,47 @@
+[<< Revelation 7](Revelation%207.md)  |  [Revelation 9 >>](Revelation%209.md)
+
+### Chapter 8
+###### 1
+And I saw Heaven opened, and behold, a white horse; and he that sat upon him is called faithful and true, and in righteousness he does judge and make war; his eyes were as a flame of fire. And he had on his head many crowns, and a name written that no man knew but himself. And he is clothed with a vesture dipped in blood. And his name is called The Word of God. And the armies which were in Heaven followed him upon white horses, clothed in fine linen, white and clean. And out of his mouth proceeds the word of God, and with it he will smite the nations, and he will rule them with the word of his mouth. And he treads the winepress in the fierceness and wrath of Almighty God. And he has on a vesture, and on his thigh a name written: King of kings, and Lord of lords.
+
+###### 2
+And I saw an angel standing in the sun, and he cried with a loud voice, saying to all the fowls that fly in the midst of heaven, Come and gather yourselves together unto the supper of the great God, that you may eat the flesh of kings, and the flesh of captains, and the flesh of mighty men, and the flesh of horses, and of them that sit on them, and the flesh of all who fight against the Lamb, both bond and free, both small and great!
+
+###### 3
+And I saw the beast, and the kings of the earth, and their armies, gathered together to make war against him that sat on the horse and against his army. And the beast was taken, and with him the false prophet who wrought miracles before him, with which he deceived those who had received the mark of the beast and those who worshipped his image. These both were cast alive into a lake of fire burning with brimstone. And the remnant were slain with the word of him who sat upon the horse, which proceeded out of his mouth. And all the fowls were filled with their flesh.
+
+###### 4
+And I saw an angel come down out of Heaven, having the key of the bottomless pit and a great chain in his hand. And he laid hold on the dragon, that old serpent, which is the Devil and Satan, and bound him a thousand years, and cast him into the bottomless pit, and shut him up and set a seal upon him, that he should deceive the nations no more until the thousand years should be fulfilled. And after that, he must be set loose a little season.
+
+###### 5
+And I saw thrones, and they sat upon them, and judgment was given unto them, and I saw the souls of them that were beheaded for the witness of Jesus and for the word of God, and who had not worshipped the beast, neither his image, neither had received his mark upon their foreheads or in their hands; and they lived and reigned with Christ a thousand years. But the rest of the dead lived not again until the thousand years were finished. This is the first resurrection. Blessed and holy are they who have part in the first resurrection; on such, the second death has no power, but they shall be priests of God and of Christ, and shall reign with him a thousand years.
+
+###### 6
+And when the thousand years are expired, Satan shall be set loose out of his prison and shall go out to deceive the nations which are in the four quarters of the earth, Gog and Magog, to gather them together to battle, the number of whom is as the sand of the sea. And they went up on the breadth of the earth, and encompassed the camp of the saints about, and the beloved city. And fire came down from God out of Heaven and devoured them. And the Devil who deceived them was cast into the lake of fire and brimstone, where the beast and the false prophet are, and shall be tormented day and night for ever and ever.
+
+###### 7
+And I saw a great white throne, and him who sat on it, from whose face the earth and the heaven fled away; and there was found no place for them. And I saw the dead, small and great, stand before God; and the books were opened. And another book was opened, which is the Book of Life. And the dead were judged out of those things which were written in the books, according to their works. And the sea gave up the dead who were in it, and death and hell delivered up the dead who were in them, and they were judged, every man according to their works. And death and hell were cast into the lake of fire. This is the second death. And whoever was not found written in the Book of Life was cast into the lake of fire.
+
+###### 8
+And I saw a new heaven and a new earth, for the first heaven and the first earth were passed away; and there was no more sea. And I, John, saw the holy city, New Jerusalem, coming down from God out of Heaven, prepared as a bride adorned for her husband. And I heard a great voice out of Heaven saying, Behold, the tabernacle of God is with men, and he will dwell with them and they shall be his people, and God himself shall be with them and be their God. And God shall wipe away all tears from their eyes, and there shall be no more death, neither sorrow, nor crying, neither shall there be any more pain, for the former things are passed away.
+
+###### 9
+And he that sat upon the throne said, Behold, I make all things new. And he said unto me, Write, for these words are true and faithful. And he said unto me, It is done. I am Alpha and Omega, the beginning and the end. I will give unto him that is thirsty of the fountain of the water of life freely. He that overcomes shall inherit all things, and I will be his God and he shall be my son. But the fearful, and unbelieving, and the abominable, and murderers, and whoremongers, and sorcerers, and idolaters, and all liars, shall have their part in the lake which burns with fire and brimstone, which is the second death.
+
+###### 10
+And there came unto me one of the seven angels who had the seven vials full of the seven last plagues, and talked with me, saying, Come here, I will show you the bride, the Lamb’s wife. And he carried me away in the spirit to a great and high mountain, and showed me that great city, the holy Jerusalem, descending out of Heaven from God, having the glory of God, and her light was like unto a stone most precious, even like a jasper stone, clear as crystal; and had a wall great and high, and had twelve gates, and at the gates twelve angels, and names written thereon, which are the names of the twelve tribes of the children of Israel: on the east, three gates; on the north, three gates; on the south, three gates; and on the west, three gates. And the wall of the city had twelve foundations, and in them the names of the twelve apostles of the Lamb.
+
+###### 11
+And he that talked with me had a golden reed to measure the city, and the gates thereof, and the wall thereof. And the city lies square, and the length is as large as the breadth. And he measured the city with the reed: twelve thousand furlongs. The length, and the breadth, and the height of it are equal. And he measured the wall thereof: a hundred forty-four cubits, according to the measure of a man — that is, of the angel. And the building of the wall of it was of jasper, and the city was pure gold, like unto clear glass. And the foundations of the wall of the city were garnished with all manner of precious stones. The first foundation was jasper; the second, sapphire; the third, a chalcedony; the fourth, an emerald; the fifth, sardonyx; the sixth, sardius; the seventh, chrysolite; the eighth, beryl; the ninth, a topaz; the tenth, a chrysoprasus; the eleventh, a jacinth; the twelfth, an amethyst; and the twelve gates were twelve pearls — every single gate was of one pearl. And the street of the city was pure gold, like transparent glass.
+
+###### 12
+And I saw no temple therein, for the Lord God Almighty and the Lamb are the temple of it. And the city had no need of the sun, neither of the moon, to shine in it, for the glory of God did lighten it, and the Lamb is the light thereof. And the nations of those who are saved shall walk in the light of it. And the kings of the earth do bring their glory and honor into it. And the gates of it shall not be shut at all by day, for there shall be no night there. And they shall bring the glory and honor of the nations into it. And there shall by no means enter into it anything that defiles, neither whatever works abomination, or makes a lie, but they who are written in the Lamb’s Book of Life.
+
+###### 13
+And he showed me a pure river of water of life, clear as crystal, proceeding out of the throne of God and of the Lamb. In the middle of the street of it, and on either side of the river, was there the Tree of Life, which bore twelve manner of fruits and yielded her fruit every month, and the leaves of the tree were for the healing of the nations.
+
+###### 14
+And there shall be no more curse, but the throne of God and of the Lamb shall be in it, and his servants shall serve him. And they shall see his face and his name shall be in their foreheads. And there shall be no night there, and they need no candle neither light of the sun, for the Lord God gives them light. And they shall reign for ever and ever.
+
+###### 15
+And he said unto me, These sayings are faithful and true. And the Lord God of the holy prophets sent his angel to show unto his servants the things which must shortly be done. Behold, I come quickly. Blessed is he that keeps the sayings of the prophecy of this book.

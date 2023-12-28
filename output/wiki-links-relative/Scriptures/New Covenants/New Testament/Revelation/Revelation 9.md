@@ -1,4 +1,4 @@
-[[Revelation 8.md|<< Revelation 8]]  |  [[../NT Appendix/Correlation Tables.md|Correlation Tables >>]]
+[[Revelation 8|<< Revelation 8]]  |  [[../NT Appendix/Correlation Tables|Correlation Tables >>]]
 
 ### Chapter 9
 ###### 1

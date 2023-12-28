@@ -1,4 +1,4 @@
-[[../Jeremiah/Jeremiah 19.md|<< Jeremiah 19]]  |  [[../Ezekiel/Ezekiel 1.md|Ezekiel 1 >>]]
+[[../Jeremiah/Jeremiah 19|<< Jeremiah 19]]  |  [[../Ezekiel/Ezekiel 1|Ezekiel 1 >>]]
 
 # THE LAMENTATIONS OF JEREMIAH
 ###### 1

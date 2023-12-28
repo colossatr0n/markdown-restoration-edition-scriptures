@@ -1,4 +1,4 @@
-[[Alma 29.md|<< Alma 29]]  |  [[../Helaman/Helaman 1.md|Helaman 1 >>]]
+[[Alma 29|<< Alma 29]]  |  [[../Helaman/Helaman 1|Helaman 1 >>]]
 
 ### Chapter 30
 ###### 1

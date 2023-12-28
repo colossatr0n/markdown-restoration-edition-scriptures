@@ -1,4 +1,4 @@
-[[Psalms 6.md|<< Psalms 6]]  |  [[Psalms 8.md|Psalms 8 >>]]
+[[Psalms 6|<< Psalms 6]]  |  [[Psalms 8|Psalms 8 >>]]
 
 ### Psalm 7
 

@@ -1,0 +1,8 @@
+[<< Part 5 (January 1827)](Part%205%20(January%201827))  |  [Part 7 (September 1827–February 1828) >>](Part%207%20(September%201827–February%201828))
+
+### Part 6 (September 1827)
+###### 1
+At length the time arrived for obtaining the plates, the Urim and Thummim, and the breastplate. On the twenty-second day of September, one thousand eight hundred and twenty-seven, having went as usual at the end of another year to the place where they were deposited, the same Heavenly messenger delivered them up to me with this charge: that I should be responsible for them; that if I should let them go carelessly or through any neglect of mine I should be cut off; but that if I would use all my endeavors to preserve them until he (the messenger) should call for them, they should be protected.
+
+###### 2
+I soon found out the reason why I had received such strict charges to keep them safe, and why it was that the messenger had said that when I had done what was required at my hand he would call for them. For no sooner was it known that I had them than the most strenuous exertions were used to get them from me. Every stratagem that could be invented was resorted to for that purpose. The persecution became more bitter and severe than before, and multitudes were on the alert continually to get them from me if possible, but by the wisdom of God they remained safe in my hands until I had accomplished by them what was required at my hand. When according to arrangement the messenger called for them, I delivered them up to him and he has them in his charge until this day, being the second day of May, one thousand eight hundred and thirty-eight.

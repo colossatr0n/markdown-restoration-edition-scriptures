@@ -1,4 +1,4 @@
-[[../Zephaniah/Zephaniah 1.md|<< Zephaniah 1]]  |  [[../Zechariah/Zechariah 1.md|Zechariah 1 >>]]
+[[../Zephaniah/Zephaniah 1|<< Zephaniah 1]]  |  [[../Zechariah/Zechariah 1|Zechariah 1 >>]]
 
 # HAGGAI
 ###### 1

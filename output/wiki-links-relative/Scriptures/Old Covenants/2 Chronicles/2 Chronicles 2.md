@@ -1,4 +1,4 @@
-[[2 Chronicles 1.md|<< 2 Chronicles 1]]  |  [[2 Chronicles 3.md|2 Chronicles 3 >>]]
+[[2 Chronicles 1|<< 2 Chronicles 1]]  |  [[2 Chronicles 3|2 Chronicles 3 >>]]
 
 ### Chapter 2
 ###### 1

@@ -1,4 +1,4 @@
-[[Section 145 - Abraham 6.md|<< Section 145 - Abraham 6]]  |  [[Facsimile 2.md|Facsimile 2 >>]]
+[[Section 145 - Abraham 6|<< Section 145 - Abraham 6]]  |  [[Facsimile 2|Facsimile 2 >>]]
 
 ### Chapter 7
 ###### 1

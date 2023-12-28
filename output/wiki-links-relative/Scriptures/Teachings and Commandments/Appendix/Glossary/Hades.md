@@ -1,4 +1,4 @@
-[[Great Knowledge and Greater Knowledge.md|<< Great Knowledge and Greater Knowledge]]  |  [[Handmaid.md|Handmaid >>]]
+[[Great Knowledge and Greater Knowledge|<< Great Knowledge and Greater Knowledge]]  |  [[Handmaid|Handmaid >>]]
 
 ### Hades
 

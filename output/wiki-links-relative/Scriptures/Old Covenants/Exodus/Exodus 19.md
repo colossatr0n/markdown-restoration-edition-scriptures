@@ -1,4 +1,4 @@
-[[Exodus 18.md|<< Exodus 18]]  |  [[Exodus 20.md|Exodus 20 >>]]
+[[Exodus 18|<< Exodus 18]]  |  [[Exodus 20|Exodus 20 >>]]
 
 ### Chapter 19
 ###### 1

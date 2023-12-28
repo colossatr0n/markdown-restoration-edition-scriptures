@@ -1,4 +1,4 @@
-[[Church.md|<< Church]]  |  [[Church of the Lamb.md|Church of the Lamb >>]]
+[[Church|<< Church]]  |  [[Church of the Lamb|Church of the Lamb >>]]
 
 ### Church of the Firstborn
 Those who have been adopted into the Family of God and are part of the hosts of heaven. This requires a sealing ordinance and covenant.1

@@ -1,4 +1,4 @@
-[[Section 10.md|<< Section 10]]  |  [[Section 12.md|Section 12 >>]]
+[[Section 10|<< Section 10]]  |  [[Section 12|Section 12 >>]]
 
 ### SECTION 11
 

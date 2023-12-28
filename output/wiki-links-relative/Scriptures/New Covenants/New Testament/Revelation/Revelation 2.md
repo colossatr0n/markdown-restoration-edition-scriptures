@@ -1,4 +1,4 @@
-[[Revelation 1.md|<< Revelation 1]]  |  [[Revelation 3.md|Revelation 3 >>]]
+[[Revelation 1|<< Revelation 1]]  |  [[Revelation 3|Revelation 3 >>]]
 
 ### Chapter 2
 ###### 1

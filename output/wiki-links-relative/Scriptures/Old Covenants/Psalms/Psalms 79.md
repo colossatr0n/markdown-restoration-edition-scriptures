@@ -1,4 +1,4 @@
-[[Psalms 78.md|<< Psalms 78]]  |  [[Psalms 80.md|Psalms 80 >>]]
+[[Psalms 78|<< Psalms 78]]  |  [[Psalms 80|Psalms 80 >>]]
 
 ### Psalm 79
 

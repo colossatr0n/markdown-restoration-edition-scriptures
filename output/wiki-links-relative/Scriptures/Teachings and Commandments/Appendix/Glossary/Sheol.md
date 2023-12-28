@@ -1,4 +1,4 @@
-[[Seventy.md|<< Seventy]]  |  [[Shew.md|Shew >>]]
+[[Seventy|<< Seventy]]  |  [[Shew|Shew >>]]
 
 ### Sheol
 

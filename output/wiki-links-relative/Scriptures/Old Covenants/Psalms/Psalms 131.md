@@ -1,4 +1,4 @@
-[[Psalms 130.md|<< Psalms 130]]  |  [[Psalms 132.md|Psalms 132 >>]]
+[[Psalms 130|<< Psalms 130]]  |  [[Psalms 132|Psalms 132 >>]]
 
 ### Psalm 131
 

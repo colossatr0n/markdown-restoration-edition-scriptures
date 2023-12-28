@@ -1,4 +1,4 @@
-[[Holy Ghost.md|<< Holy Ghost]]  |  [[Holy Spirit.md|Holy Spirit >>]]
+[[Holy Ghost|<< Holy Ghost]]  |  [[Holy Spirit|Holy Spirit >>]]
 
 ### Holy Order
 “The Holy Order is the channel through which all knowledge, doctrine, the plan of salvation, and every important matter is revealed from Heaven.”1 Among other things, the purpose of the Holy Order is to put in place a mechanism by which God can reveal from heaven what is necessary for the salvation of man on Earth. In every generation, when God has provided salvation for mankind, it is the Holy Order that is used by God to fix what is broken, restore what has been lost, repair, heal, forgive, and reconnect those who are willing to give heed to the message sent from Heaven to enable mankind to become sons of God.2 It conveys blessings and information that are withheld from the world.3

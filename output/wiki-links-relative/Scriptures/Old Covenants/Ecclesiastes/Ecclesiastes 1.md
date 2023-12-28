@@ -1,4 +1,4 @@
-[[../Proverbs/Proverbs 6.md|<< Proverbs 6]]  |  [[../Isaiah/Isaiah 1.md|Isaiah 1 >>]]
+[[../Proverbs/Proverbs 6|<< Proverbs 6]]  |  [[../Isaiah/Isaiah 1|Isaiah 1 >>]]
 
 # ECCLESIASTES or THE PREACHER
 

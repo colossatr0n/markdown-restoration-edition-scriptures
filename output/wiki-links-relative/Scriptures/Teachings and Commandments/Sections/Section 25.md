@@ -1,4 +1,4 @@
-[[Section 24.md|<< Section 24]]  |  [[Section 26.md|Section 26 >>]]
+[[Section 24|<< Section 24]]  |  [[Section 26|Section 26 >>]]
 
 ### SECTION 25
 

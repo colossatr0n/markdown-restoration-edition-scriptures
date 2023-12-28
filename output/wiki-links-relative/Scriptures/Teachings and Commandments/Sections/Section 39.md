@@ -1,4 +1,4 @@
-[[Section 38.md|<< Section 38]]  |  [[Section 40.md|Section 40 >>]]
+[[Section 38|<< Section 38]]  |  [[Section 40|Section 40 >>]]
 
 ### SECTION 39
 

@@ -1,4 +1,4 @@
-[[../Helaman/Helaman 5.md|<< Helaman 5]]  |  [[3 Nephi 2.md|3 Nephi 2 >>]]
+[[../Helaman/Helaman 5|<< Helaman 5]]  |  [[3 Nephi 2|3 Nephi 2 >>]]
 
 # THE BOOK OF NEPHI
 ### THE SON OF NEPHI, WHO WAS THE SON OF HELAMAN

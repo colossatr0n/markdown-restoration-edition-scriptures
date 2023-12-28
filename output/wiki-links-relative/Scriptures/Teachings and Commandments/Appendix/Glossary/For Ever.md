@@ -1,4 +1,4 @@
-[[Follow Christ.md|<< Follow Christ]]  |  [[Forgetting.md|Forgetting >>]]
+[[Follow Christ|<< Follow Christ]]  |  [[Forgetting|Forgetting >>]]
 
 ### For Ever
 This has typically been made the compound word *forever*, but the meaning of that word doesn’t align with the old languages’ statements. *Forever* means “ongoing in infinite perpetuity.” But then how does one add “ever” to that, as in *forever and ever*? You cannot add more to infinite perpetuity. The old Hebrew phrase translated into this phrase meant “to the horizon, and again” (l’olam va’ed לְעוֹלָם וָעֶד). It maintained finite limitations, but of great degrees. By keeping *for ever* as two words, *ever* may be understood as some finite portion to which additional *ever* can be added.

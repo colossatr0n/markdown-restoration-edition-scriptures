@@ -1,4 +1,4 @@
-[[Psalms 82.md|<< Psalms 82]]  |  [[Psalms 84.md|Psalms 84 >>]]
+[[Psalms 82|<< Psalms 82]]  |  [[Psalms 84|Psalms 84 >>]]
 
 ### Psalm 83
 

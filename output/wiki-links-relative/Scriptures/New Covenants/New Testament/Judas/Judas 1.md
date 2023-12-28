@@ -1,4 +1,4 @@
-[[../3 John/3 John 1.md|<< 3 John 1]]  |  [[../Revelation/Revelation 1.md|Revelation 1 >>]]
+[[../3 John/3 John 1|<< 3 John 1]]  |  [[../Revelation/Revelation 1|Revelation 1 >>]]
 
 # THE EPISTLE OF JUDAS
 (Traditionally called Jude)

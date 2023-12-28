@@ -1,4 +1,4 @@
-[[2 Samuel 1.md|<< 2 Samuel 1]]  |  [[2 Samuel 3.md|2 Samuel 3 >>]]
+[[2 Samuel 1|<< 2 Samuel 1]]  |  [[2 Samuel 3|2 Samuel 3 >>]]
 
 ### Chapter 2
 ###### 1

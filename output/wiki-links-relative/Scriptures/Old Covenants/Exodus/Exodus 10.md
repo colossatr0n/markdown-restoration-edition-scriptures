@@ -1,4 +1,4 @@
-[[Exodus 9.md|<< Exodus 9]]  |  [[Exodus 11.md|Exodus 11 >>]]
+[[Exodus 9|<< Exodus 9]]  |  [[Exodus 11|Exodus 11 >>]]
 
 ### Chapter 10
 ###### 1

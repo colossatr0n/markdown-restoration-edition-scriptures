@@ -1,4 +1,4 @@
-[[Jeremiah 6.md|<< Jeremiah 6]]  |  [[Jeremiah 8.md|Jeremiah 8 >>]]
+[[Jeremiah 6|<< Jeremiah 6]]  |  [[Jeremiah 8|Jeremiah 8 >>]]
 
 ### Chapter 7
 ###### 1

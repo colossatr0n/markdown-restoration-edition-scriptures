@@ -1,4 +1,4 @@
-[[1 Chronicles 6.md|<< 1 Chronicles 6]]  |  [[1 Chronicles 8.md|1 Chronicles 8 >>]]
+[[1 Chronicles 6|<< 1 Chronicles 6]]  |  [[1 Chronicles 8|1 Chronicles 8 >>]]
 
 ### Chapter 7
 ###### 1

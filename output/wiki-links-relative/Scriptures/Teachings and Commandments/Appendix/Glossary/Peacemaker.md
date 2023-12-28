@@ -1,4 +1,4 @@
-[[Pattern for Understanding Truth.md|<< Pattern for Understanding Truth]]  |  [[Perfection.md|Perfection >>]]
+[[Pattern for Understanding Truth|<< Pattern for Understanding Truth]]  |  [[Perfection|Perfection >>]]
 
 ### Peacemaker
 

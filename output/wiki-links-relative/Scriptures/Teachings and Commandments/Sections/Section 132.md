@@ -1,4 +1,4 @@
-[[Section 131.md|<< Section 131]]  |  [[Section 133.md|Section 133 >>]]
+[[Section 131|<< Section 131]]  |  [[Section 133|Section 133 >>]]
 
 ### SECTION 132
 

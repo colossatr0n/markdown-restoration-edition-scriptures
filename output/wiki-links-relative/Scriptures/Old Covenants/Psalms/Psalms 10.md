@@ -1,4 +1,4 @@
-[[Psalms 9.md|<< Psalms 9]]  |  [[Psalms 11.md|Psalms 11 >>]]
+[[Psalms 9|<< Psalms 9]]  |  [[Psalms 11|Psalms 11 >>]]
 
 ### Psalm 10
 ###### 1

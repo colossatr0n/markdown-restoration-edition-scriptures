@@ -1,4 +1,4 @@
-[[Genesis 5.md|<< Genesis 5]]  |  [[Genesis 7.md|Genesis 7 >>]]
+[[Genesis 5|<< Genesis 5]]  |  [[Genesis 7|Genesis 7 >>]]
 
 ### Chapter 6
 

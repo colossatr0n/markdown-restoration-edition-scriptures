@@ -1,4 +1,4 @@
-[[../Judas/Judas 1.md|<< Judas 1]]  |  [[Revelation 2.md|Revelation 2 >>]]
+[[../Judas/Judas 1|<< Judas 1]]  |  [[Revelation 2|Revelation 2 >>]]
 
 # THE REVELATION OF JOHN
 ### Chapter 1

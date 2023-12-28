@@ -1,4 +1,4 @@
-[[../1 Chronicles/1 Chronicles 12.md|<< 1 Chronicles 12]]  |  [[2 Chronicles 2.md|2 Chronicles 2 >>]]
+[[../1 Chronicles/1 Chronicles 12|<< 1 Chronicles 12]]  |  [[2 Chronicles 2|2 Chronicles 2 >>]]
 
 # THE SECOND BOOK OF THE CHRONICLES
 ### Chapter 1

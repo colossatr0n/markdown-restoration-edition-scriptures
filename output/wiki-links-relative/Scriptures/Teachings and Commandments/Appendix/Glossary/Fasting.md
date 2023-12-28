@@ -1,4 +1,4 @@
-[[False Traditions.md|<< False Traditions]]  |  [[Father of Many Nations.md|Father of Many Nations >>]]
+[[False Traditions|<< False Traditions]]  |  [[Father of Many Nations|Father of Many Nations >>]]
 
 ### Fasting
 

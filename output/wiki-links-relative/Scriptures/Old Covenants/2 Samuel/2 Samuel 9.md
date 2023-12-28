@@ -1,4 +1,4 @@
-[[2 Samuel 8.md|<< 2 Samuel 8]]  |  [[2 Samuel 10.md|2 Samuel 10 >>]]
+[[2 Samuel 8|<< 2 Samuel 8]]  |  [[2 Samuel 10|2 Samuel 10 >>]]
 
 ### Chapter 9
 ###### 1

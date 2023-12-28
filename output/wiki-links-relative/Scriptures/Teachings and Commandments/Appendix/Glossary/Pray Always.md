@@ -1,4 +1,4 @@
-[[Powers of Heaven.md|<< Powers of Heaven]]  |  [[Pray-er.md|Pray-er >>]]
+[[Powers of Heaven|<< Powers of Heaven]]  |  [[Pray-er|Pray-er >>]]
 
 ### Pray Always
 To retain a personal connection with heaven; particularly, to retain that connection through the holy ghost and through Christ’s Spirit that one seeks to always have. If this is a lively connection, one is able to avoid being “sifted.” If it lapses into darkness, one is vulnerable to being taken captive.1

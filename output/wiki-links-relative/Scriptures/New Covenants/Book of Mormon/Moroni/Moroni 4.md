@@ -1,4 +1,4 @@
-[[Moroni 3.md|<< Moroni 3]]  |  [[Moroni 5.md|Moroni 5 >>]]
+[[Moroni 3|<< Moroni 3]]  |  [[Moroni 5|Moroni 5 >>]]
 
 ### Chapter 4
 ###### 1

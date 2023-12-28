@@ -1,4 +1,4 @@
-[[Strange Act.md|<< Strange Act]]  |  [[Studying the Scriptures.md|Studying the Scriptures >>]]
+[[Strange Act|<< Strange Act]]  |  [[Studying the Scriptures|Studying the Scriptures >>]]
 
 ### Stretched Forth His Hand
 

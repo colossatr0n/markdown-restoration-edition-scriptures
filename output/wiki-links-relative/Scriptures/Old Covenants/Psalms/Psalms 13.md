@@ -1,4 +1,4 @@
-[[Psalms 12.md|<< Psalms 12]]  |  [[Psalms 14.md|Psalms 14 >>]]
+[[Psalms 12|<< Psalms 12]]  |  [[Psalms 14|Psalms 14 >>]]
 
 ### Psalm 13
 

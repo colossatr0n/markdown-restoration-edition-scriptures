@@ -1,4 +1,4 @@
-[[Psalms 96.md|<< Psalms 96]]  |  [[Psalms 98.md|Psalms 98 >>]]
+[[Psalms 96|<< Psalms 96]]  |  [[Psalms 98|Psalms 98 >>]]
 
 ### Psalm 97
 ###### 1

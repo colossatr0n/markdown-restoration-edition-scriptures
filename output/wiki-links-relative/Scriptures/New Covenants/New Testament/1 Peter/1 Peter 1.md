@@ -1,4 +1,4 @@
-[[../Ep. Jacob/Ep. Jacob 1.md|<< Ep. Jacob 1]]  |  [[../2 Peter/2 Peter 1.md|2 Peter 1 >>]]
+[[../Ep. Jacob/Ep. Jacob 1|<< Ep. Jacob 1]]  |  [[../2 Peter/2 Peter 1|2 Peter 1 >>]]
 
 # THE FIRST EPISTLE OF PETER
 ###### 1

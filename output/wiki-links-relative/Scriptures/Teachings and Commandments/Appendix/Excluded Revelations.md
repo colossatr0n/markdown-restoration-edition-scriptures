@@ -1,18 +1,18 @@
-[[Section Endnotes.md|<< Section Endnotes]]  |  [[A Prophet's Prerogative.md|A Prophet's Prerogative >>]]
+[[Section Endnotes|<< Section Endnotes]]  |  [[A Prophet's Prerogative|A Prophet's Prerogative >>]]
 
 ### EXCLUDED REVELATIONS
 #### Sections From the D&C Not Included In the T&C
 The following is a list of sections from the Doctrine and Covenants (D&C) that were not included in the current Teachings and Commandments (T&C), as well as a brief synopsis of why they were not included. All section numbers are cited first to the LDS D&C and secondarily (in parentheses) to the Community of Christ (formerly RLDS) D&C, when such sections are found in their scriptures.
 
-Sections 2, 4-7, 9-28, and 20—23(2—21) are extracts from the Joseph Smith-History (JSH); the full JSH has been included in [[../Sections/Joseph Smith History/Joseph Smith History.md|T&C 1]], and these sections are found there. D&C 20(17) the organization of the church is included in the JSH only for historical purposes and is not considered binding.
+Sections 2, 4-7, 9-28, and 20—23(2—21) are extracts from the Joseph Smith-History (JSH); the full JSH has been included in [[../Sections/Joseph Smith History/Joseph Smith History|T&C 1]], and these sections are found there. D&C 20(17) the organization of the church is included in the JSH only for historical purposes and is not considered binding.
 
 
 
 **101**, regarding Marriage — as found in the 1835 edition — is not a product of either Joseph or Hyrum Smith.
 
-**107** (104) is an amalgamation of content, with only one portion traceable to a revelation received before the 1835 publication of the D&C. That portion has been preserved in [[../Sections/Section 154.md|T&C 154]].
+**107** (104) is an amalgamation of content, with only one portion traceable to a revelation received before the 1835 publication of the D&C. That portion has been preserved in [[../Sections/Section 154|T&C 154]].
 
-**110** is unverifiable as a true revelation/vision. A replacement revelation was received on 14 July 2017 and has been added as [[../Sections/Section 157.md|T&C 157:25–32]].
+**110** is unverifiable as a true revelation/vision. A replacement revelation was received on 14 July 2017 and has been added as [[../Sections/Section 157|T&C 157:25–32]].
 
 **111** is believed to be a false revelation, based on the fact that Joseph did not include it in the 1844 D&C, as well as the content of the revelation. It was first published in the Deseret News on 25 December 1852 and subsequently placed in the 1876 D&C.
 
@@ -22,7 +22,7 @@ Sections 2, 4-7, 9-28, and 20—23(2—21) are extracts from the Joseph Smith-Hi
 
 **130** and **131** were written from notes taken by Willard Richards and William Clayton that are fragments, and they do not agree on many points.
 
-**132** (112) is a copy of a copy of a manuscript dated 12 July 1843; the handwriting does not match that of any of Joseph’s known scribes. A replacement revelation was received on 14 July 2017 and has been added as [[../Sections/Section 157.md|T&C 157:33–43]].
+**132** (112) is a copy of a copy of a manuscript dated 12 July 1843; the handwriting does not match that of any of Joseph’s known scribes. A replacement revelation was received on 14 July 2017 and has been added as [[../Sections/Section 157|T&C 157:33–43]].
 
 **134** is a declaration on laws and government that was written by either Oliver Cowdery or Sidney Rigdon, not Joseph Smith.
 

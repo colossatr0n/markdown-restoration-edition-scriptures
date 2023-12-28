@@ -1,4 +1,4 @@
-[[Alma 28.md|<< Alma 28]]  |  [[Alma 30.md|Alma 30 >>]]
+[[Alma 28|<< Alma 28]]  |  [[Alma 30|Alma 30 >>]]
 
 ### Chapter 29
 ###### 1

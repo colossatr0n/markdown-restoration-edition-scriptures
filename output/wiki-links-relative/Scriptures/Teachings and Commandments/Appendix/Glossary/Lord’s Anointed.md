@@ -1,4 +1,4 @@
-[[Living Water.md|<< Living Water]]  |  [[Lord’s Supper.md|Lord’s Supper >>]]
+[[Living Water|<< Living Water]]  |  [[Lord’s Supper|Lord’s Supper >>]]
 
 ### Lord’s Anointed
 In the broadest sense, anyone who has been through an anointing in the temple.1

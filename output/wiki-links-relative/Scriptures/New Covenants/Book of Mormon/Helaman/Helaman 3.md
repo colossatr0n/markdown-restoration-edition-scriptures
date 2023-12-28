@@ -1,4 +1,4 @@
-[[Helaman 2.md|<< Helaman 2]]  |  [[Helaman 4.md|Helaman 4 >>]]
+[[Helaman 2|<< Helaman 2]]  |  [[Helaman 4|Helaman 4 >>]]
 
 ### Chapter 3
 THE PROPHECY OF NEPHI, THE SON OF HELAMAN

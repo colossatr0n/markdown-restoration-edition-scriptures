@@ -1,4 +1,4 @@
-|  [[Canonization.md|Canonization >>]]
+|  [[Canonization|Canonization >>]]
 
 ### FOREWORD
 JOSEPH SMITH warned in 1831 that “except the church receive the fullness of the Scriptures that they would yet fall.” The “fullness” was defined as the Book of Mormon, the revelations, and the new, inspired Bible revisions (see Teachings and Commandments 105:13 – 14). Less than one year later, in September 1832, the saints of God were condemned by the Lord and commanded to *repent and remember the new covenant, even the Book of Mormon and the former commandments which I have given them, not only to say, but to do according to that which I have written* (T&C 82:20). This is often interpreted as the Lord rebuking the saints for failing to *do *according to that which He had written, while the assumption is made that the saints had been correctly *saying *what He had written. But the saints did not *say;* they failed to accurately preserve the revelations that God provided to them, and their texts became corrupted.

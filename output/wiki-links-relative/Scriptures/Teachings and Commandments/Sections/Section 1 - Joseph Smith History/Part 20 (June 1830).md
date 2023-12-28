@@ -1,4 +1,4 @@
-[[Part 19 (April–May 1830).md|<< Part 19 (April–May 1830)]]  |  [[../Section 2.md|Section 2 >>]]
+[[Part 19 (April–May 1830)|<< Part 19 (April–May 1830)]]  |  [[../Section 2|Section 2 >>]]
 
 ### Part 20 (June 1830)
 ###### 1

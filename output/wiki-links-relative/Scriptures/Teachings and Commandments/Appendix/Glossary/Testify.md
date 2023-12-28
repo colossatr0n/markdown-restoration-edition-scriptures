@@ -1,4 +1,4 @@
-[[Temptation.md|<< Temptation]]  |  [[Testimony of Jesus.md|Testimony of Jesus >>]]
+[[Temptation|<< Temptation]]  |  [[Testimony of Jesus|Testimony of Jesus >>]]
 
 ### Testify
 

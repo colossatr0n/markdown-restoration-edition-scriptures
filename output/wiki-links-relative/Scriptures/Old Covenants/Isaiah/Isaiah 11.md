@@ -1,4 +1,4 @@
-[[Isaiah 10.md|<< Isaiah 10]]  |  [[Isaiah 12.md|Isaiah 12 >>]]
+[[Isaiah 10|<< Isaiah 10]]  |  [[Isaiah 12|Isaiah 12 >>]]
 
 ### Chapter 11
 ###### 1

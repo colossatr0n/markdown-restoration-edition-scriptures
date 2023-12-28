@@ -1,4 +1,4 @@
-[[../John/John 11.md|<< John 11]]  |  [[Acts 2.md|Acts 2 >>]]
+[[../John/John 11|<< John 11]]  |  [[Acts 2|Acts 2 >>]]
 
 # THE ACTS OF THE APOSTLES
 ### Chapter 1

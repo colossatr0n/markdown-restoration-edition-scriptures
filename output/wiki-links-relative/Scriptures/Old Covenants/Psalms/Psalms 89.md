@@ -1,4 +1,4 @@
-[[Psalms 88.md|<< Psalms 88]]  |  [[Psalms 90.md|Psalms 90 >>]]
+[[Psalms 88|<< Psalms 88]]  |  [[Psalms 90|Psalms 90 >>]]
 
 ### Psalm 89
 

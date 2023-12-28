@@ -1,4 +1,4 @@
-[[Holy Spirit of Promise.md|<< Holy Spirit of Promise]]  |  [[Hope.md|Hope >>]]
+[[Holy Spirit of Promise|<< Holy Spirit of Promise]]  |  [[Hope|Hope >>]]
 
 ### Honor
 “An empowered promise from God” that can be claimed in the afterlife. It assures one of what he will receive from God because His oath and covenant establishes expectations.1 To honor is to glorify God in word and action.2

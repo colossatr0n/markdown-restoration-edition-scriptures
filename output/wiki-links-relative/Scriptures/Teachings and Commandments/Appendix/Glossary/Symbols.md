@@ -1,4 +1,4 @@
-[[Sustain.md|<< Sustain]]  |  [[Synagogue.md|Synagogue >>]]
+[[Sustain|<< Sustain]]  |  [[Synagogue|Synagogue >>]]
 
 ### Symbols
 God intended symbols to convey glory, honor, and a gift or endowment upon the people who received them. The symbols are not the real thing, but they teach and point to the real thing that is required for salvation. Symbolism substitutes one thing to represent another. There is always *this* that stands in the place of *that*. The value of the symbol is in teaching about *that* by employing *this* as a teaching tool. In temple symbolism, the *this* used has no real value, but *that* holds eternal value. If an unbelieving person obtains access to *this* temple symbol but fails to understand its relationship to *that* which is eternal, they have nothing of value. Likewise, when the symbol of *this* has no meaning for those who believe in the temple, then it fails to have any value for the believer as well.

@@ -1,4 +1,4 @@
-[[Judges 5.md|<< Judges 5]]  |  [[Judges 7.md|Judges 7 >>]]
+[[Judges 5|<< Judges 5]]  |  [[Judges 7|Judges 7 >>]]
 
 ### Chapter 6
 ###### 1

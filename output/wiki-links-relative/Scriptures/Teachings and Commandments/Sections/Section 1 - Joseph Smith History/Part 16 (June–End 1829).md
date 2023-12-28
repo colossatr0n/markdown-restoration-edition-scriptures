@@ -1,4 +1,4 @@
-[[Part 15 (June 1829).md|<< Part 15 (June 1829)]]  |  [[Part 17 (March 1830).md|Part 17 (March 1830) >>]]
+[[Part 15 (June 1829)|<< Part 15 (June 1829)]]  |  [[Part 17 (March 1830)|Part 17 (March 1830) >>]]
 
 ### Part 16 (June–end 1829)
 ###### 1

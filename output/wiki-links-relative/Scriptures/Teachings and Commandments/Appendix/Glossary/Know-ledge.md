@@ -1,4 +1,4 @@
-[[Kingdoms.md|<< Kingdoms]]  |  [[Know the Lord.md|Know the Lord >>]]
+[[Kingdoms|<< Kingdoms]]  |  [[Know the Lord|Know the Lord >>]]
 
 ### Know/ledge
 To have been visited by the Lord.1 Faith was always intended to grow into knowledge.2 Knowledge comes from contact with Jesus Christ (*see* Ether 1:14). This is the knowledge that saves and nothing else (*see* John 9:18). The idea that knowledge of Christ — through His personal appearance to each person — is now unavailable is an old sectarian notion and is false (*see* John 9:8).3 “Knowing God is Christ’s definition of Eternal life and salvation. Joseph Smith clarified this does not mean to learn something about Him. Rather, it is to meet Him. It is to have Him minister to you, face to face, as one man speaks to another.”4 Since this is life Eternal, to *know* Him, would it be a simple and plain, but most precious teaching to urge people to part the veil of unbelief and behold their Lord? (*see* John 9:18).5

@@ -1,4 +1,4 @@
-[[Introduction.md|<< Introduction]]  |  [[The Testimony of Three Witnesses.md|The Testimony of Three Witnesses >>]]
+[[Introduction|<< Introduction]]  |  [[The Testimony of Three Witnesses|The Testimony of Three Witnesses >>]]
 
 THE
 

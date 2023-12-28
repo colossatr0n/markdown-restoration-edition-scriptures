@@ -1,4 +1,4 @@
-[[Chains of Hell.md|<< Chains of Hell]]  |  [[Cherubim.md|Cherubim >>]]
+[[Chains of Hell|<< Chains of Hell]]  |  [[Cherubim|Cherubim >>]]
 
 ### Charity
 The *pure love of Christ *(Moroni 7:9). The Apostle Paul elevated charity (the pure love of Christ) to such high importance that salvation itself depends upon a person’s charity (*see* 1 Corinthians 1:51).1 It is through grace that one obtains charity. It is through charity that one can bless others. One cannot bless anyone or hold priesthood designed to bless, not curse, unless they have charity. This is never given unless the recipient is willing to do things he would rather not, thereby offering himself as a sacrifice to God. No one is trusted by God to hold this honor unless he will subordinate his will to the will of the Father.2 Charity cannot be manufactured, but only bestowed, and Moroni directs us to *pray unto the Father with all the energy of heart that ye may be filled with this love, which he hath bestowed upon all who are true followers of his Son Jesus Christ *(Moroni 7:9).

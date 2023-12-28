@@ -1,4 +1,4 @@
-[[../The Testimony of Three Witnesses.md|<< The Testimony of Three Witnesses]]  |  [[1 Nephi 2.md|1 Nephi 2 >>]]
+[[../The Testimony of Three Witnesses|<< The Testimony of Three Witnesses]]  |  [[1 Nephi 2|1 Nephi 2 >>]]
 
 # THE FIRST BOOK OF NEPHI
 ### HIS REIGN AND MINISTRY

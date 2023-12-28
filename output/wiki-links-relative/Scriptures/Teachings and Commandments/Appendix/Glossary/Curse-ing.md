@@ -1,4 +1,4 @@
-[[Cry Unto the Lord.md|<< Cry Unto the Lord]]  |  [[Damned.md|Damned >>]]
+[[Cry Unto the Lord|<< Cry Unto the Lord]]  |  [[Damned|Damned >>]]
 
 ### Curse/ing
 Condemnation by God.1

@@ -1,4 +1,4 @@
-[[Mormon 2.md|<< Mormon 2]]  |  [[Mormon 4.md|Mormon 4 >>]]
+[[Mormon 2|<< Mormon 2]]  |  [[Mormon 4|Mormon 4 >>]]
 
 ### Chapter 3
 ###### 1

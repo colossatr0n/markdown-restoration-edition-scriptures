@@ -1,4 +1,4 @@
-[[Jeremiah 1.md|<< Jeremiah 1]]  |  [[Jeremiah 3.md|Jeremiah 3 >>]]
+[[Jeremiah 1|<< Jeremiah 1]]  |  [[Jeremiah 3|Jeremiah 3 >>]]
 
 ### Chapter 2
 ###### 1

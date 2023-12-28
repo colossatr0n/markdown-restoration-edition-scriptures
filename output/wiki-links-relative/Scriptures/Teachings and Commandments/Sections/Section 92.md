@@ -1,4 +1,4 @@
-[[Section 91.md|<< Section 91]]  |  [[Section 93.md|Section 93 >>]]
+[[Section 91|<< Section 91]]  |  [[Section 93|Section 93 >>]]
 
 ### SECTION 92
 

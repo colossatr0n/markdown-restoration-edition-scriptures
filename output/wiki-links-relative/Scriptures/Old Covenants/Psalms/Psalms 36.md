@@ -1,4 +1,4 @@
-[[Psalms 35.md|<< Psalms 35]]  |  [[Psalms 37.md|Psalms 37 >>]]
+[[Psalms 35|<< Psalms 35]]  |  [[Psalms 37|Psalms 37 >>]]
 
 ### Psalm 36
 

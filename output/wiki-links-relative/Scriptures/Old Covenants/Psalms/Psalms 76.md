@@ -1,4 +1,4 @@
-[[Psalms 75.md|<< Psalms 75]]  |  [[Psalms 77.md|Psalms 77 >>]]
+[[Psalms 75|<< Psalms 75]]  |  [[Psalms 77|Psalms 77 >>]]
 
 ### Psalm 76
 

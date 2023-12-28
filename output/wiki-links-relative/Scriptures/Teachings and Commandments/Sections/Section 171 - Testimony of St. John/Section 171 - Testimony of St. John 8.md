@@ -1,4 +1,4 @@
-[[Section 171 - Testimony of St. John 7.md|<< Section 171 - Testimony of St. John 7]]  |  [[Section 171 - Testimony of St. John 9.md|Section 171 - Testimony of St. John 9 >>]]
+[[Section 171 - Testimony of St. John 7|<< Section 171 - Testimony of St. John 7]]  |  [[Section 171 - Testimony of St. John 9|Section 171 - Testimony of St. John 9 >>]]
 
 ### Chapter 8
 ###### 1

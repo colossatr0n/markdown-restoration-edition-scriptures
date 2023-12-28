@@ -1,4 +1,4 @@
-[[Mark 7.md|<< Mark 7]]  |  [[../Luke/Luke 1.md|Luke 1 >>]]
+[[Mark 7|<< Mark 7]]  |  [[../Luke/Luke 1|Luke 1 >>]]
 
 ### Chapter 8
 ###### 1

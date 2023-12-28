@@ -1,4 +1,4 @@
-[[Acts 3.md|<< Acts 3]]  |  [[Acts 5.md|Acts 5 >>]]
+[[Acts 3|<< Acts 3]]  |  [[Acts 5|Acts 5 >>]]
 
 ### Chapter 4
 ###### 1

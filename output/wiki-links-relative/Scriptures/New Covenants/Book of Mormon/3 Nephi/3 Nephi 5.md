@@ -1,4 +1,4 @@
-[[3 Nephi 4.md|<< 3 Nephi 4]]  |  [[3 Nephi 6.md|3 Nephi 6 >>]]
+[[3 Nephi 4|<< 3 Nephi 4]]  |  [[3 Nephi 6|3 Nephi 6 >>]]
 
 
 *Jesus Christ sheweth himself unto the people of Nephi, as the multitude were gathered together in the land Bountiful, and did minister unto them; and on this wise did he shew himself unto them.*

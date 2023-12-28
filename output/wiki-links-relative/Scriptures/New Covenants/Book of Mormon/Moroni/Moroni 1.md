@@ -1,4 +1,4 @@
-[[../Ether/Ether 6.md|<< Ether 6]]  |  [[Moroni 2.md|Moroni 2 >>]]
+[[../Ether/Ether 6|<< Ether 6]]  |  [[Moroni 2|Moroni 2 >>]]
 
 # THE BOOK OF MORONI
 ### Chapter 1

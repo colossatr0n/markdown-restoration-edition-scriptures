@@ -1,4 +1,4 @@
-[[Sons and Daughters of God.md|<< Sons and Daughters of God]]  |  [[Soul-Spirit-Body of Man.md|Soul-Spirit-Body of Man >>]]
+[[Sons and Daughters of God|<< Sons and Daughters of God]]  |  [[Soul-Spirit-Body of Man|Soul-Spirit-Body of Man >>]]
 
 ### Soothsayers
 Those who make predictions by using means other than true prophecy. Modern application of soothsaying may exist in business, government, economics, weather — especially long-term weather — politics, etc.1 It is foretelling for gain, profit, popularity, or influence without God’s commission and direction.2

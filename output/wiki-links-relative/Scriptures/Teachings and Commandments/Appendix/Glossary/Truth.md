@@ -1,4 +1,4 @@
-[[Trust in Man.md|<< Trust in Man]]  |  [[Twelve Apostles.md|Twelve Apostles >>]]
+[[Trust in Man|<< Trust in Man]]  |  [[Twelve Apostles|Twelve Apostles >>]]
 
 ### Truth
 

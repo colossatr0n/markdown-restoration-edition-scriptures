@@ -1,4 +1,4 @@
-[[Section 104.md|<< Section 104]]  |  [[Section 106.md|Section 106 >>]]
+[[Section 104|<< Section 104]]  |  [[Section 106|Section 106 >>]]
 
 ### SECTION 105
 

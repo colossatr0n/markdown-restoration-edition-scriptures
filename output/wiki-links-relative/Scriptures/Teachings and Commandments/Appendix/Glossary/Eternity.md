@@ -1,4 +1,4 @@
-[[Eternal Life.md|<< Eternal Life]]  |  [[Eve.md|Eve >>]]
+[[Eternal Life|<< Eternal Life]]  |  [[Eve|Eve >>]]
 
 ### Eternity
 “That which is without beginning or end.”1

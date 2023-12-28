@@ -1,4 +1,4 @@
-[[Excess.md|<< Excess]]  |  [[Eye of Faith.md|Eye of Faith >>]]
+[[Excess|<< Excess]]  |  [[Eye of Faith|Eye of Faith >>]]
 
 ### Extortion
 To compel the poor (an explanation in T&C 46:4).1

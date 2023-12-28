@@ -1,0 +1,6 @@
+- [Proverbs 1](Proverbs%201.md)
+- [Proverbs 2](Proverbs%202.md)
+- [Proverbs 3](Proverbs%203.md)
+- [Proverbs 4](Proverbs%204.md)
+- [Proverbs 5](Proverbs%205.md)
+- [Proverbs 6](Proverbs%206.md)

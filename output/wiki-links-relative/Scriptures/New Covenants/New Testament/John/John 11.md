@@ -1,4 +1,4 @@
-[[John 10.md|<< John 10]]  |  [[../Acts/Acts 1.md|Acts 1 >>]]
+[[John 10|<< John 10]]  |  [[../Acts/Acts 1|Acts 1 >>]]
 
 ### Chapter 11
 ###### 1

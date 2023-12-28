@@ -1,4 +1,4 @@
-[[2 Chronicles 17.md|<< 2 Chronicles 17]]  |  [[2 Chronicles 19.md|2 Chronicles 19 >>]]
+[[2 Chronicles 17|<< 2 Chronicles 17]]  |  [[2 Chronicles 19|2 Chronicles 19 >>]]
 
 ### Chapter 18
 ###### 1

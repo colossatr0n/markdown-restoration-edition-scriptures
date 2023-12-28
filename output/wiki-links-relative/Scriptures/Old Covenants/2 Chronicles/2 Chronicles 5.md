@@ -1,4 +1,4 @@
-[[2 Chronicles 4.md|<< 2 Chronicles 4]]  |  [[2 Chronicles 6.md|2 Chronicles 6 >>]]
+[[2 Chronicles 4|<< 2 Chronicles 4]]  |  [[2 Chronicles 6|2 Chronicles 6 >>]]
 
 ### Chapter 5
 ###### 1

@@ -1,0 +1,11 @@
+[<< Soul-Spirit-Body of Man](Soul-Spirit-Body%20of%20Man)  |  [Spirit Matter >>](Spirit%20Matter)
+
+### Speak with the Tongue of Angels
+To have knowledge and inspiration that reckons from heaven itself; to be elevated by “fire” which purges sins and purifies — in effect, to receive holiness through the sanctifying power of the Holy Spirit. This, in turn, makes one’s *own spirit *holy. “Your spirit or your ghost is within you, connected to heaven to such a degree through this process that you are in possession of a ‘holy spirit’ or a ‘holy ghost’ within you.”1 To speak with a new tongue is to speak worthily of sacred things. It is to correctly weigh the truth of a matter, to know by the power of the spirit that what is said is true and in conformity with God’s will, and then to speak it. It is to render sacred the vessel by the things it holds. To speak with a new tongue is to be able to speak with the tongue of an angel because one has become an angel — or a companion of angels, anyway. It is to elevate one’s thoughts so that what then proceeds forth from the mouth is because of what is in one’s thoughts. It is to reveal truth by the things one is authorized or commissioned to speak. It is to have a right to speak in the name of the Lord by His consent, His authority, and His will. It is to [*know], nothing doubting* (Ether 1:14) that He is one’s Lord. It is to say, without hypocrisy, without guile, without hesitation, and in truth that the power of salvation is found in Christ and has made one His, that He has entrusted one with words of life, and that salvation can be found only in Him and His words. It is to have the Word of God within one. “You cannot speak with the tongue of angels without having knowledge of certain things given you. The clarity with which you can declare truth is distinct from what others say or claim to know. Light and truth, which is intelligence or the glory of God [*see* T&C 93:11], is not a mystery, but an understood and appreciated experience where darkness has fled and God’s own glory has been upon you [*see* Genesis 2:2].”2*See also* GIFT OF TONGUES.
+
+
+
+1 “God’s Many Works, Part 5,” Aug. 17, 2012, blog post.
+
+
+2 “2 Nephi 31:14,” Aug. 26, 2010, blog post.

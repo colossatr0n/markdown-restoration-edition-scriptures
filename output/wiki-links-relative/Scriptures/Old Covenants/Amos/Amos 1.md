@@ -1,4 +1,4 @@
-[[../Joel/Joel 1.md|<< Joel 1]]  |  [[../Obadiah/Obadiah 1.md|Obadiah 1 >>]]
+[[../Joel/Joel 1|<< Joel 1]]  |  [[../Obadiah/Obadiah 1|Obadiah 1 >>]]
 
 # AMOS
 

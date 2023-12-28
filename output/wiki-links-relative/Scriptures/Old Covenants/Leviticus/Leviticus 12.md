@@ -1,4 +1,4 @@
-[[Leviticus 11.md|<< Leviticus 11]]  |  [[Leviticus 13.md|Leviticus 13 >>]]
+[[Leviticus 11|<< Leviticus 11]]  |  [[Leviticus 13|Leviticus 13 >>]]
 
 ### Chapter 12
 ###### 1

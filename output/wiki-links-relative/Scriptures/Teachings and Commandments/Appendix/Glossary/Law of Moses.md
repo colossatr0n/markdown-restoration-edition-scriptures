@@ -1,4 +1,4 @@
-[[Law of Christ.md|<< Law of Christ]]  |  [[Liberally.md|Liberally >>]]
+[[Law of Christ|<< Law of Christ]]  |  [[Liberally|Liberally >>]]
 
 ### Law of Moses
 When the children of Israel refused to live a higher law, they were given the law of Moses. This law, in a general view, consisted of a collection of commandments, statutes, performances, rituals, sacrifices, and ceremonies. The law of Moses was “added” and then fulfilled. It was added when the dispensation intended to be delivered through Moses was rejected by Israel (*see* T&C 82:12–13), much like what happened with the early saints in Joseph Smith’s time. The dispensation the Lord wanted to hand them (the saints of Joseph’s time) was not received either (*see* T&C 141:10), so something less was added. The saints of this day get to partake in what they* were *willing to receive, but they were not willing to receive what they might have been given (*see* T&C 86:4).1

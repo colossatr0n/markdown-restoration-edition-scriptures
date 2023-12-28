@@ -1,4 +1,4 @@
-[[Psalms 3.md|<< Psalms 3]]  |  [[Psalms 5.md|Psalms 5 >>]]
+[[Psalms 3|<< Psalms 3]]  |  [[Psalms 5|Psalms 5 >>]]
 
 ### Psalm 4
 

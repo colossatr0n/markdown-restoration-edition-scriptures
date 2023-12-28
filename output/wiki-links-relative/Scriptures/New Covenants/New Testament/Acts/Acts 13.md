@@ -1,4 +1,4 @@
-[[Acts 12.md|<< Acts 12]]  |  [[../Romans/Romans 1.md|Romans 1 >>]]
+[[Acts 12|<< Acts 12]]  |  [[../Romans/Romans 1|Romans 1 >>]]
 
 ### Chapter 13
 ###### 1

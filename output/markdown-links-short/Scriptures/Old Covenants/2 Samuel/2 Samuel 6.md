@@ -1,0 +1,38 @@
+[<< 2 Samuel 5](2%20Samuel%205)  |  [2 Samuel 7 >>](2%20Samuel%207)
+
+### Chapter 6
+###### 1
+And it came to pass, after forty years, that Absalom said unto the king, I pray you, let me go and pay my vow which I have vowed unto the Lord in Hebron; for your servant vowed a vow while I stayed at Geshur in Syria, saying, If the Lord shall bring me again indeed to Jerusalem, then I will serve the Lord. And the king said unto him, Go in peace. So he arose and went to Hebron.
+
+###### 2
+But Absalom sent spies throughout all the tribes of Israel, saying, As soon as you hear the sound of the trumpet, then you shall say, Absalom reigns in Hebron. And with Absalom went two hundred men out of Jerusalem that were called, and they went in their simplicity, and they knew not anything. And Absalom sent for Ahithophel the Gilonite, David’s counselor, from his city, even from Giloh, while he offered sacrifices. And the conspiracy was strong, for the people increased continually with Absalom.
+
+###### 3
+And there came a messenger to David, saying, The hearts of the men of Israel are after Absalom. And David said unto all his servants that were with him at Jerusalem, Arise and let us flee, for we shall not else escape from Absalom. Make speed to depart, lest he overtake us suddenly and bring evil upon us, and smite the city with the edge of the sword. And the king’s servants said unto the king, Behold, your servants are ready to do whatever my lord the king shall appoint. And the king went forth, and all his household after him. And the king left ten women, who were concubines, to keep the house.
+
+###### 4
+And the king went forth, and all the people after him, and stayed in a place that was far off. And all his servants passed on beside him. And all the Cherethites, and all the Pelethites, and all the Gittites, six hundred men who came after him from Gath, passed on before the king.
+
+###### 5
+Then said the king to Ittai the Gittite, Why are you also going with us? Return to your place and abide with the king, for you are a stranger, and also an exile. Whereas you came but yesterday, should I this day make you go up and down with us? Seeing I go where I may, return and take back your brethren; mercy and truth be with you. And Ittai answered the king and said, As the Lord lives, and as my lord the king lives, surely in what place my lord the king shall be, whether in death or life, even there also will your servant be. And David said to Ittai, Go and pass over. And Ittai the Gittite passed over, and all his men, and all the little ones that were with him. And all the country wept with a loud voice, and all the people passed over. The king also himself passed over the brook Kidron, and all the people passed over, toward the way of the wilderness. And behold, Zadok also; and all the Levites were with him, bearing the ark of the covenant of God.
+
+###### 6
+And they set down the ark of God, and Abiathar went up, until all the people were done passing out of the city. And the king said unto Zadok, Carry back the ark of God into the city. If I shall find favor in the eyes of the Lord, he will bring me again and show me both it and his habitation. But if he thus says: I have no delight in you — behold, here am I, let him do to me as seems good unto him. The king said also unto Zadok the priest, Are not you a seer? Return into the city in peace, and your two sons with you: Ahimaaz your son, and Jonathan the son of Abiathar. See, I will wait in the plain of the wilderness until there come word from you to certify me. Zadok therefore, and Abiathar, carried the ark of God again to Jerusalem, and they tarried there.
+
+###### 7
+And David went up by the ascent of Mount Olivet, and wept as he went up, and had his head covered, and he went barefoot. And all the people that were with him covered every man his head, and they went up, weeping as they went up. And one told David, saying, Ahithophel is among the conspirators with Absalom. And David said, O Lord, I pray you, turn the counsel of Ahithophel into foolishness.
+
+###### 8
+And it came to pass that when David had come to the top of the mount where he worshipped God, behold, Hushai the Archite came to meet him with his coat rent and earth upon his head, unto whom David said, If you pass on with me, then you shall be a burden unto me. But if you return to the city and say unto Absalom, I will be your servant, O king — as I have been your father’s servant hitherto, so will I now also be your servant — then may you, for me, defeat the counsel of Ahithophel. And do you not have there with you Zadok and Abiathar the priests? Therefore, it shall be that whatever thing you shall hear out of the king’s house, you shall tell it to Zadok and Abiathar the priests. Behold, they have there with them their two sons — Ahimaaz, Zadok’s son, and Jonathan, Abiathar’s son — and by them you shall send unto me everything that you can hear. So Hushai, David’s friend, came into the city, and Absalom came into Jerusalem.
+
+###### 9
+And when David was a little past the top of the hill, behold, Ziba the servant of Mephibosheth met him with a couple of asses saddled, and upon them two hundred loaves of bread, and a hundred bunches of raisins, and a hundred of summer fruits, and a bottle of wine. And the king said unto Ziba, What do you mean by these? And Ziba said, The asses are for the king’s household to ride on, and the bread and summer fruit for the young men to eat, and the wine that such as are faint in the wilderness may drink. And the king said, And where is your master’s son? And Ziba said unto the king, Behold, he abides at Jerusalem, for he said, Today shall the house of Israel restore to me the kingdom of my father. Then said the king to Ziba, Behold, yours are all that pertained unto Mephibosheth. And Ziba said, I humbly implore you that I may find grace in your sight my lord, O king.
+
+###### 10
+And when king David came to Bahurim, behold, from there came out a man of the family of the house of Saul, whose name was Shimei, the son of Gera. He came forth and cursed still as he came. And he cast stones at David, and at all the servants of king David, and all the people and all the mighty men were on his right hand and on his left. And thus said Shimei when he cursed: Come out, come out you bloody man, and you man of Belial. The Lord has returned upon you all the blood of the house of Saul, in whose stead you have reigned, and the Lord has delivered the kingdom into the hand of Absalom, your son. And behold, you are taken in your mischief because you are a bloody man.
+
+###### 11
+Then said Abishai the son of Zeruiah unto the king, Why should this dead dog curse my lord, the king? Let me go over, I pray you, and take off his head. And the king said, What have I to do with you, you sons of Zeruiah? So let him curse, because the Lord has said unto him, Curse David. Who shall then say, Why have you done so? And David said to Abishai, and to all his servants, Behold, my son who came forth of my own body seeks my life. How much more now may this Benjamite do it? Let him alone and let him curse, for the Lord has bidden him. It may be that the Lord will look on my affliction, and that the Lord will repay me good for his cursing this day.
+
+###### 12
+And as David and his men went by the way, Shimei went along on the hill’s side next to him, and cursed as he went, and threw stones at him, and cast dust. And the king, and all the people that were with him, came weary, and refreshed themselves there.

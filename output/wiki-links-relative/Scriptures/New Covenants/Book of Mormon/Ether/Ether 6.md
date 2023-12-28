@@ -1,4 +1,4 @@
-[[Ether 5.md|<< Ether 5]]  |  [[../Moroni/Moroni 1.md|Moroni 1 >>]]
+[[Ether 5|<< Ether 5]]  |  [[../Moroni/Moroni 1|Moroni 1 >>]]
 
 ### Chapter 6
 ###### 1

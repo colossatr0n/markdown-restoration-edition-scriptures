@@ -1,4 +1,4 @@
-[[Unspeakable.md|<< Unspeakable]]  |  [[Veil.md|Veil >>]]
+[[Unspeakable|<< Unspeakable]]  |  [[Veil|Veil >>]]
 
 ### Urim and Thummim
 Lights and perfections. It appears from early Church history the term Urim and Thummim was not used until 1835; prior to that, the term applied to the instrument was “interpreters.”1*The place where God resides is a great Urim and Thummim. This earth, in its sanctified and immortal state, will be made like unto crystal and will be a Urim and Thummim to the inhabitants who dwell thereon, whereby all things pertaining to an inferior kingdom, or all kingdoms of a lower order, will be manifest to those who dwell on it; and this earth will be Christ’s. Then the white stone mentioned in *[*Revelation 1:12*]*, will become a Urim and Thummim to each individual who receives one, whereby things pertaining to a higher order of kingdoms will be made known; and a white stone is given to each of those who come into the celestial kingdom, whereon is a new name written, which no man knoweth save he that receiveth it. The new name is the key word*.2

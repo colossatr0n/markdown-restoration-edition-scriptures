@@ -1,4 +1,4 @@
-[[../2 Samuel/2 Samuel 12.md|<< 2 Samuel 12]]  |  [[1 Kings 2.md|1 Kings 2 >>]]
+[[../2 Samuel/2 Samuel 12|<< 2 Samuel 12]]  |  [[1 Kings 2|1 Kings 2 >>]]
 
 # THE FIRST BOOK OF THE KINGS
 ### COMMONLY CALLED THE THIRD BOOK OF THE KINGS

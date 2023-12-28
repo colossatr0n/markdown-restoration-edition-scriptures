@@ -1,4 +1,4 @@
-[[Leviticus 9.md|<< Leviticus 9]]  |  [[Leviticus 11.md|Leviticus 11 >>]]
+[[Leviticus 9|<< Leviticus 9]]  |  [[Leviticus 11|Leviticus 11 >>]]
 
 ### Chapter 10
 ###### 1

@@ -1,4 +1,4 @@
-[[Section 108.md|<< Section 108]]  |  [[Section 110 - Lectures on Faith/Lecture Preface.md|Lecture Preface >>]]
+[[Section 108|<< Section 108]]  |  [[Section 110 - Lectures on Faith/Lecture Preface|Lecture Preface >>]]
 
 ### SECTION 109
 

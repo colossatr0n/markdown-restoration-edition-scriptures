@@ -1,4 +1,4 @@
-[[Destroy.md|<< Destroy]]  |  [[Dispensation.md|Dispensation >>]]
+[[Destroy|<< Destroy]]  |  [[Dispensation|Dispensation >>]]
 
 ### Disciple
 The word “disciple” is derived from discipline. A disciple follows the Master.1

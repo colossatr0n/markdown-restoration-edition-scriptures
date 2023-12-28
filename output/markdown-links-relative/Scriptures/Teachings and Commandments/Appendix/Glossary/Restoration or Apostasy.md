@@ -1,0 +1,19 @@
+[<< Rest of the Lord](Rest%20of%20the%20Lord.md)  |  [Restoration, The >>](Restoration,%20The.md)
+
+### Restoration or Apostasy
+Religion moves through two stages. In the first, God reveals Himself to man. This is called “restoration.” It restores man to communion with God, as in the Garden of Eden. In the second, man attempts to worship God according to His last visit. This stage is always characterized by lack and inadequacy. This is called “apostasy.” Apostasy always follows restoration. Abraham, Moses, and Isaiah ascended the bridge into God’s presence. Through Jesus Christ, God descended the celestial bridge to live with man. Those examples all show God wants to reconnect with man. Unfortunately, the participants in a restoration leave only an echo of God’s voice unless they remain connected with God through continual restoration. Every restoration risks a lapse back into lack and apostasy. Whether the echo is preserved through a family (as in ancient Israel) or through churches (as in Christianity), some organization acts as a substitute for God’s presence during apostasy. Unfortunately, organizations can only imitate God’s involvement. Though Moses guided Joshua into the abundance of restoration obtained by Joshua’s own direct contact with God, Israel forfeited their opportunity to do the same thing. Earlier, Abraham established a restored dynasty in Isaac, Jacob, and Joseph. Abraham’s was the greatest success since the time of Adam. Apostasy is the rule, restoration the exception. It is a curious failure since God declared His works and words never cease. Institutions cannot control God. As faith in God is institutionalized, it becomes part of this world and, necessarily, influenced by cultural, social, legal, and economic pressure. These forces erode faith. Religious institutions are where the ideal comes into conflict with the less-than-ideal. LDS Mormonism illustrates this dynamic. Through compromises of its ideals, the pattern unfolds in modern time. Religion has always frustrated good men. Churches fail to practice the ideal. This frustration produces reformers who reject the inevitability of spiritual famine and who long for the return of a revelatory God.1 Either on a collective or personal basis, the path requires motion. Man remains in motion all the time. There is no stasis, no holding a position. He advances (that is, experiences restoration), or he recedes (that is, experiences apostasy). There is no avoiding movement.2 It is not possible for an individual, nor a collection of individuals, to remain static. They are either involved with restoring truth or are in apostasy from it; they are never merely “preserving” it. Those who claim to merely preserve the truth given them are concealing the fact of their apostasy. They are soothing their conscience. Caretakers simply cannot exist.3 Mankind should not be misled by the language of revelations about the restoration through Joseph Smith being “the last”: *…which kingdom is coming forth for the last time *(T&C 90:1); *…this Priesthood given for the last days, and for the last time, in the which is the Dispensation of the Fullness of Times *(T&C 124:7)*.* These references (and more) should be understood as “most recent” — as in the same language of T&C 69:5: *…this is the testimony, last of all, which we give of him: that he lives.* Just as this language does not mean there will never be a testimony of Christ after February 1832 — only that theirs was the latest — likewise, the other use of “last” in the revelations means “most recent.”4
+
+
+
+1
+[Preserving the Restoration](#), 423–424.
+
+
+2 “The Restoration’s Shattered Promises and Great Hope,” address given at Sunstone Symposium, Sandy, UT, July 28, 2018, transcript, 9.
+
+
+3 “Restoration and Apostasy,” Jan. 22, 2011, blog post.
+
+
+4
+[Preserving the Restoration](#), 482n1298.

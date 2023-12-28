@@ -40,7 +40,7 @@
 | [[Luke 12\|LUKE 12]] | LUKE 19:28 to 21 |
 | [[Luke 13\|LUKE 13]] | LUKE 22 & 23 |
 | [[Luke 14\|LUKE 14]] | LUKE 24 |
-| [JOHN 1](/scriptures/nt/john/1 )  | JOHN 1 & 2 |
+| [[John 1\|JOHN 1 ]] | JOHN 1 & 2 |
 | [[John 2\|JOHN 2]] | JOHN 3:1–21 |
 | [[John 3\|JOHN 3]] | JOHN 3:22 to 4:4 |
 | [[John 4\|JOHN 4]] | JOHN 4:5 to 5:1 |
@@ -64,12 +64,12 @@
 | [[Acts 11\|ACTS 11]] | ACTS 18:24 to 20:6 |
 | [[Acts 12\|ACTS 12]] | ACTS 20:7–26 |
 | [[Acts 13\|ACTS 13]] | ACTS 27 & 28 |
-| [ROMANS](/scriptures/nt/romans/ )  | ROMANS |
+| [[Romans 1\|ROMANS ]] | ROMANS |
 | [[1 Corinthians 1\|1 CORINTHIANS]] | 1 CORINTHIANS |
 | [[2 Corinthians 1\|2 CORINTHIANS]] | 1 CORINTIANS |
 | [[Galatians 1\|GALATIANS]] | GALATIANS |
 | [[Ephesians 1\|EPHESIANS]] | EPHESIANS |
-| [PHILLIPIANS](/scriptures/nt/phillipians/) | PHILLIPIANS |
+| [[Philippians 1\|PHILIPPIANS]] | PHILIPPIANS |
 | [[Colossians 1\|COLOSSIANS]] | COLOSSIANS |
 | [[1 Thessalonians 1\|1 THESS]] | 1 THESS |
 | [[2 Thessalonians 1\|2 THESS]] | 2 THESS |

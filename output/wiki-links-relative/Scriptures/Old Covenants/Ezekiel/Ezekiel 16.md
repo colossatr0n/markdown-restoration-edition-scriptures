@@ -1,4 +1,4 @@
-[[Ezekiel 15.md|<< Ezekiel 15]]  |  [[Ezekiel 17.md|Ezekiel 17 >>]]
+[[Ezekiel 15|<< Ezekiel 15]]  |  [[Ezekiel 17|Ezekiel 17 >>]]
 
 ### Chapter 16
 ###### 1

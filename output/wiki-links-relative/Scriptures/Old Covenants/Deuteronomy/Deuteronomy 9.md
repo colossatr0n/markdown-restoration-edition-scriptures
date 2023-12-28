@@ -1,4 +1,4 @@
-[[Deuteronomy 8.md|<< Deuteronomy 8]]  |  [[../Joshua/Joshua 1.md|Joshua 1 >>]]
+[[Deuteronomy 8|<< Deuteronomy 8]]  |  [[../Joshua/Joshua 1|Joshua 1 >>]]
 
 ### Chapter 9
 ###### 1

@@ -1,4 +1,4 @@
-[[Numbers 12.md|<< Numbers 12]]  |  [[../Deuteronomy/Deuteronomy 1.md|Deuteronomy 1 >>]]
+[[Numbers 12|<< Numbers 12]]  |  [[../Deuteronomy/Deuteronomy 1|Deuteronomy 1 >>]]
 
 ### Chapter 13
 ###### 1

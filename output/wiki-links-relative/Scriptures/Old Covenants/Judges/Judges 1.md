@@ -1,4 +1,4 @@
-[[../Joshua/Joshua 5.md|<< Joshua 5]]  |  [[Judges 2.md|Judges 2 >>]]
+[[../Joshua/Joshua 5|<< Joshua 5]]  |  [[Judges 2|Judges 2 >>]]
 
 # THE BOOK OF JUDGES
 ### Chapter 1

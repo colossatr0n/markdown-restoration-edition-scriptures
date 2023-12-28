@@ -1,4 +1,4 @@
-[[Redemption.md|<< Redemption]]  |  [[Reins.md|Reins >>]]
+[[Redemption|<< Redemption]]  |  [[Reins|Reins >>]]
 
 ### Re’em
 The word used by Joseph Smith to replace “unicorn” in the scriptures. It refers to an extinct species of wild ox — likely the aurochs or the Arabian oryx.1

@@ -1,4 +1,4 @@
-[[Psalms 48.md|<< Psalms 48]]  |  [[Psalms 50.md|Psalms 50 >>]]
+[[Psalms 48|<< Psalms 48]]  |  [[Psalms 50|Psalms 50 >>]]
 
 ### Psalm 49
 

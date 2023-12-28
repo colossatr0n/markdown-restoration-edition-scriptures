@@ -1,4 +1,4 @@
-[[Isaiah 13.md|<< Isaiah 13]]  |  [[Isaiah 15.md|Isaiah 15 >>]]
+[[Isaiah 13|<< Isaiah 13]]  |  [[Isaiah 15|Isaiah 15 >>]]
 
 ### Chapter 14
 ###### 1

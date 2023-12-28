@@ -1,4 +1,4 @@
-[[First Principles of the Gospel.md|<< First Principles of the Gospel]]  |  [[For Ever.md|For Ever >>]]
+[[First Principles of the Gospel|<< First Principles of the Gospel]]  |  [[For Ever|For Ever >>]]
 
 ### Follow Christ
 

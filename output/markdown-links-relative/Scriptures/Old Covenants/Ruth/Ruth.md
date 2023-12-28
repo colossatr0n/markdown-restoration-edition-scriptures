@@ -1,0 +1,3 @@
+- [Ruth 1](Ruth%201.md)
+- [Ruth 2](Ruth%202.md)
+- [Ruth 3](Ruth%203.md)

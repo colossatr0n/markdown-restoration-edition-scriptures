@@ -1,4 +1,4 @@
-[[Wrest.md|<< Wrest]]  |  [[../Correlation Tables.md|Correlation Tables >>]]
+[[Wrest|<< Wrest]]  |  [[../Correlation Tables|Correlation Tables >>]]
 
 ### Zion
 A prophesied last-days community of saints to which the City of Enoch will return, and where Christ will dwell. Originally expected by Mormons to be located in Independence, Missouri, it was later relocated to Nauvoo, Illinois. Late in his life Joseph Smith changed the location to “the whole of North and South America,” predicting it will cover the entire land mass at some point during the Millennial reign of Jesus Christ.1 Zion consists of people living in harmony with God. It is defined in revelation as *the pure in heart* (T&C 96:5–7; T&C 101:3; Genesis 4:14–16,19), but prophecy also confirms it will be an actual location and a place of gathering.2

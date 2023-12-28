@@ -1,4 +1,4 @@
-[[Alma 7.md|<< Alma 7]]  |  [[Alma 9.md|Alma 9 >>]]
+[[Alma 7|<< Alma 7]]  |  [[Alma 9|Alma 9 >>]]
 
 ### Chapter 8
 ###### 1

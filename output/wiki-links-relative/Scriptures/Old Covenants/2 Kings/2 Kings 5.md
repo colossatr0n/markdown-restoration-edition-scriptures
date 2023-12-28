@@ -1,4 +1,4 @@
-[[2 Kings 4.md|<< 2 Kings 4]]  |  [[2 Kings 6.md|2 Kings 6 >>]]
+[[2 Kings 4|<< 2 Kings 4]]  |  [[2 Kings 6|2 Kings 6 >>]]
 
 ### Chapter 5
 ###### 1

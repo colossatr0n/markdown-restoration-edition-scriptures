@@ -1,4 +1,4 @@
-[[Acts 7.md|<< Acts 7]]  |  [[Acts 9.md|Acts 9 >>]]
+[[Acts 7|<< Acts 7]]  |  [[Acts 9|Acts 9 >>]]
 
 ### Chapter 8
 ###### 1

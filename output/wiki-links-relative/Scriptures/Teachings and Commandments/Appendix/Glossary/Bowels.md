@@ -1,4 +1,4 @@
-[[Book of the Lamb of God.md|<< Book of the Lamb of God]]  |  [[Branch.md|Branch >>]]
+[[Book of the Lamb of God|<< Book of the Lamb of God]]  |  [[Branch|Branch >>]]
 
 ### Bowels
 (Greek: *splagchnon*, σπλάγχνα) Bowels or intestines (the heart, lungs, liver, etc.) and refers to the inward parts, the internal organs, viscera; the heart, affections, and the seat of the feelings, as regarded by the Hebrews as the place of the tenderer affections, i.e., kindness, benevolence, and compassion. Often translated as “tender mercies.”12 Our bowels must become like Christ’s, *moved with compassion* (Matthew 8:3; Mark 4:2) for others. This may only be imitative at first, but after it is informed by the experience, when one has acted consistent with His laws, what begins as imitation grows within to become genuine compassion for others.3*See also* HARDNESS OF HEART.

@@ -1,4 +1,4 @@
-[[Ruth 2.md|<< Ruth 2]]  |  [[../1 Samuel/1 Samuel 1.md|1 Samuel 1 >>]]
+[[Ruth 2|<< Ruth 2]]  |  [[../1 Samuel/1 Samuel 1|1 Samuel 1 >>]]
 
 ### Chapter 3
 ###### 1

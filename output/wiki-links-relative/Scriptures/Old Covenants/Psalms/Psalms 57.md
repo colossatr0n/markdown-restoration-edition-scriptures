@@ -1,4 +1,4 @@
-[[Psalms 56.md|<< Psalms 56]]  |  [[Psalms 58.md|Psalms 58 >>]]
+[[Psalms 56|<< Psalms 56]]  |  [[Psalms 58|Psalms 58 >>]]
 
 ### Psalm 57
 

@@ -1,0 +1,35 @@
+[<< Acts 10](Acts%2010.md)  |  [Acts 12 >>](Acts%2012.md)
+
+### Chapter 11
+###### 1
+And a certain Jew named Apollos, born at Alexandria, an eloquent man and mighty in the scriptures, came to Ephesus. This man was instructed in the way of the Lord; and being fervent in the spirit, he spoke and taught diligently the things of the Lord, knowing only the baptism of John. And he began to speak boldly in the synagogue, whom, when Aquila and Priscilla had heard, they took him unto them and expounded unto him the way of God more perfectly. And when he was disposed to pass into Achaia, the brethren wrote exhorting the disciples to receive him, who, when he had come, helped them much who had believed through grace; for he mightily refuted the Jews, and that publicly, showing by the scriptures that Jesus was Christ.
+
+###### 2
+And it came to pass that while Apollos was at Corinth, Paul, having passed through the upper borders, came to Ephesus; and finding certain disciples, he said unto them, Have you received the holy ghost since you believed? And they said unto him, We have not so much as heard whether there be any holy ghost. And he said unto them, Unto what then were you baptized? And they said, Unto John’s baptism. Then said Paul, John truly baptized with the baptism of repentance, saying unto the people that they should believe on him who should come after him — that is, on Christ Jesus. When they heard this, they were baptized in the name of the Lord Jesus. And when Paul had laid his hands upon them, the holy ghost came on them and they spoke with tongues and prophesied. And all the men were about twelve.
+
+###### 3
+And he went into the synagogue and spoke boldly for the space of three months, disputing and persuading the things concerning the kingdom of God. But when some were hardened and believed not, but spoke evil of that way before the multitude, he departed from them and separated the disciples, disputing daily in the school of one Tyrannus. And this continued by the space of two years, so that all they who dwelled in Asia heard the word of the Lord Jesus — both Jews and Greeks.
+
+###### 4
+And God wrought special miracles by the hands of Paul, so that from his body were brought unto the sick handkerchiefs or aprons, and the diseases departed from them, and the evil spirits went out of them.
+
+###### 5
+Then certain of the vagabond Jews, exorcists, took upon them to call over them who had evil spirits the name of the Lord Jesus, saying, We adjure you by Jesus, whom Paul preaches. And there were seven sons of one Sceva — a Jew and chief of the priests — who did so. And the evil spirit answered and said, Jesus I know, and Paul I know, but who are you? And the man in whom the evil spirit was leaped on them and overcame them, and prevailed against them so that they fled out of that house naked and wounded. And this was known to all the Jews and Greeks also dwelling at Ephesus, and fear fell on them all. And the name of the Lord Jesus was magnified, and many that believed came, and confessed, and showed their deeds. Many of them also who used meddling arts brought their books together and burned them before all men, and they counted the price of them and found it fifty thousand pieces of silver, so mightily the word of God grew and prevailed.
+
+###### 6
+After these things were ended, Paul purposed in the spirit, when he had passed through Macedonia and Achaia, to go to Jerusalem, saying, After I have been there, I must also see Rome. So he sent into Macedonia two of them that ministered unto him: Timothy and Erastus; but he himself stayed in Asia for a season.
+
+###### 7
+And the same time, there arose no small stir about that way; for a certain man named Demetrius, a silversmith who made silver shrines for Diana, brought no small gain unto the craftsmen, whom he called together with the workmen of like occupation and said, Sirs, you know that by this craft we have our wealth. Moreover, you see and hear that — not alone at Ephesus, but almost throughout all Asia — this Paul has persuaded and turned away many people, saying that they are no gods which are made with hands, so that not only this our craft is in danger to be set at naught, but also that the temple of the great goddess Diana should be despised and her magnificence should be destroyed, whom all Asia and the world worships.
+
+###### 8
+And when they heard these sayings, they were full of wrath and cried out, saying, Great is Diana of the Ephesians! And the whole city was filled with confusion, and having caught Gaius and Aristarchus — men of Macedonia, Paul’s companions in travel — they rushed with one accord into the theater. And when Paul would have entered in unto the people, the disciples suffered him not. And certain of the chief of Asia who were his friends sent unto him, desiring of him that he would not venture himself into the theater. Some therefore cried one thing and some another, for the assembly was confused and the more part knew not why they had come together.
+
+###### 9
+And they drew Alexander out of the multitude, the Jews putting him forward. And Alexander beckoned with the hand, and would have made his defense unto the people; but when they knew that he was a Jew, all, with one voice about the space of two hours, cried out, Great is Diana of the Ephesians!
+
+###### 10
+And when the town clerk had appeased the people, he said, You men of Ephesus, what man is there who knows not that the city of the Ephesians is a worshipper of the great goddess Diana? And of the image which fell down from Jupiter? Seeing then that these things cannot be spoken against, you ought to be quiet and to do nothing rashly, for you have brought here these men who are neither robbers of churches nor yet blasphemers of your goddess. Wherefore, if Demetrius and the craftsmen who are with him have a matter against any man, the law is open and there are deputies; let them sue one another. But if you inquire anything concerning other matters, it shall be determined in a lawful assembly; for we are in danger to be called in question for this day’s uproar, there being no cause whereby we may give an account of this concourse. And when he had thus spoken, he dismissed the assembly.
+
+###### 11
+And after the uproar had ceased, Paul called unto him the disciples and embraced them, and departed to go into Macedonia. And when he had gone over those parts and had given them much exhortation, he came into Greece and there abided three months. And when the Jews laid wait for him as he was about to sail into Syria, he purposed to return through Macedonia. And there accompanied him into Asia Sopater of Berea; and of the Thessalonians, Aristarchus and Secundus; and Gaius of Derbe; and Timothy; and of Asia, Tychicus and Trophimus. These, going before, waited for us at Troas. And we sailed away from Philippi after the days of unleavened bread, and came unto them to Troas in five days, where we stayed seven days.

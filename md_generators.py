@@ -8,30 +8,38 @@ from html_parsers import get_chapter_title
 from predicates import is_toc, is_volume_toc, is_book_toc
 
 
-def html_to_md(path, soup, obsidian_link_by_path, obsidian_img_link_by_path, rel_path):
+def html_to_md(path, soup, obsidian_link_by_path, obsidian_img_link_by_path, rel_path, link_type):
     if not is_toc(soup):
-        md = material_html_to_md(path, soup, obsidian_link_by_path, obsidian_img_link_by_path, rel_path)
+        md = material_html_to_md(path, soup, obsidian_link_by_path, obsidian_img_link_by_path, rel_path, link_type)
     elif is_volume_toc(soup):
-        md = toc_html_to_md(path, soup, obsidian_link_by_path, obsidian_img_link_by_path, rel_path)
+        md = toc_html_to_md(path, soup, obsidian_link_by_path, obsidian_img_link_by_path, rel_path, link_type)
     elif is_book_toc(soup):
-        md = toc_html_to_md(path, soup, obsidian_link_by_path, obsidian_img_link_by_path, rel_path)
+        md = toc_html_to_md(path, soup, obsidian_link_by_path, obsidian_img_link_by_path, rel_path, link_type)
     else:
         raise SystemExit(f"Unknown HTML category for: {soup}.")
     return md
 
 
-def general_html_to_md(path, soup, obsidian_link_by_path, obsidian_img_link_by_path, rel_links):
+def general_html_to_md(path, soup, obsidian_link_by_path, obsidian_img_link_by_path, rel_links, link_type):
     for sup in soup.find_all('sup', string="*"):
         sup.insert(0, '\\')
 
     # Replace anchor text with obsidian links
     for a in soup.find_all('a'):
         if a and a.has_attr('href'):
+            href = a['href'].replace(' ', '')
             # Assures chapter link instead of chapter + verse link
-            href = re.sub("/$", "", a['href'].split('.')[0])
+            href = re.sub("(/\d+)[\-.]\d.*$", r"\1", href)
+            href = re.sub("/$", "", href)
             new_tag = soup.new_tag("div")
             text = a.text
             pipe = "\\|" if a.find_parent("td") else "|"
+
+            if href not in obsidian_link_by_path:
+                # Remove trailing path part
+                alt_href = "/".join(href.split("/")[:-1])
+                if alt_href in obsidian_link_by_path:
+                    obsidian_link_by_path[href] = obsidian_link_by_path[alt_href]
 
             if href in obsidian_link_by_path:
                 # Book TOCs use digits for the anchor text. Use the obsidian link instead by removing the alias.
@@ -41,6 +49,9 @@ def general_html_to_md(path, soup, obsidian_link_by_path, obsidian_img_link_by_p
                 if rel_links:
                     # Removes extra '../' from relpath
                     link_path = "/".join(os.path.relpath(obsidian_link_by_path[href], path).split("/")[1:])
+                    if link_type == 'wikilinks':
+                        # remove extension
+                        link_path = '.'.join(link_path.split(".")[:-1])
                 else:
                     link_path = ".".join(os.path.basename(obsidian_link_by_path[href]).split(".")[:-1])
             elif href.startswith("#"):
@@ -53,14 +64,28 @@ def general_html_to_md(path, soup, obsidian_link_by_path, obsidian_img_link_by_p
             if link_path.strip() == text.strip():
                 pipe = ""
                 text = ""
-            new_tag.string = f"[[{link_path}{pipe}{text}]]"
+
+            if link_type == "wikilinks":
+                new_tag.string = f"[[{link_path}{pipe}{text}]]"
+            else:
+                new_tag.string = f"[{text if text else link_path}]({link_path.replace(' ', '%20')})"
             a.replace_with(new_tag)
 
     for img in soup.find_all('img'):
         if not img.has_attr('src') or not img['src'] in obsidian_img_link_by_path:
             continue
         div = soup.new_tag('div')
-        div.string = "![[" + obsidian_img_link_by_path[img['src']] + "]]"
+        href = img['src']
+        if rel_links:
+            # Removes extra '../' from relpath
+            link_path = "/".join(os.path.relpath(obsidian_img_link_by_path[href], path).split("/")[1:])
+        else:
+            link_path = str(os.path.basename(obsidian_img_link_by_path[href]))
+
+        if link_type == 'wikilinks':
+            div.string = f"![[{link_path}|{'.'.join(os.path.basename(link_path).split('.')[:-1])}]]"
+        else:
+            div.string = f"![{'.'.join(os.path.basename(link_path).split('.')[:-1])}](" + link_path.replace(' ', '%20') + ")"
         img.insert_after(div)
 
     # Convert headers
@@ -95,7 +120,7 @@ def general_html_to_md(path, soup, obsidian_link_by_path, obsidian_img_link_by_p
     return soup
 
 
-def material_html_to_md(path, soup, obsidian_link_by_path, obsidian_img_link_by_path, rel_path):
+def material_html_to_md(path, soup, obsidian_link_by_path, obsidian_img_link_by_path, rel_path, link_type):
     print("Converting HTML to MD...")
     text_soup = soup.find('div', class_='scriptureText')
     strip(text_soup)
@@ -116,6 +141,7 @@ def material_html_to_md(path, soup, obsidian_link_by_path, obsidian_img_link_by_
                     a.string = ' >>'
                     a.insert_before(span)
                 if href not in obsidian_link_by_path:
+                    # Remove trailing path part
                     alt_href = "/".join(href.split("/")[:-1])
                     if alt_href not in obsidian_link_by_path:
                         continue
@@ -140,12 +166,12 @@ def material_html_to_md(path, soup, obsidian_link_by_path, obsidian_img_link_by_
         li.insert(0, f'###### {verse_num}\n')
         li.append('\n')
 
-    general_html_to_md(path, soup, obsidian_link_by_path, obsidian_img_link_by_path, rel_path)
+    general_html_to_md(path, soup, obsidian_link_by_path, obsidian_img_link_by_path, rel_path, link_type)
 
     return text_soup.get_text().strip()
 
 
-def toc_html_to_md(path, soup, obsidian_link_by_path, obsidian_img_link_by_path, rel_path):
+def toc_html_to_md(path, soup, obsidian_link_by_path, obsidian_img_link_by_path, rel_path, link_type):
     main_soup = soup.find(class_="mainContent")
     for a in main_soup.find_all('a'):
         remove_newlines_and_space(a)
@@ -173,7 +199,7 @@ def toc_html_to_md(path, soup, obsidian_link_by_path, obsidian_img_link_by_path,
         li.insert(0, '- ')
         remove_newlines_and_space(li)
 
-    general_html_to_md(path, soup, obsidian_link_by_path, obsidian_img_link_by_path, rel_path)
+    general_html_to_md(path, soup, obsidian_link_by_path, obsidian_img_link_by_path, rel_path, link_type)
     text = main_soup.get_text().strip()
     return condense_newlines(text, 2)
 

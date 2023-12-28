@@ -1,4 +1,4 @@
-[[Kingdom of God.md|<< Kingdom of God]]  |  [[Know-ledge.md|Know-ledge >>]]
+[[Kingdom of God|<< Kingdom of God]]  |  [[Know-ledge|Know-ledge >>]]
 
 ### Kingdoms
 The afterlife is divided. More than one state exists immediately following death and lasting until the resurrection. These states are “Spirit Paradise” and “Spirit Prison.” Following the resurrection from death, resurrected conditions are divided into progressively greater glory. The least condition of resurrected glory is called “Telestial” glory and is compared to that of the stars. The next highest resurrected condition of glory is called “Terrestrial” glory and is compared to that of the moon. The highest condition of resurrected glory is called “Celestial” glory and is compared to that of the sun. Each person receives the condition of glory that most accurately reflects the intelligence, or light and truth, they acquired by their heed and diligence to God during their experiences in this world. While these states of resurrected glory are temporary, they last an unknown period (of perhaps millions of years) until another opportunity or cycle of creation is merited for the person involved.

@@ -1,0 +1,35 @@
+[<< Obadiah 1](Obadiah%201)  |  [Micah 1 >>](Micah%201)
+
+# JONAH
+###### 1
+Now the word of the Lord came unto Jonah the son of Amittai, saying, Arise, go to Nineveh, that great city, and cry against it, for their wickedness has come up before me. But Jonah rose up to flee unto Tarshish from the presence of the Lord, and went down to Joppa. And he found a ship going to Tarshish, so he paid the fare thereof and went down into it, to go with them unto Tarshish from the presence of the Lord.
+
+###### 2
+But the Lord sent out a great wind into the sea, and there was a mighty tempest in the sea, so that the ship was like to be broken. Then the mariners were afraid, and cried every man unto his god, and cast forth the wares that were in the ship into the sea, to lighten it of them. But Jonah was gone down into the sides of the ship, and he lay and was fast asleep. So the shipmaster came to him and said unto him, What do you mean, O sleeper? Arise, call upon your god, if it so be that god will think upon us, that we perish not.
+
+###### 3
+And they said everyone to his fellow, Come and let us cast lots, that we may know for whose cause this evil is upon us. So they cast lots, and the lot fell upon Jonah. Then said they unto him, Tell us, we pray you, for whose cause this evil is upon us? What is your occupation and where do you come from? What is your country and of what people are you? And he said unto them, I am a Hebrew and I fear the Lord, the God of Heaven, who has made the sea and the dry land. Then were the men exceedingly afraid, and said unto him, Why have you done this? For the men knew that he fled from the presence of the Lord, because he had told them. Then said they unto him, What shall we do unto you that the sea may be calm unto us? For the sea raged and was tempestuous. And he said unto them, Take me up and cast me forth into the sea; so shall the sea be calm unto you. For I know that for my sake this great tempest is upon you.
+
+###### 4
+Nevertheless, the men rowed hard to bring it to the land, but they could not; for the sea raged and was tempestuous against them. Wherefore, they cried unto the Lord and said, We implore you, O Lord, we implore you, let us not perish for this man’s life, and lay not upon us innocent blood. For you, O Lord, have done as it pleased you. So they took up Jonah and cast him forth into the sea. And the sea ceased from her raging. Then the men feared the Lord exceedingly, and offered a sacrifice unto the Lord and made vows.
+
+###### 5
+Now the Lord had prepared a great fish to swallow up Jonah, and Jonah was in the belly of the fish three days and three nights. Then Jonah prayed unto the Lord his God out of the fish’s belly and said, I cried by reason of my affliction unto the Lord, and he heard me. Out of the belly of hell cried I, and you heard my voice. For you had cast me into the deep, in the midst of the seas, and the floods encompassed me about. All your billows and your waves passed over me. Then I said, I am cast out of your sight. Yet I will look again toward your holy temple. The waters encompassed me about, even to the soul; the depths closed me round about. The weeds were wrapped about my head. I went down to the bottoms of the mountains. The Earth with her bars was about me for ever. Yet have you brought up my life from corruption, O Lord my God. When my soul fainted within me, I remembered the Lord, and my prayer came in unto you, into your holy temple. They that observe lying vanities forsake their own mercy. But I will sacrifice unto you with the voice of thanksgiving. I will pay that that I have vowed. Salvation is of the Lord. And the Lord spoke unto the fish, and it vomited out Jonah upon the dry land.
+
+###### 6
+And the word of the Lord came unto Jonah the second time, saying, Arise, go unto Nineveh, that great city, and preach unto it the preaching that I bid you. So Jonah arose and went unto Nineveh according to the word of the Lord. Now Nineveh was an exceedingly great city of three days’ journey. And Jonah began to enter into the city a day’s journey, and he cried and said, Yet forty days and Nineveh shall be overthrown.
+
+###### 7
+So the people of Nineveh believed God, and proclaimed a fast, and put on sackcloth — from the greatest of them even to the least of them. For word came unto the king of Nineveh, and he arose from his throne, and he laid his robe from himself, and covered himself with sackcloth, and sat in ashes. And he caused it to be proclaimed and published through Nineveh by the decree of the king and his nobles, saying, Let neither man nor beast, herd nor flock, taste anything. Let them not feed nor drink water, but let man and beast be covered with sackcloth and cry mightily unto God. Yea, let them turn every one from his evil way and from the violence that is in their hands. Who can tell, if we will repent and turn unto God, but he will turn away from us his fierce anger, that we perish not?
+
+###### 8
+And God saw their works, that they turned from their evil way and repented. And God turned away the evil that he had said he would bring upon them.
+
+###### 9
+But it displeased Jonah exceedingly, and he was very angry. And he prayed unto the Lord and said, I pray you, O Lord, was not this my saying when I was yet in my country? Therefore, I fled before unto Tarshish; for I knew that you are a gracious God, and merciful, slow to anger and of great kindness, and you turn away the evil. Therefore now, O Lord, take, I implore you, my life from me, for it is better for me to die than to live. Then said the Lord, Do you do well to be angry?
+
+###### 10
+So Jonah went out of the city and sat on the east side of the city, and there made him a booth, and sat under it in the shadow until he might see what would become of the city. And the Lord God prepared a gourd and made it to come up over Jonah, that it might be a shadow over his head to deliver him from his grief. So Jonah was exceedingly glad of the gourd. But God prepared a worm when the morning rose the next day, and it smote the gourd, that it withered. And it came to pass when the sun did arise that God prepared a vehement east wind, and the sun beat upon the head of Jonah, that he fainted and wished in himself to die, and said, It is better for me to die than to live.
+
+###### 11
+And God said to Jonah, Do you do well to be angry for the gourd? And he said, I do well to be angry, even unto death. Then said the Lord, You have had pity on the gourd for which you have not labored, neither made it grow, which came up in a night and perished in a night. And should not I spare Nineveh, that great city, wherein are more than one hundred twenty thousand people that cannot discern between their right hand and their left hand, and also much cattle?

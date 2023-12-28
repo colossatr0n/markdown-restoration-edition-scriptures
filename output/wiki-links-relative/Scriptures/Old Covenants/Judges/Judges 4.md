@@ -1,4 +1,4 @@
-[[Judges 3.md|<< Judges 3]]  |  [[Judges 5.md|Judges 5 >>]]
+[[Judges 3|<< Judges 3]]  |  [[Judges 5|Judges 5 >>]]
 
 ### Chapter 4
 ###### 1

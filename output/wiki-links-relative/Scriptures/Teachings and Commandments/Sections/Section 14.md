@@ -1,4 +1,4 @@
-[[Section 13.md|<< Section 13]]  |  [[Section 15.md|Section 15 >>]]
+[[Section 13|<< Section 13]]  |  [[Section 15|Section 15 >>]]
 
 ### SECTION 14
 

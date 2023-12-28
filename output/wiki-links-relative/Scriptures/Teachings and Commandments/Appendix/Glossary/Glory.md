@@ -1,4 +1,4 @@
-[[Gifts of the Spirit.md|<< Gifts of the Spirit]]  |  [[Godliness.md|Godliness >>]]
+[[Gifts of the Spirit|<< Gifts of the Spirit]]  |  [[Godliness|Godliness >>]]
 
 ### Glory
 

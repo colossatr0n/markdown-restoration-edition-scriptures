@@ -1,4 +1,4 @@
-[[Excluded Revelations.md|<< Excluded Revelations]]  |  [[Glossary/Aaronic Priesthood.md|Aaronic Priesthood >>]]
+[[Excluded Revelations|<< Excluded Revelations]]  |  [[Glossary/Aaronic Priesthood|Aaronic Priesthood >>]]
 
 ### A PROPHET'S PREROGATIVE
 #### A COMPARATIVE STUDY

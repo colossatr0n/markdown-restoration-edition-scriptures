@@ -1,4 +1,4 @@
-[[3 Nephi 13.md|<< 3 Nephi 13]]  |  [[../4 Nephi/4 Nephi 1.md|4 Nephi 1 >>]]
+[[3 Nephi 13|<< 3 Nephi 13]]  |  [[../4 Nephi/4 Nephi 1|4 Nephi 1 >>]]
 
 ### Chapter 14
 ###### 1

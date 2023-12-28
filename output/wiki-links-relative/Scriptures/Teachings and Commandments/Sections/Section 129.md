@@ -1,4 +1,4 @@
-[[Section 128.md|<< Section 128]]  |  [[Section 130.md|Section 130 >>]]
+[[Section 128|<< Section 128]]  |  [[Section 130|Section 130 >>]]
 
 ### SECTION 129
 

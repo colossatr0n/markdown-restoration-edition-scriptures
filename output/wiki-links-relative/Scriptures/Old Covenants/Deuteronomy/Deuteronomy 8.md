@@ -1,4 +1,4 @@
-[[Deuteronomy 7.md|<< Deuteronomy 7]]  |  [[Deuteronomy 9.md|Deuteronomy 9 >>]]
+[[Deuteronomy 7|<< Deuteronomy 7]]  |  [[Deuteronomy 9|Deuteronomy 9 >>]]
 
 ### Chapter 8
 ###### 1

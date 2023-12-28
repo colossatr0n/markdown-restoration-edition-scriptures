@@ -1,2 +1,2 @@
-- [[Ezra 1.md|Ezra 1]]
-- [[Ezra 2.md|Ezra 2]]
+- [[Ezra 1]]
+- [[Ezra 2]]

@@ -1,4 +1,4 @@
-[[Exodus 11.md|<< Exodus 11]]  |  [[Exodus 13.md|Exodus 13 >>]]
+[[Exodus 11|<< Exodus 11]]  |  [[Exodus 13|Exodus 13 >>]]
 
 ### Chapter 12
 ###### 1

@@ -1,4 +1,4 @@
-[[Psalms 23.md|<< Psalms 23]]  |  [[Psalms 25.md|Psalms 25 >>]]
+[[Psalms 23|<< Psalms 23]]  |  [[Psalms 25|Psalms 25 >>]]
 
 ### Psalm 24
 

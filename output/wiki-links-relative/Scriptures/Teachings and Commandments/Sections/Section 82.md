@@ -1,4 +1,4 @@
-[[Section 81.md|<< Section 81]]  |  [[Section 83.md|Section 83 >>]]
+[[Section 81|<< Section 81]]  |  [[Section 83|Section 83 >>]]
 
 ### SECTION 82
 

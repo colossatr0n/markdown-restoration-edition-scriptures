@@ -1,4 +1,4 @@
-[[Unbelief.md|<< Unbelief]]  |  [[Unity.md|Unity >>]]
+[[Unbelief|<< Unbelief]]  |  [[Unity|Unity >>]]
 
 ### Under the Earth
 As used in Genesis 4:9, this is referring to the cycles of the “wandering stars” or planets. It does not refer to the subterranean composition of the earth’s mantle.1 When an object in the firmament moves below the horizon, it is “under the earth.”2

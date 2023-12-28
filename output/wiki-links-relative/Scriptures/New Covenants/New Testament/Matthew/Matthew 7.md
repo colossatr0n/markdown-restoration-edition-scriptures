@@ -1,4 +1,4 @@
-[[Matthew 6.md|<< Matthew 6]]  |  [[Matthew 8.md|Matthew 8 >>]]
+[[Matthew 6|<< Matthew 6]]  |  [[Matthew 8|Matthew 8 >>]]
 
 ### Chapter 7
 ###### 1

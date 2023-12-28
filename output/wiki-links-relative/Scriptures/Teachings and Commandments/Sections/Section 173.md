@@ -1,4 +1,4 @@
-[[Section 172.md|<< Section 172]]  |  [[Section 174.md|Section 174 >>]]
+[[Section 172|<< Section 172]]  |  [[Section 174|Section 174 >>]]
 
 ### SECTION 173
 

@@ -1,4 +1,4 @@
-[[Acts 6.md|<< Acts 6]]  |  [[Acts 8.md|Acts 8 >>]]
+[[Acts 6|<< Acts 6]]  |  [[Acts 8|Acts 8 >>]]
 
 ### Chapter 7
 ###### 1

@@ -1,4 +1,4 @@
-[[Genesis 11.md|<< Genesis 11]]  |  [[../Exodus/Exodus 1.md|Exodus 1 >>]]
+[[Genesis 11|<< Genesis 11]]  |  [[../Exodus/Exodus 1|Exodus 1 >>]]
 
 ### Chapter 12
 ###### 1

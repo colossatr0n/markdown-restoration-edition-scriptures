@@ -8,7 +8,7 @@
 ### A FACSIMILE FROM THE BOOK OF ABRAHAM
 ### NO. 1
 
-![[Images.tc.fac1.jpg]]
+![[Images.tc.fac1.jpg|Images.tc.fac1]]
 
 EXPLANATION OF THE ABOVE CUT
 

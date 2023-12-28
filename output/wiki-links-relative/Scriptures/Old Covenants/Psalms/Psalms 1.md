@@ -1,4 +1,4 @@
-[[../Job/Job 13.md|<< Job 13]]  |  [[Psalms 2.md|Psalms 2 >>]]
+[[../Job/Job 13|<< Job 13]]  |  [[Psalms 2|Psalms 2 >>]]
 
 # THE BOOK OF PSALMS
 ### Psalm 1

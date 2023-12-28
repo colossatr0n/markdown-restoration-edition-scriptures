@@ -1,0 +1,2 @@
+- [Hosea 1](Hosea%201)
+- [Hosea 2](Hosea%202)

@@ -1,4 +1,4 @@
-[[../A Glossary of Gospel Terms/A Glossary of Gospel Terms.md|<< A Glossary of Gospel Terms]]  |  [[Isle of the Sea.md|Isle of the Sea >>]]
+[[../A Glossary of Gospel Terms/A Glossary of Gospel Terms|<< A Glossary of Gospel Terms]]  |  [[Isle of the Sea|Isle of the Sea >>]]
 
 ### Iron Rod
 The *word of God* (1 Nephi 3:10; 1 Nephi 4:5), as seen in vision by both Lehi and Nephi; the path back to the tree of life is found in the revelations from God, as contained, in large measure, in the scriptures. Scriptures are of vital importance to mankind. Nephi has an angel instructing him, as well as Christ being shown to him, and the message includes this specific teaching about the importance of revelations and the scriptures.1

@@ -1,4 +1,4 @@
-[[../Esther/Esther 1.md|<< Esther 1]]  |  [[Job 2.md|Job 2 >>]]
+[[../Esther/Esther 1|<< Esther 1]]  |  [[Job 2|Job 2 >>]]
 
 # THE BOOK OF JOB
 ### Chapter 1

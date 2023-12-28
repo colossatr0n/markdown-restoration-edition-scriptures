@@ -1,4 +1,4 @@
-[[Numbers 8.md|<< Numbers 8]]  |  [[Numbers 10.md|Numbers 10 >>]]
+[[Numbers 8|<< Numbers 8]]  |  [[Numbers 10|Numbers 10 >>]]
 
 ### Chapter 9
 ###### 1

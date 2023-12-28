@@ -1,4 +1,4 @@
-[[Job 12.md|<< Job 12]]  |  [[../Psalms/Psalms 1.md|Psalms 1 >>]]
+[[Job 12|<< Job 12]]  |  [[../Psalms/Psalms 1|Psalms 1 >>]]
 
 ### Chapter 13
 ###### 1

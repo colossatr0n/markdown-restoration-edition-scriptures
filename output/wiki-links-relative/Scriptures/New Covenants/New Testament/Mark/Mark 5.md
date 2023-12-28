@@ -1,4 +1,4 @@
-[[Mark 4.md|<< Mark 4]]  |  [[Mark 6.md|Mark 6 >>]]
+[[Mark 4|<< Mark 4]]  |  [[Mark 6|Mark 6 >>]]
 
 ### Chapter 5
 ###### 1

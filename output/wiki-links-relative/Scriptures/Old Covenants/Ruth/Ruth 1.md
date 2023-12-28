@@ -1,4 +1,4 @@
-[[../Judges/Judges 8.md|<< Judges 8]]  |  [[Ruth 2.md|Ruth 2 >>]]
+[[../Judges/Judges 8|<< Judges 8]]  |  [[Ruth 2|Ruth 2 >>]]
 
 # THE BOOK OF RUTH
 ### Chapter 1

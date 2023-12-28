@@ -1,4 +1,4 @@
-[[Under the Earth.md|<< Under the Earth]]  |  [[Unpardonable Sin.md|Unpardonable Sin >>]]
+[[Under the Earth|<< Under the Earth]]  |  [[Unpardonable Sin|Unpardonable Sin >>]]
 
 ### Unity
 Oneness and undivided; having the same spirit dwelling in them.1

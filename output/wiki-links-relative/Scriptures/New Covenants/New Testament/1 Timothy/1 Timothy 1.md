@@ -1,4 +1,4 @@
-[[../2 Thessalonians/2 Thessalonians 1.md|<< 2 Thessalonians 1]]  |  [[../2 Timothy/2 Timothy 1.md|2 Timothy 1 >>]]
+[[../2 Thessalonians/2 Thessalonians 1|<< 2 Thessalonians 1]]  |  [[../2 Timothy/2 Timothy 1|2 Timothy 1 >>]]
 
 # THE FIRST EPISTLE TO TIMOTHY
 ###### 1

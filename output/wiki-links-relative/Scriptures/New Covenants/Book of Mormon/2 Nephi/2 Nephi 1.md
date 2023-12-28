@@ -1,4 +1,4 @@
-[[../1 Nephi/1 Nephi 7.md|<< 1 Nephi 7]]  |  [[2 Nephi 2.md|2 Nephi 2 >>]]
+[[../1 Nephi/1 Nephi 7|<< 1 Nephi 7]]  |  [[2 Nephi 2|2 Nephi 2 >>]]
 
 # THE SECOND BOOK OF NEPHI
 

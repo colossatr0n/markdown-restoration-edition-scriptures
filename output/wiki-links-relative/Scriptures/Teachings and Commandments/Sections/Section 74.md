@@ -1,4 +1,4 @@
-[[Section 73.md|<< Section 73]]  |  [[Section 75.md|Section 75 >>]]
+[[Section 73|<< Section 73]]  |  [[Section 75|Section 75 >>]]
 
 ### SECTION 74
 

@@ -1,4 +1,4 @@
-[[../Ephesians/Ephesians 1.md|<< Ephesians 1]]  |  [[../Colossians/Colossians 1.md|Colossians 1 >>]]
+[[../Ephesians/Ephesians 1|<< Ephesians 1]]  |  [[../Colossians/Colossians 1|Colossians 1 >>]]
 
 # THE EPISTLE TO THE PHILIPPIANS
 ###### 1

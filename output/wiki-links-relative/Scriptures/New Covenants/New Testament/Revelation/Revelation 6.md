@@ -1,4 +1,4 @@
-[[Revelation 5.md|<< Revelation 5]]  |  [[Revelation 7.md|Revelation 7 >>]]
+[[Revelation 5|<< Revelation 5]]  |  [[Revelation 7|Revelation 7 >>]]
 
 ### Chapter 6
 ###### 1

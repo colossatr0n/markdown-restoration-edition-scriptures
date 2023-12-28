@@ -1,4 +1,4 @@
-[[Attain to the Resurrection of the Dead.md|<< Attain to the Resurrection of the Dead]]  |  [[Awake and Arise.md|Awake and Arise >>]]
+[[Attain to the Resurrection of the Dead|<< Attain to the Resurrection of the Dead]]  |  [[Awake and Arise|Awake and Arise >>]]
 
 ### Authoritative
 Approved by God and binding upon man.1

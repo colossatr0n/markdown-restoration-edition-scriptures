@@ -1,4 +1,4 @@
-[[Pure in Heart.md|<< Pure in Heart]]  |  [[Raise Up Seed.md|Raise Up Seed >>]]
+[[Pure in Heart|<< Pure in Heart]]  |  [[Raise Up Seed|Raise Up Seed >>]]
 
 ### Rabbi
 A title which means “acknowledged teacher.”1

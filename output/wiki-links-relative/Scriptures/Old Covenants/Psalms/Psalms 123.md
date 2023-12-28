@@ -1,4 +1,4 @@
-[[Psalms 122.md|<< Psalms 122]]  |  [[Psalms 124.md|Psalms 124 >>]]
+[[Psalms 122|<< Psalms 122]]  |  [[Psalms 124|Psalms 124 >>]]
 
 ### Psalm 123
 

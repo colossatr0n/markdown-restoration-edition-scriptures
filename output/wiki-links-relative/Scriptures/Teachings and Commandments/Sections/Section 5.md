@@ -1,4 +1,4 @@
-[[Section 4.md|<< Section 4]]  |  [[Section 6.md|Section 6 >>]]
+[[Section 4|<< Section 4]]  |  [[Section 6|Section 6 >>]]
 
 ### SECTION 5
 

@@ -1,4 +1,4 @@
-[[../Psalms/Psalms 150.md|<< Psalms 150]]  |  [[Proverbs 2.md|Proverbs 2 >>]]
+[[../Psalms/Psalms 150|<< Psalms 150]]  |  [[Proverbs 2|Proverbs 2 >>]]
 
 # THE PROVERBS
 ### Chapter 1

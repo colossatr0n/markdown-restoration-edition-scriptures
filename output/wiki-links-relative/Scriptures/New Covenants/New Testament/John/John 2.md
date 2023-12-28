@@ -1,4 +1,4 @@
-[[John 1.md|<< John 1]]  |  [[John 3.md|John 3 >>]]
+[[John 1|<< John 1]]  |  [[John 3|John 3 >>]]
 
 ### Chapter 2
 ###### 1

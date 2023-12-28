@@ -1,0 +1,9 @@
+[<< Strange Act](Strange%20Act.md)  |  [Studying the Scriptures >>](Studying%20the%20Scriptures.md)
+
+### Stretched Forth His Hand
+
+*And now it came to pass that after Abinadi had spoken these words, he stretched forth his hands and said, The time shall come when all shall see the salvation of the Lord, when every nation, kindred, tongue, and people shall see eye to eye and shall confess before God that his judgments are just* (Mosiah 8:13). Mosiah 7:17 helps one to understand what *he stretched forth his hand(s) *means: *The Lord hath made bare his holy arm in the eyes of all the nations.* Abinadi is demonstrating the Lord’s action, thereby affirming he is His messenger. He had been given the sign to testify and used it to declare he was a true messenger. Later in the Nephite history, the prophet Alma concluded his testimony of Melchizedek by using the same sign to evidence his authority: *And now it came to pass that when Alma had said these words unto them, he stretched forth his hand unto them and cried with a mighty voice, saying, Now is the time to repent, for the day of salvation draweth nigh!* (Alma 10:3). He used this sign because he was authorized to do so, and he understood what the declaration meant. Although those who were there may not have understood, it was a sign that he was a true messenger. Man cannot be saved in ignorance. Once the key of knowledge is lost, mankind is lost and cannot be saved until that key is returned. Prophets sent with messages who testify to an ignorant people use signs that the Lord recognizes and authorizes, but they may not be noticed or understood by those who hear the message. Nevertheless, the testimony becomes binding when the Lord’s seal is put upon it. This often involves a required sign to be given, or in other words, for hands to be stretched forth.1
+
+
+
+1 “A Couple of Questions,” Jan. 30, 2013, blog post.

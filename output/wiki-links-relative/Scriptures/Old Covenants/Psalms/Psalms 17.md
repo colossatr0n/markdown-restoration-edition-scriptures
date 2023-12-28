@@ -1,4 +1,4 @@
-[[Psalms 16.md|<< Psalms 16]]  |  [[Psalms 18.md|Psalms 18 >>]]
+[[Psalms 16|<< Psalms 16]]  |  [[Psalms 18|Psalms 18 >>]]
 
 ### Psalm 17
 

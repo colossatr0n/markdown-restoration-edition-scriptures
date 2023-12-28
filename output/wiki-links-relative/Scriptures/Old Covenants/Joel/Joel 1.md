@@ -1,4 +1,4 @@
-[[../Hosea/Hosea 2.md|<< Hosea 2]]  |  [[../Amos/Amos 1.md|Amos 1 >>]]
+[[../Hosea/Hosea 2|<< Hosea 2]]  |  [[../Amos/Amos 1|Amos 1 >>]]
 
 # JOEL
 

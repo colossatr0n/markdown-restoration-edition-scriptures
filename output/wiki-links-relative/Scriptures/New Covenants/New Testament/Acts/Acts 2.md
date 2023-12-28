@@ -1,4 +1,4 @@
-[[Acts 1.md|<< Acts 1]]  |  [[Acts 3.md|Acts 3 >>]]
+[[Acts 1|<< Acts 1]]  |  [[Acts 3|Acts 3 >>]]
 
 ### Chapter 2
 ###### 1

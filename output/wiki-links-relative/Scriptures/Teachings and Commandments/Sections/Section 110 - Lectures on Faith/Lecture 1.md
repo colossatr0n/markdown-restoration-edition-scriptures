@@ -1,4 +1,4 @@
-[[Lecture Preface.md|<< Lecture Preface]]  |  [[Lecture 2.md|Lecture 2 >>]]
+[[Lecture Preface|<< Lecture Preface]]  |  [[Lecture 2|Lecture 2 >>]]
 
 ### THEOLOGY
 ### LECTURE FIRST

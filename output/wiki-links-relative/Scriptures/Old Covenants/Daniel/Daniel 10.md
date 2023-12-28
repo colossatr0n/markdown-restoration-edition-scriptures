@@ -1,4 +1,4 @@
-[[Daniel 9.md|<< Daniel 9]]  |  [[../Hosea/Hosea 1.md|Hosea 1 >>]]
+[[Daniel 9|<< Daniel 9]]  |  [[../Hosea/Hosea 1|Hosea 1 >>]]
 
 ### Chapter 10
 ###### 1

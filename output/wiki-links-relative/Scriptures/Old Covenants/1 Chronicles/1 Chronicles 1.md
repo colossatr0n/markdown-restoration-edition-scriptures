@@ -1,4 +1,4 @@
-[[../2 Kings/2 Kings 8.md|<< 2 Kings 8]]  |  [[1 Chronicles 2.md|1 Chronicles 2 >>]]
+[[../2 Kings/2 Kings 8|<< 2 Kings 8]]  |  [[1 Chronicles 2|1 Chronicles 2 >>]]
 
 # THE FIRST BOOK OF THE CHRONICLES
 ### Chapter 1

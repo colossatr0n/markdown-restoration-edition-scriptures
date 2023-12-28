@@ -1,0 +1,8 @@
+[<< Section 147](Section%20147.md)  |  [Section 149 >>](Section%20149.md)
+
+### SECTION 148
+
+*A revelation given at Nauvoo, Illinois, 19 May 1842, through Joseph Smith Jr. regarding Hiram Kimball.*
+
+###### 1
+Verily thus says the Lord unto you my servant Joseph by the voice of my spirit: Hiram Kimball has been insinuating evil and forming evil opinions against you with others, and if he continue in them, he and they shall be accursed, for I am the Lord your God and will stand by you, and bless you. Amen.

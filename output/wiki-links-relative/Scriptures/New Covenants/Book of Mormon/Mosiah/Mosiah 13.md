@@ -1,4 +1,4 @@
-[[Mosiah 12.md|<< Mosiah 12]]  |  [[../Alma/Alma 1.md|Alma 1 >>]]
+[[Mosiah 12|<< Mosiah 12]]  |  [[../Alma/Alma 1|Alma 1 >>]]
 
 ### Chapter 13
 ###### 1

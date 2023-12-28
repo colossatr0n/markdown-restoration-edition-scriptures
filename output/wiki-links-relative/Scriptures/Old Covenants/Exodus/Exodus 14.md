@@ -1,4 +1,4 @@
-[[Exodus 13.md|<< Exodus 13]]  |  [[Exodus 15.md|Exodus 15 >>]]
+[[Exodus 13|<< Exodus 13]]  |  [[Exodus 15|Exodus 15 >>]]
 
 ### Chapter 14
 ###### 1

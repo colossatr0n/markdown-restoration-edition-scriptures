@@ -1,4 +1,4 @@
-[[Lord’s Anointed.md|<< Lord’s Anointed]]  |  [[Love.md|Love >>]]
+[[Lord’s Anointed|<< Lord’s Anointed]]  |  [[Love|Love >>]]
 
 ### Lord’s Supper
 

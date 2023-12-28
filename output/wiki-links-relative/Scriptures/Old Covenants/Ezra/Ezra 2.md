@@ -1,4 +1,4 @@
-[[Ezra 1.md|<< Ezra 1]]  |  [[../Nehemiah/Nehemiah 1.md|Nehemiah 1 >>]]
+[[Ezra 1|<< Ezra 1]]  |  [[../Nehemiah/Nehemiah 1|Nehemiah 1 >>]]
 
 ### Chapter 2
 ###### 1

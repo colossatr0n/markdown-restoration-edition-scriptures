@@ -1,4 +1,4 @@
-[[../Alma/Alma 30.md|<< Alma 30]]  |  [[Helaman 2.md|Helaman 2 >>]]
+[[../Alma/Alma 30|<< Alma 30]]  |  [[Helaman 2|Helaman 2 >>]]
 
 # THE BOOK OF HELAMAN
 

@@ -1,4 +1,4 @@
-[[../Amos/Amos 1.md|<< Amos 1]]  |  [[../Jonah/Jonah 1.md|Jonah 1 >>]]
+[[../Amos/Amos 1|<< Amos 1]]  |  [[../Jonah/Jonah 1|Jonah 1 >>]]
 
 # OBADIAH
 

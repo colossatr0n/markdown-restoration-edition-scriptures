@@ -1,4 +1,4 @@
-[[../Isaiah/Isaiah 25.md|<< Isaiah 25]]  |  [[Jeremiah 2.md|Jeremiah 2 >>]]
+[[../Isaiah/Isaiah 25|<< Isaiah 25]]  |  [[Jeremiah 2|Jeremiah 2 >>]]
 
 # THE BOOK OF THE PROPHET JEREMIAH
 ### Chapter 1

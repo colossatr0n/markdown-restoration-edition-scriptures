@@ -1,4 +1,4 @@
-[[Revelation.md|<< Revelation]]  |  [[Rights Belonging to the Fathers.md|Rights Belonging to the Fathers >>]]
+[[Revelation|<< Revelation]]  |  [[Rights Belonging to the Fathers|Rights Belonging to the Fathers >>]]
 
 ### Righteousness
 Conformity to the Divine Law.1 God measures differently than does man. Being “righteous before God” may not mean the same thing one thinks “righteousness” means. Man wants outward signs, symbols, dress, grooming, and conformity. God looks at the intent of the heart.2 Righteousness comes by obedience. Obedience requires action. Without conforming conduct to the Lord’s commandments, it is impossible to enter into the kingdom of heaven.3

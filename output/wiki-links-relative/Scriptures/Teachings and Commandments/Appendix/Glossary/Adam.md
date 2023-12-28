@@ -1,4 +1,4 @@
-[[Accuse.md|<< Accuse]]  |  [[Adam-Ondi-Ahman.md|Adam-Ondi-Ahman >>]]
+[[Accuse|<< Accuse]]  |  [[Adam-Ondi-Ahman|Adam-Ondi-Ahman >>]]
 
 ### Adam
 

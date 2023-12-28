@@ -1,4 +1,4 @@
-[[Leviticus 6.md|<< Leviticus 6]]  |  [[Leviticus 8.md|Leviticus 8 >>]]
+[[Leviticus 6|<< Leviticus 6]]  |  [[Leviticus 8|Leviticus 8 >>]]
 
 ### Chapter 7
 ###### 1

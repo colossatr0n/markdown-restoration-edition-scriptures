@@ -1,4 +1,4 @@
-[[Lord’s Supper.md|<< Lord’s Supper]]  |  [[Lucifer.md|Lucifer >>]]
+[[Lord’s Supper|<< Lord’s Supper]]  |  [[Lucifer|Lucifer >>]]
 
 ### Love
 There are two great forces at work in the universe. One is entropy — everything is getting colder, darker, and dissolving. This force is unrelenting and can be found everywhere in the physical world. Opposing it, however, is something that is creative, renewing, and equally unrelenting. This force that renews life, introduces new energy, and forms new systems is God’s work — it is, in a word, love, or in the vernacular of the scriptures, it is charity.1*See also* CHARITY*.*

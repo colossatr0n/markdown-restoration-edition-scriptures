@@ -1,4 +1,4 @@
-[[Section 53.md|<< Section 53]]  |  [[Section 55.md|Section 55 >>]]
+[[Section 53|<< Section 53]]  |  [[Section 55|Section 55 >>]]
 
 ### SECTION 54
 

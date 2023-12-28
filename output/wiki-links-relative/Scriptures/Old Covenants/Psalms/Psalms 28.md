@@ -1,4 +1,4 @@
-[[Psalms 27.md|<< Psalms 27]]  |  [[Psalms 29.md|Psalms 29 >>]]
+[[Psalms 27|<< Psalms 27]]  |  [[Psalms 29|Psalms 29 >>]]
 
 ### Psalm 28
 

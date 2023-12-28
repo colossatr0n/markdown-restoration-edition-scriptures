@@ -1,4 +1,4 @@
-[[Psalms 46.md|<< Psalms 46]]  |  [[Psalms 48.md|Psalms 48 >>]]
+[[Psalms 46|<< Psalms 46]]  |  [[Psalms 48|Psalms 48 >>]]
 
 ### Psalm 47
 

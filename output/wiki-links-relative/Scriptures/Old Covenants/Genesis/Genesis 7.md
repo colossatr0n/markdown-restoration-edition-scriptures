@@ -1,4 +1,4 @@
-[[Genesis 6.md|<< Genesis 6]]  |  [[Genesis 8.md|Genesis 8 >>]]
+[[Genesis 6|<< Genesis 6]]  |  [[Genesis 8|Genesis 8 >>]]
 
 ### Chapter 7
 ###### 1

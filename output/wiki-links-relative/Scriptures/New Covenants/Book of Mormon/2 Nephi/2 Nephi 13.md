@@ -1,4 +1,4 @@
-[[2 Nephi 12.md|<< 2 Nephi 12]]  |  [[2 Nephi 14.md|2 Nephi 14 >>]]
+[[2 Nephi 12|<< 2 Nephi 12]]  |  [[2 Nephi 14|2 Nephi 14 >>]]
 
 ### Chapter 13
 ###### 1

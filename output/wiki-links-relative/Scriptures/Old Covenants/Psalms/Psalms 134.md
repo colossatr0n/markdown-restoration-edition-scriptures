@@ -1,4 +1,4 @@
-[[Psalms 133.md|<< Psalms 133]]  |  [[Psalms 135.md|Psalms 135 >>]]
+[[Psalms 133|<< Psalms 133]]  |  [[Psalms 135|Psalms 135 >>]]
 
 ### Psalm 134
 

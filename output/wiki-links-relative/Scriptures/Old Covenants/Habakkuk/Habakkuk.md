@@ -1,2 +1,2 @@
-- [[Habakkuk 1.md|Habakkuk 1]]
-- [[Habakkuk 2.md|Habakkuk 2]]
+- [[Habakkuk 1]]
+- [[Habakkuk 2]]

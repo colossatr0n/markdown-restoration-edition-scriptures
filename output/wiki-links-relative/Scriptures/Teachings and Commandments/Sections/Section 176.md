@@ -1,4 +1,4 @@
-[[Section 175.md|<< Section 175]]  |  [[Section 177.md|Section 177 >>]]
+[[Section 175|<< Section 175]]  |  [[Section 177|Section 177 >>]]
 
 ### SECTION 176
 

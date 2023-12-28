@@ -3,7 +3,7 @@
 ### A FACSIMILE FROM THE BOOK OF ABRAHAM
 ### NO. 3
 
-![[Images.tc.fac3.jpg]]
+![[Images.tc.fac3.jpg|Images.tc.fac3]]
 
 EXPLANATION OF THE ABOVE CUT
 

@@ -1,4 +1,4 @@
-[[3 Nephi 2.md|<< 3 Nephi 2]]  |  [[3 Nephi 4.md|3 Nephi 4 >>]]
+[[3 Nephi 2|<< 3 Nephi 2]]  |  [[3 Nephi 4|3 Nephi 4 >>]]
 
 ### Chapter 3
 ###### 1

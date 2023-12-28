@@ -1,4 +1,4 @@
-[[Matthew 8.md|<< Matthew 8]]  |  [[Matthew 10.md|Matthew 10 >>]]
+[[Matthew 8|<< Matthew 8]]  |  [[Matthew 10|Matthew 10 >>]]
 
 ### Chapter 9
 ###### 1

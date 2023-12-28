@@ -1,4 +1,4 @@
-[[Psalms 49.md|<< Psalms 49]]  |  [[Psalms 51.md|Psalms 51 >>]]
+[[Psalms 49|<< Psalms 49]]  |  [[Psalms 51|Psalms 51 >>]]
 
 ### Psalm 50
 

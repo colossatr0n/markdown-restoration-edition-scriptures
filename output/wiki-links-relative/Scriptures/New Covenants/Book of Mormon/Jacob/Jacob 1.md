@@ -1,4 +1,4 @@
-[[../2 Nephi/2 Nephi 15.md|<< 2 Nephi 15]]  |  [[Jacob 2.md|Jacob 2 >>]]
+[[../2 Nephi/2 Nephi 15|<< 2 Nephi 15]]  |  [[Jacob 2|Jacob 2 >>]]
 
 # THE BOOK OF JACOB
 ### THE BROTHER OF NEPHI

@@ -1,4 +1,4 @@
-[[Section 68.md|<< Section 68]]  |  [[Section 70.md|Section 70 >>]]
+[[Section 68|<< Section 68]]  |  [[Section 70|Section 70 >>]]
 
 ### SECTION 69
 

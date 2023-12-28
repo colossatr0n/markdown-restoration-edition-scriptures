@@ -1,4 +1,4 @@
-[[Lecture 6.md|<< Lecture 6]]  |  [[../Section 111.md|Section 111 >>]]
+[[Lecture 6|<< Lecture 6]]  |  [[../Section 111|Section 111 >>]]
 
 ### LECTURE SEVENTH
 #### Of Faith

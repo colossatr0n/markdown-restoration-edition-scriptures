@@ -1,4 +1,4 @@
-[[Psalms 63.md|<< Psalms 63]]  |  [[Psalms 65.md|Psalms 65 >>]]
+[[Psalms 63|<< Psalms 63]]  |  [[Psalms 65|Psalms 65 >>]]
 
 ### Psalm 64
 

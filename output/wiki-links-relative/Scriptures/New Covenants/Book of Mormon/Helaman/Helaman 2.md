@@ -1,4 +1,4 @@
-[[Helaman 1.md|<< Helaman 1]]  |  [[Helaman 3.md|Helaman 3 >>]]
+[[Helaman 1|<< Helaman 1]]  |  [[Helaman 3|Helaman 3 >>]]
 
 ### Chapter 2
 ###### 1

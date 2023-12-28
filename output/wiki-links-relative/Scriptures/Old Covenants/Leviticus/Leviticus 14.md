@@ -1,4 +1,4 @@
-[[Leviticus 13.md|<< Leviticus 13]]  |  [[../Numbers/Numbers 1.md|Numbers 1 >>]]
+[[Leviticus 13|<< Leviticus 13]]  |  [[../Numbers/Numbers 1|Numbers 1 >>]]
 
 ### Chapter 14
 ###### 1

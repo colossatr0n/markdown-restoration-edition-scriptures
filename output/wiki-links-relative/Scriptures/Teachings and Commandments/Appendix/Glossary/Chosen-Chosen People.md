@@ -1,4 +1,4 @@
-[[Children of the Prophets.md|<< Children of the Prophets]]  |  [[Chosen Vessel.md|Chosen Vessel >>]]
+[[Children of the Prophets|<< Children of the Prophets]]  |  [[Chosen Vessel|Chosen Vessel >>]]
 
 ### Chosen/Chosen People
 When God begins to work with a people, the group becomes “chosen” and, therefore, the focus of His continuing efforts to save mankind. Although “chosen people” do not always remain faithful to Him, they do remain the center of His work.1 When a people are “chosen” by the Lord, He generally endows them with specific gifts or blessings. Whether they are ancient or modern, in the Old World or New, they are almost always given a specific set of gifts as part of a covenant. These covenant-based gifts generally include the following, in no particular order: a promised land, self-government, sacred space with sacred artifacts, angelic visitors, “signs” of His presence, sacred records which expand through a growing body of revelation, and ordinances.2

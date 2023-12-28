@@ -1,4 +1,4 @@
-[[../Section 144.md|<< Section 144]]  |  [[Section 145 - Abraham 1.md|Section 145 - Abraham 1 >>]]
+[[../Section 144|<< Section 144]]  |  [[Section 145 - Abraham 1|Section 145 - Abraham 1 >>]]
 
 # THE BOOK OF ABRAHAM
 ### Section 145
@@ -8,7 +8,7 @@
 ### A FACSIMILE FROM THE BOOK OF ABRAHAM
 ### NO. 1
 
-![[Images.tc.fac1.jpg]]
+![[../../../assets/Images.tc.fac1.jpg|Images.tc.fac1]]
 
 EXPLANATION OF THE ABOVE CUT
 

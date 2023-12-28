@@ -1,4 +1,4 @@
-[[Jeremiah 3.md|<< Jeremiah 3]]  |  [[Jeremiah 5.md|Jeremiah 5 >>]]
+[[Jeremiah 3|<< Jeremiah 3]]  |  [[Jeremiah 5|Jeremiah 5 >>]]
 
 ### Chapter 4
 ###### 1

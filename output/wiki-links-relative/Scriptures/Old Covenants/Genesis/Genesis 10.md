@@ -1,4 +1,4 @@
-[[Genesis 9.md|<< Genesis 9]]  |  [[Genesis 11.md|Genesis 11 >>]]
+[[Genesis 9|<< Genesis 9]]  |  [[Genesis 11|Genesis 11 >>]]
 
 ### Chapter 10
 ###### 1

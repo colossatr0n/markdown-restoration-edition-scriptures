@@ -1,9 +1,9 @@
-[[Section 145 - Abraham 7.md|<< Section 145 - Abraham 7]]  |  [[Facsimile 3.md|Facsimile 3 >>]]
+[[Section 145 - Abraham 7|<< Section 145 - Abraham 7]]  |  [[Facsimile 3|Facsimile 3 >>]]
 
 ### A FACSIMILE FROM THE BOOK OF ABRAHAM
 ### NO. 2
 
-![[Images.tc.fac2.jpg]]
+![[../../../assets/Images.tc.fac2.jpg|Images.tc.fac2]]
 
 EXPLANATION OF THE ABOVE CUT
 

@@ -1,4 +1,4 @@
-[[End, The.md|<< End, The]]  |  [[Eternal Life.md|Eternal Life >>]]
+[[End, The|<< End, The]]  |  [[Eternal Life|Eternal Life >>]]
 
 ### Endure to the End
 

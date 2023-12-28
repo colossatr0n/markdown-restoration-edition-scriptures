@@ -1,4 +1,4 @@
-[[../Jacob/Jacob 5.md|<< Jacob 5]]  |  [[../Jarom/Jarom 1.md|Jarom 1 >>]]
+[[../Jacob/Jacob 5|<< Jacob 5]]  |  [[../Jarom/Jarom 1|Jarom 1 >>]]
 
 # THE BOOK OF ENOS
 ###### 1

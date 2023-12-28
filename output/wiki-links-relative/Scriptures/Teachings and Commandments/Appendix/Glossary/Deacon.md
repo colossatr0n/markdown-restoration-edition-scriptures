@@ -1,4 +1,4 @@
-[[Day.md|<< Day]]  |  [[Deny the Holy Ghost.md|Deny the Holy Ghost >>]]
+[[Day|<< Day]]  |  [[Deny the Holy Ghost|Deny the Holy Ghost >>]]
 
 ### Deacon
 In its earliest form (meeting informally for worship), small groups were led by both men and women called *diákonos* (διάκονος), a word that is translated into English as either “deacon” or “deaconess.” That Greek word means “servant.”1 It was in these home meetings where original Christians worshipped and learned of Christ and Christianity.2

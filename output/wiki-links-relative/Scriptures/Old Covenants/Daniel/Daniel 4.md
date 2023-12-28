@@ -1,4 +1,4 @@
-[[Daniel 3.md|<< Daniel 3]]  |  [[Daniel 5.md|Daniel 5 >>]]
+[[Daniel 3|<< Daniel 3]]  |  [[Daniel 5|Daniel 5 >>]]
 
 ### Chapter 4
 ###### 1

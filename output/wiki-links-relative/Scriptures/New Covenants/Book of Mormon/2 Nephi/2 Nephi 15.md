@@ -1,4 +1,4 @@
-[[2 Nephi 14.md|<< 2 Nephi 14]]  |  [[../Jacob/Jacob 1.md|Jacob 1 >>]]
+[[2 Nephi 14|<< 2 Nephi 14]]  |  [[../Jacob/Jacob 1|Jacob 1 >>]]
 
 ### Chapter 15
 ###### 1

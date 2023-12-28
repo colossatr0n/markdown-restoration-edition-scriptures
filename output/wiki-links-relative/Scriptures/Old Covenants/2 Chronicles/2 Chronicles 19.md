@@ -1,4 +1,4 @@
-[[2 Chronicles 18.md|<< 2 Chronicles 18]]  |  [[../Ezra/Ezra 1.md|Ezra 1 >>]]
+[[2 Chronicles 18|<< 2 Chronicles 18]]  |  [[../Ezra/Ezra 1|Ezra 1 >>]]
 
 ### Chapter 19
 ###### 1

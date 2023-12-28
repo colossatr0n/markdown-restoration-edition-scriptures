@@ -1,4 +1,4 @@
-[[Section 171 - Testimony of St. John 10.md|<< Section 171 - Testimony of St. John 10]]  |  [[Section 171 - Testimony of St. John 12.md|Section 171 - Testimony of St. John 12 >>]]
+[[Section 171 - Testimony of St. John 10|<< Section 171 - Testimony of St. John 10]]  |  [[Section 171 - Testimony of St. John 12|Section 171 - Testimony of St. John 12 >>]]
 
 ### Chapter 11
 ###### 1

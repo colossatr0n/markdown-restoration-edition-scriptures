@@ -1,4 +1,4 @@
-[[Alma 17.md|<< Alma 17]]  |  [[Alma 19.md|Alma 19 >>]]
+[[Alma 17|<< Alma 17]]  |  [[Alma 19|Alma 19 >>]]
 
 ### Chapter 18
 

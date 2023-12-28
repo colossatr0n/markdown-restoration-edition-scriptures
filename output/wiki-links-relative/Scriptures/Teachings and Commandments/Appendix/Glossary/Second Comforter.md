@@ -1,4 +1,4 @@
-[[Sealing Power.md|<< Sealing Power]]  |  [[Seed of Abraham.md|Seed of Abraham >>]]
+[[Sealing Power|<< Sealing Power]]  |  [[Seed of Abraham|Seed of Abraham >>]]
 
 ### Second Comforter
 

@@ -1,4 +1,4 @@
-[[Transgression.md|<< Transgression]]  |  [[Trust in Man.md|Trust in Man >>]]
+[[Transgression|<< Transgression]]  |  [[Trust in Man|Trust in Man >>]]
 
 ### Translation
 

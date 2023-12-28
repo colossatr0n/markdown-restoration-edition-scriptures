@@ -1,4 +1,4 @@
-[[Ezekiel 3.md|<< Ezekiel 3]]  |  [[Ezekiel 5.md|Ezekiel 5 >>]]
+[[Ezekiel 3|<< Ezekiel 3]]  |  [[Ezekiel 5|Ezekiel 5 >>]]
 
 ### Chapter 4
 ###### 1

@@ -1,4 +1,4 @@
-[[Section 145 - Abraham 4.md|<< Section 145 - Abraham 4]]  |  [[Section 145 - Abraham 6.md|Section 145 - Abraham 6 >>]]
+[[Section 145 - Abraham 4|<< Section 145 - Abraham 4]]  |  [[Section 145 - Abraham 6|Section 145 - Abraham 6 >>]]
 
 ### Chapter 5
 ###### 1

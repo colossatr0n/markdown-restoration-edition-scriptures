@@ -1,4 +1,4 @@
-[[Ether 4.md|<< Ether 4]]  |  [[Ether 6.md|Ether 6 >>]]
+[[Ether 4|<< Ether 4]]  |  [[Ether 6|Ether 6 >>]]
 
 ### Chapter 5
 ###### 1
