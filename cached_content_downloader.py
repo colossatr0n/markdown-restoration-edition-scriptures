@@ -46,9 +46,10 @@ class CachedContentDownloader(object):
         # Download HTML for all materials
         all_paths = []
         # Occasionally a link will be improperly formatted with a literal space in the href.
-        all_paths.extend([path.replace(' ', '') for path in paths])
+        paths = [path.replace(' ', '') for path in paths]
         for path in paths:
             soup = self.retrieve_html(path)
+            all_paths.append(path)
             if is_toc(soup):
                 additional_paths = self.recursive_retrieve_html(get_paths(soup), i=i)
                 all_paths.extend(additional_paths)

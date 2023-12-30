@@ -1,5 +1,6 @@
 import argparse
 import os
+import re
 import shutil
 import sys
 
@@ -20,9 +21,10 @@ def main(args):
 
     content_loader = CachedContentDownloader(CACHE_DIR, HtmlLoader(), ContentDownloader(ScripturesClient()))
 
-    material_paths = content_loader.recursive_retrieve_html(TOC_PATHS)
+    material_paths = []
+    for path in TOC_PATHS:
+        material_paths.extend(content_loader.recursive_retrieve_html([path]))
 
-    material_paths.extend(TOC_PATHS)
     obsidian_link_by_path = {}
     obsidian_img_link_by_path = {}
 
@@ -78,12 +80,29 @@ def main(args):
             obsidian_link
         )
 
+    if args.reading_list:
+        reading_list = ""
+        bullets = set()
+        for path in material_paths:
+            obsidian_link_wo_ext = ".".join(obsidian_link_by_path[path].split(".")[:-1])
+            starting_path = re.sub(".*?Scriptures/", "", obsidian_link_wo_ext)
+            for i, part in enumerate(starting_path.split("/")):
+                indent = "    "*i
+                bullet = indent + "- [ ] " + part + "\n"
+                if bullet not in bullets:
+                    bullets.add(bullet)
+                    reading_list += bullet
+        with open(os.path.join(args.output_dir, "Reading List.md"), "w+") as f:
+            f.write(reading_list)
+
+
 
 def create_parser():
     parser = argparse.ArgumentParser()
     parser.add_argument("-o", "--output-dir", default="output")
     parser.add_argument("--rel-links", action='store_true', default=False)
     parser.add_argument("--link-type", choices=('wikilinks', 'markdown'), default='wikilinks')
+    parser.add_argument("--reading-list", action='store_true', default=False)
     return parser
 
 
