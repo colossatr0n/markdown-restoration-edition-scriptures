@@ -38,6 +38,18 @@ Relative paths in links can be specified with `--rel-links`, otherwise short pat
 
 The link type can be specified with `--link-type` with either `wikilinks` or `markdown`. The default is `wikilinks`.
 
+A reading list can be output with `--reading-list`, which will look like the following:
+```markdown
+- [ ] Old Covenants
+    - [ ] Old Covenants
+    - [ ] Foreword
+    - [ ] Canonization
+    - [ ] Preface
+    - [ ] Genesis
+        - [ ] Genesis 1
+        ...
+```
+
 
 ## Output Description
 <img src="resources/assets/file-structure-example-1.png" width="450">
