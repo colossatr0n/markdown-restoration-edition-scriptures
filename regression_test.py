@@ -16,8 +16,8 @@ class RegressionTest(unittest.TestCase):
     OUTPUT_DIR = 'output'
     output_args = ['-o', REGRESSION_DIR]
     args_lists = [
-        ['--rel-links', '--link-type', 'wikilinks', output_args[0], output_args[1] + "/wiki-links-relative"],
-        ['--link-type', 'wikilinks', output_args[0], output_args[1] + "/wiki-links-short"],
+        ['--rel-links', '--link-type', 'wikilinks', output_args[0], output_args[1] + "/wikilinks-relative"],
+        ['--link-type', 'wikilinks', output_args[0], output_args[1] + "/wikilinks-short"],
         ['--rel-links', '--link-type', 'markdown', output_args[0], output_args[1] + "/markdown-links-relative"],
         ['--link-type', 'markdown', output_args[0], output_args[1] + "/markdown-links-short"],
     ]
@@ -30,13 +30,13 @@ class RegressionTest(unittest.TestCase):
         for args in RegressionTest.args_lists:
             main(parse_args(args))
 
-        cls.original_wiki_links_short = sorted(glob.glob(RegressionTest.OUTPUT_DIR + "/wiki-links-short/Scriptures/**", recursive=True))
-        cls.original_wiki_links_relative = sorted(glob.glob(RegressionTest.OUTPUT_DIR + "/wiki-links-relative/Scriptures/**", recursive=True))
+        cls.original_wiki_links_short = sorted(glob.glob(RegressionTest.OUTPUT_DIR + "/wikilinks-short/Scriptures/**", recursive=True))
+        cls.original_wiki_links_relative = sorted(glob.glob(RegressionTest.OUTPUT_DIR + "/wikilinks-relative/Scriptures/**", recursive=True))
         cls.original_md_links_short = sorted(glob.glob(RegressionTest.OUTPUT_DIR + "/markdown-links-short/Scriptures/**", recursive=True))
         cls.original_md_links_relative = sorted(glob.glob(RegressionTest.OUTPUT_DIR + "/markdown-links-relative/Scriptures/**", recursive=True))
 
-        cls.new_wiki_links_short = sorted(glob.glob(RegressionTest.REGRESSION_DIR + "/wiki-links-short/Scriptures/**", recursive=True))
-        cls.new_wiki_links_relative = sorted(glob.glob(RegressionTest.REGRESSION_DIR + "/wiki-links-relative/Scriptures/**", recursive=True))
+        cls.new_wiki_links_short = sorted(glob.glob(RegressionTest.REGRESSION_DIR + "/wikilinks-short/Scriptures/**", recursive=True))
+        cls.new_wiki_links_relative = sorted(glob.glob(RegressionTest.REGRESSION_DIR + "/wikilinks-relative/Scriptures/**", recursive=True))
         cls.new_md_links_short = sorted(glob.glob(RegressionTest.REGRESSION_DIR + "/markdown-links-short/Scriptures/**", recursive=True))
         cls.new_md_links_relative = sorted(glob.glob(RegressionTest.REGRESSION_DIR + "/markdown-links-relative/Scriptures/**", recursive=True))
         cls.maxDiff = None
