@@ -11,6 +11,9 @@ import unittest
 from obsidian_re_scriptures import main, parse_args
 
 
+# TODO Section 74 has strange formatting with the italics. It's also indented, but the source material is also indented.
+# Also the line break <br> isn't being added as a break. This results in "Answers:" being on the same line as the question.
+# TODO Section 154 is a little wonky. Strange line breaks in intro. Extra newline under each verse number.
 class RegressionTest(unittest.TestCase):
     REGRESSION_DIR = 'resources/test/regression'
     OUTPUT_DIR = 'output'
