@@ -13,7 +13,6 @@ It supports the following link outputs:
 
 The project contains a preloaded cache of the HTML files and their corresponding Markdown files, so it isn't necessary to run the program to obtain the generated Markdown. The cache is up to date with [Text V1.383 - 2023.08.30](https://scriptures.info/scriptures/changetracking)
 
-I'm satisfied enough with the generated output to make this project public. I'll update the codebase as I discover issues or bugs with the Markdown.
 
 ## Getting Started
 To download the Markdown files, download the appropriate Markdown zip file from [Releases](https://github.com/colossatr0n/markdown-restoration-edition-scriptures/releases). 
